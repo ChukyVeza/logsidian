@@ -3,4 +3,4 @@
 ---
 
 
-Esta es la nota de presentación
+Acá publico mis notas de Obsidian.
