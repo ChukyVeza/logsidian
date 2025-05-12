@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Marcelo_Veza/Home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Marcelo_Veza/Home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 ### Tareas Pendientes
