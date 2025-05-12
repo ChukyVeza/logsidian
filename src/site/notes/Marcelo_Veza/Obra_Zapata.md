@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Marcelo_Veza/Obra_Zapata/"}
 ---
 
 

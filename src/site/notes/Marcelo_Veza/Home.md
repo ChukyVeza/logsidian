@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/marcelo-veza/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Marcelo_Veza/Home/","tags":["gardenEntry"]}
 ---
 
-
-Acá publico mis notas de Obsidian.
+### Tareas Pendientes
+Notas sobre tareas pendientes para compartir de las obras vigentes
