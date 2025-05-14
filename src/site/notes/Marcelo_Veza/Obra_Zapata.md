@@ -35,7 +35,7 @@
 # [[Registro/Diario/2025-04/2025-04-29 Tuesday (18)\|2025-04-29 Tuesday (18)]]
 
     - [ ] #Obras/Zapata
-        - [ ] [[@Erwin_Aspiazu\|@Erwin_Aspiazu]] verificará en obra las estructuras de cielo falso, para colocar rejillas de A/C ⏳ 2025-04-29
+        - [x] [[@Erwin_Aspiazu\|@Erwin_Aspiazu]] verificará en obra las estructuras de cielo falso, para colocar rejillas de A/C ⏳ 2025-04-29 ✅ 2025-05-30
         - [ ] Pasar detalle de Rejillas [[@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Baño aprobado [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Detalle de puertas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]

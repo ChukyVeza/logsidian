@@ -19,5 +19,6 @@ Theme
 	- Christmas
 	- Dark Castle
 	- Dawn
+	- Dayspring
+	- *Deeper work*
 	- 
-	- Deeper work
