@@ -5,7 +5,7 @@
 ### Tareas Pendientes
 Notas sobre tareas pendientes para compartir de las obras vigentes
 
-Theme (Fondo, Titulo, Etiqueta, cuerpo, **|**, *|*,)
+Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,)
 	- Abecedarium
 	- AbsoluteGruv
 	- Adwaita
@@ -31,7 +31,10 @@ Theme (Fondo, Titulo, Etiqueta, cuerpo, **|**, *|*,)
 	- *Dune* (Gris, Morado, Blanco, Blanco, Blanco)
 	- *Dinamic Color* (Negro, Morado, Azul, Blanco, Blanco, Blanco)
 	- *Ebulientworks* (Gris, Blanco, Fucsia, Blanco, Celeste, Fucsia)
-	- **Elegance** ()
+	- *Emerald* (Gris, Morado, Celeste, Blanco, Blanco, Blanco) Letra Century Gothic
+	- **Emerald Echo** (Negro, Verde, Verde, Blanco, Verde Claro, Amarillo)
+	- 
+	- 
 	- 
 	- 
 
