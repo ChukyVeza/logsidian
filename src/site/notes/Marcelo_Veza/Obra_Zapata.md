@@ -27,7 +27,7 @@
             - [ ] Espera drenaje hidrosanitario [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
             - [ ] Faltan Bajantes Sanitarias [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
             - [ ] Perforación de pases [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-                - [ ] Autorización de servicio [[@Sofía_Zapata\|@Sofía_Zapata]]
+                - [ ] Autorización de servicio [[@Sofía_Zapata\|@Sofía_Zapata]] *No se perfora - Se cambiará posición de artefactos*
         - [ ] Cierre de Shaft en Cocina [[@Adilson_Pérez\|@Adilson_Pérez]]
             - [ ] V°B° de [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] a la nueva posición de los muros
         - [x] Plano sala de bombas [[@Erika_Martinez\|@Erika_Martinez]] ✅ 2025-04-28
