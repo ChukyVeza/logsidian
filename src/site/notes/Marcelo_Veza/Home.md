@@ -37,7 +37,7 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *GitHub Theme* (Gris, Azul, Azul, Blanco, Blanco, Blanco) 
 	- *GitHub DHC* (Gris, Azul, Azul, Blanco, Blanco, Blanco)
 	- *Glass Robo* (Gris punteado, Verde, Verde, Blanco, Verde, Blanco)
-	- **Heboric** 
+	- **iceberg** 
 	- 
 	- 
 
