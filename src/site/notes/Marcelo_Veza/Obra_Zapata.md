@@ -26,10 +26,10 @@
         - [ ] Contrapiso pasillo técnico
             - [ ] Espera drenaje hidrosanitario [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
             - [ ] Faltan Bajantes Sanitarias [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-            - [ ] Perforación de pases [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-                - [ ] Autorización de servicio [[@Sofía_Zapata\|@Sofía_Zapata]] *No se perfora - Se cambiará posición de artefactos*
-        - [ ] Cierre de Shaft en Cocina [[@Adilson_Pérez\|@Adilson_Pérez]]
-            - [ ] V°B° de [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] a la nueva posición de los muros
+            - [x] Perforación de pases [[@Alejandro_Mendieta\|@Alejandro_Mendieta]] ✅ 2025-05-07
+                - [x] Autorización de servicio [[@Sofía_Zapata\|@Sofía_Zapata]] *No se perfora - Se cambiará posición de artefactos* ✅ 2025-05-07
+        - [ ] Cierre de Shaft en Cocina [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+            - [x] V°B° de [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] a la nueva posición de los muros ✅ 2025-05-07
         - [x] Plano sala de bombas [[@Erika_Martinez\|@Erika_Martinez]] ✅ 2025-04-28
         - [x] Pasar planos a [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-04-28
 # [[Registro/Diario/2025-04/2025-04-29 Tuesday (18)\|2025-04-29 Tuesday (18)]]
@@ -69,10 +69,6 @@
         - [x] Cronograma de [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] inicio 🛫 2025-05-05 ✅ 2025-05-08
         - [ ] Cordones de piso en roperos medidas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Ladrillos 6H
-# [[Registro/Diario/2025-05/2025-05-06 Tuesday (19)\|2025-05-06 Tuesday (19)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Cielo Falso *pueden entrar en PB*
 # [[Registro/Diario/2025-05/2025-05-07 Wednesday (19)\|2025-05-07 Wednesday (19)]]
 
     - [ ] #Obras/Zapata
@@ -90,11 +86,5 @@
             - [ ] Rellenar drenaje de piscina [[@Adilson_Pérez\|@Adilson_Pérez]]
             - [ ] Verificar nivel de playa para colocar *pantallas iluminación 7 cm* [[@Adilson_Pérez\|@Adilson_Pérez]]
         - [x] Pasar detalle de estructura muro doble altura [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-05-07
-# [[Registro/Diario/2025-05/2025-05-10 Saturday (19)\|2025-05-10 Saturday (19)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Muro de baños planta alta
-        - [ ] Cielo en zona de master
-        - [ ] Volúmen de *H°A° 405.00 m³* [[@Oscar_Rivero\|@Oscar_Rivero]]
 
 { .block-language-dataview}
