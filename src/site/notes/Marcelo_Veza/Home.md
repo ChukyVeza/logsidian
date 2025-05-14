@@ -34,7 +34,11 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *Firefly* (Negro, Morado, Verde, Blanco, Blanco, Blanco)
 	- *Focus* (Gris, Morado, Verde, Gris, Verde, Verde)
 	- *Gastown* (Gris, Azul, Azul, Blanco, Blanco, Blanco)
-	- **GitHub Theme** 
+	- *GitHub Theme* (Gris, Azul, Azul, Blanco, Blanco, Blanco) 
+	- *GitHub DHC* (Gris, Azul, Azul, Blanco, Blanco, Blanco)
+	- **Gitsidian**
+	- 
+	- 
 	- 
 
 
