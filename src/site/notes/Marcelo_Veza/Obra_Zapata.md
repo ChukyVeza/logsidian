@@ -4,6 +4,14 @@
 
 
 
+# [[Registro/Diario/2025-04/2025-04-04 Friday (14)\|2025-04-04 Friday (14)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Pago de servicio plegado y planchado de Monterrey
+        - [ ] Precio de Alambre y Clavos
+        - [x] Cotizar Hormigón ✅ 2025-04-04
+        - [x] Cotizar Acero corrugado ✅ 2025-04-04
+        - [ ] Cronograma de obra (look ahead)
 # [[Registro/Diario/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
 
     - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-17\|2025-17]]
@@ -20,6 +28,7 @@
     - [ ] #Obras/Zapata
         - [ ] Modificar tragaluz de servicio, ya están los revoques hechos
         - [ ] Muro inodoro baño visitas
+        - [ ] Detalles de niveles en piso
 # [[Registro/Diario/2025-04/2025-04-28 Monday (18)\|2025-04-28 Monday (18)]]
 
     - [ ] #Obras/Zapata

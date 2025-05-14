@@ -32,8 +32,8 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *Emerald* (Gris, Morado, Celeste, Blanco, Blanco, Blanco) Letra Century Gothic
 	- *Emerald Echo* (Negro, Verde, Verde, Blanco, Verde Claro, Amarillo)
 	- *Firefly* (Negro, Morado, Verde, Blanco, Blanco, Blanco)
-	- **Flexcyon**
-	- 
+	- *Focus* (Gris, Morado, Verde, Gris, Verde, Verde)
+	- **Gastown**
 	- 
 
 
