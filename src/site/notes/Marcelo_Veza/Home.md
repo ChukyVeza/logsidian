@@ -5,7 +5,7 @@
 ### Tareas Pendientes
 Notas sobre tareas pendientes para compartir de las obras vigentes
 
-Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,)
+Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
 	- Abecedarium
 	- AbsoluteGruv
 	- Adwaita
@@ -32,8 +32,8 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,)
 	- *Dinamic Color* (Negro, Morado, Azul, Blanco, Blanco, Blanco)
 	- *Ebulientworks* (Gris, Blanco, Fucsia, Blanco, Celeste, Fucsia)
 	- *Emerald* (Gris, Morado, Celeste, Blanco, Blanco, Blanco) Letra Century Gothic
-	- **Emerald Echo** (Negro, Verde, Verde, Blanco, Verde Claro, Amarillo)
-	- 
+	- *Emerald Echo* (Negro, Verde, Verde, Blanco, Verde Claro, Amarillo)
+	- **Ever Blush** 
 	- 
 	- 
 	- 
