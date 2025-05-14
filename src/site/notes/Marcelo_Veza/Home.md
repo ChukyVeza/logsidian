@@ -6,8 +6,8 @@
 Notas sobre tareas pendientes para compartir de las obras vigentes
 
 Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
-	- Abecedarium
-	- AbsoluteGruv
+	- Abecedarium (Negro, Blanco, Azul, Blanco, Blanco, Blanco) Century Gothic
+	- AbsoluteGruv ()
 	- Adwaita
 	- Aurora
 	- Blackbird
@@ -16,7 +16,6 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- Brainhack
 	- Brutalism
 	- Carpe Noctem
-	- Christmas
 	- Dark Castle
 	- Dawn
 	- Dayspring
@@ -33,7 +32,7 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *Ebulientworks* (Gris, Blanco, Fucsia, Blanco, Celeste, Fucsia)
 	- *Emerald* (Gris, Morado, Celeste, Blanco, Blanco, Blanco) Letra Century Gothic
 	- *Emerald Echo* (Negro, Verde, Verde, Blanco, Verde Claro, Amarillo)
-	- **Ever Blush** 
+	- **Everforest** 
 	- 
 	- 
 	- 
