@@ -33,7 +33,8 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *Emerald Echo* (Negro, Verde, Verde, Blanco, Verde Claro, Amarillo)
 	- *Firefly* (Negro, Morado, Verde, Blanco, Blanco, Blanco)
 	- *Focus* (Gris, Morado, Verde, Gris, Verde, Verde)
-	- **Gastown**
+	- *Gastown* (Gris, Azul, Azul, Blanco, Blanco, Blanco)
+	- **GitHub Theme** 
 	- 
 
 
