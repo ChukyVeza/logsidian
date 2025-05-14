@@ -56,12 +56,17 @@
         - [ ] Definir cambios en puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Detalle de borde losa-vidrio-piso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Cronograma [[VidrAlum\|VidrAlum]]
-# [[Registro/Diario/2025-04/2025-05-04 Sunday (18)\|2025-05-04 Sunday (18)]]
+# [[Registro/Diario/2025-05-13 Tuesday (20)\|2025-05-13 Tuesday (20)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Revestimiento de Tumpar ⏳ 2025-05-15 (@[[2025-05-15 Thursday (20)\|2025-05-15 Thursday (20)]])
+        - [ ] Detalle de cielo falso en muro y ventana
+# [[Registro/Diario/2025-05/2025-05-04 Sunday (18)\|2025-05-04 Sunday (18)]]
 
     - [ ] #Obras/Zapata
         - [x] Lista del personal [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] para el ingreso ✅ 2025-05-05
         - [x] Pedir viaje de arena fina a [[@Wilson_Nuñez\|@Wilson_Nuñez]] ✅ 2025-05-05
-# [[Registro/Diario/2025-04/2025-05-05 Monday (19)\|2025-05-05 Monday (19)]]
+# [[Registro/Diario/2025-05/2025-05-05 Monday (19)\|2025-05-05 Monday (19)]]
 
     - [ ] #Obras/Zapata
         - [x] Pedir arenilla [[@Wilson_Nuñez\|@Wilson_Nuñez]] ⏳ 2025-05-06 ✅ 2025-05-06
@@ -73,11 +78,11 @@
         - [x] Cronograma de [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] inicio 🛫 2025-05-05 ✅ 2025-05-08
         - [ ] Cordones de piso en roperos medidas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Ladrillos 6H
-# [[Registro/Diario/2025-04/2025-05-06 Tuesday (19)\|2025-05-06 Tuesday (19)]]
+# [[Registro/Diario/2025-05/2025-05-06 Tuesday (19)\|2025-05-06 Tuesday (19)]]
 
     - [ ] #Obras/Zapata
         - [ ] Cielo Falso *pueden entrar en PB*
-# [[Registro/Diario/2025-04/2025-05-07 Wednesday (19)\|2025-05-07 Wednesday (19)]]
+# [[Registro/Diario/2025-05/2025-05-07 Wednesday (19)\|2025-05-07 Wednesday (19)]]
 
     - [ ] #Obras/Zapata
         - [ ] Observaciones Arquitectura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
@@ -94,13 +99,7 @@
             - [ ] Rellenar drenaje de piscina [[@Adilson_Pérez\|@Adilson_Pérez]]
             - [ ] Verificar nivel de playa para colocar *pantallas iluminación 7 cm* [[@Adilson_Pérez\|@Adilson_Pérez]]
         - [x] Pasar detalle de estructura muro doble altura [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-05-07
-# [[Registro/Diario/2025-05-10 Saturday (19) (conflict 2025-05-10-18-04-13)\|2025-05-10 Saturday (19) (conflict 2025-05-10-18-04-13)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Puerta de baños en planta alta
-        - [ ] Cielo en zona de master
-        - [ ] Volúmen de H°A°
-# [[Registro/Diario/2025-05-10 Saturday (19)\|2025-05-10 Saturday (19)]]
+# [[Registro/Diario/2025-05/2025-05-10 Saturday (19)\|2025-05-10 Saturday (19)]]
 
     - [ ] #Obras/Zapata
         - [ ] Muro de baños planta alta
