@@ -5,7 +5,7 @@
 ### Tareas Pendientes
 Notas sobre tareas pendientes para compartir de las obras vigentes
 
-Theme
+Theme (titulo, links, cuerpo, **|**, *|*,)
 	- Abecedarium
 	- AbsoluteGruv
 	- Adwaita
@@ -20,5 +20,15 @@ Theme
 	- Dark Castle
 	- Dawn
 	- Dayspring
-	- *Deeper work*
+	- *Deeper work* (azul, verde, blanco, amarillo)
+	- *Discordian*
+	- *Drácula+lyt*
+	- *Drácula for obsidian*
+	- *Drácula Gemini*
+	- *Drácula oficial* (verde, blanco amarillo)
+	- *Drácula Plus* (dorado, celeste, blanco, amarillo, )
+	- *Drácula Slim* (morado, blanco)
+	- **Dune** (Gris, Morado, Blanco, Blanco, Blanco)
 	- 
+
+
