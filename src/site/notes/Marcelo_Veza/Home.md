@@ -36,8 +36,8 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *Gastown* (Gris, Azul, Azul, Blanco, Blanco, Blanco)
 	- *GitHub Theme* (Gris, Azul, Azul, Blanco, Blanco, Blanco) 
 	- *GitHub DHC* (Gris, Azul, Azul, Blanco, Blanco, Blanco)
-	- **Gitsidian**
-	- 
+	- *Glass Robo* (Gris punteado, Verde, Verde, Blanco, Verde, Blanco)
+	- **Heboric** 
 	- 
 	- 
 
