@@ -59,7 +59,7 @@
 # [[Registro/Diario/2025-05-13 Tuesday (20)\|2025-05-13 Tuesday (20)]]
 
     - [ ] #Obras/Zapata
-        - [ ] Revestimiento de Tumpar ⏳ 2025-05-15 (@[[2025-05-15 Thursday (20)\|2025-05-15 Thursday (20)]])
+        - [ ] Revestimiento de Tumpar ⏳ 2025-05-15 (@[[2025-05-15 Thursday (20)\|2025-05-15 Thursday (20)]] 10:00)]] 10:00)]] 10:00)]] 10:00)]] 07:00)]])
         - [ ] Detalle de cielo falso en muro y ventana
 # [[Registro/Diario/2025-05/2025-05-04 Sunday (18)\|2025-05-04 Sunday (18)]]
 
