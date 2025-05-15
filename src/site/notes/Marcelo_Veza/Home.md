@@ -27,18 +27,13 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *Drácula Plus* (dorado, celeste, blanco, amarillo, )
 	- *Drácula Slim* (morado, blanco)
 	- *Dune* (Gris, Morado, Blanco, Blanco, Blanco)
-	- *Dinamic Color* (Negro, Morado, Azul, Blanco, Blanco, Blanco)
 	- *Ebulientworks* (Gris, Blanco, Fucsia, Blanco, Celeste, Fucsia)
 	- *Emerald* (Gris, Morado, Celeste, Blanco, Blanco, Blanco) Letra Century Gothic
 	- *Emerald Echo* (Negro, Verde, Verde, Blanco, Verde Claro, Amarillo)
 	- *Firefly* (Negro, Morado, Verde, Blanco, Blanco, Blanco)
 	- *Focus* (Gris, Morado, Verde, Gris, Verde, Verde)
-	- *Gastown* (Gris, Azul, Azul, Blanco, Blanco, Blanco)
-	- *GitHub Theme* (Gris, Azul, Azul, Blanco, Blanco, Blanco) 
-	- *GitHub DHC* (Gris, Azul, Azul, Blanco, Blanco, Blanco)
 	- *Glass Robo* (Gris punteado, Verde, Verde, Blanco, Verde, Blanco)
 	- *aproved potato* (Gris, Azul, Azul, Blanco, Fucsia, Fucsia)
 	- *lorens* (Gris, Verde, Verde, Blanco, Salmón, Amarillo) ok
-	- luminaced
-
+	- *LYT mode* (Gris, Fucsia, Verde, Blanco, Amarillo, Morado) 
 
