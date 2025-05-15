@@ -7,9 +7,6 @@ Notas sobre tareas pendientes para compartir de las obras vigentes
 
 Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
 	- Abecedarium (Negro, Blanco, Azul, Blanco, Blanco, Blanco) Century Gothic
-	- Adwaita
-	- Aurora
-	- Blackbird
 	- Bolt
 	- Border
 	- Brainhack
@@ -36,4 +33,6 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *aproved potato* (Gris, Azul, Azul, Blanco, Fucsia, Fucsia)
 	- *lorens* (Gris, Verde, Verde, Blanco, Salmón, Amarillo) ok
 	- *LYT mode* (Gris, Fucsia, Verde, Blanco, Amarillo, Morado) 
+	- **maple**
+	- 
 
