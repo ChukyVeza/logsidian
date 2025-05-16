@@ -31,6 +31,6 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *aproved potato* (Gris, Azul, Azul, Blanco, Fucsia, Fucsia)
 	- *lorens* (Gris, Verde, Verde, Blanco, Salmón, Amarillo) ok
 	- *LYT mode* (Gris, Fucsia, Verde, Blanco, Amarillo, Morado) 
-	- **micro mike**
-	- 
+	- *Modern Dark* (Gris, Azul, Azul, Blanco, Verde, Amarillo) Azul
+	- neuborder
 
