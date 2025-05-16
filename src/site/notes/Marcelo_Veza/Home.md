@@ -6,7 +6,7 @@
 Notas sobre tareas pendientes para compartir de las obras vigentes
 
 Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
-	- Abecedarium (Negro, Blanco, Azul, Blanco, Blanco, Blanco) Century Gothic
+	- Abecedarium (Negro, Blanco, Azul, Blanco, Blanco, Blanco) Century Gothic **??**
 	- Border (Gris, Gris, Gris, Blanco, Salmón, Amarillo) Gris
 	- Brutalism
 	- Carpe Noctem
