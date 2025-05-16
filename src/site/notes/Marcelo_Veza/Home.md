@@ -32,5 +32,5 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *lorens* (Gris, Verde, Verde, Blanco, Salmón, Amarillo) ok
 	- *LYT mode* (Gris, Fucsia, Verde, Blanco, Amarillo, Morado) 
 	- *Modern Dark* (Gris, Azul, Azul, Blanco, Verde, Amarillo) Azul
-	- neuborder
+	- *Obsidian Nord* (Gris, Café, Verde, Blanco, Amarillo, Amarillo) Café
 
