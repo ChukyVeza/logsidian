@@ -33,5 +33,5 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *Modern Dark* (Gris, Azul, Azul, Blanco, Verde, Amarillo) Azul
 	- *Obsidian Nord* (Gris, Café, Verde, Blanco, Amarillo, Amarillo) Café
 	- *One Nice* (Gris, Celeste, Fucsia, Blanco, Verde, Salmon) Celeste
-	- **parfait**
+	- ***Penumbra* (Gris, Celeste, Amarillo, Blanco, Blanco, Blanco) Celeste**
 
