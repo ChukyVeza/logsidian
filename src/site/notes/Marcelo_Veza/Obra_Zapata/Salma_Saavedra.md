@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/salma-saavedra/","noteIcon":""}
 ---
 
-### [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+## [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 # [[Registro/Diario/2025/2025-04/2025-04-29 Tuesday (18)\|2025-04-29 Tuesday (18)]]
 

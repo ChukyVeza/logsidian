@@ -23,7 +23,7 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *Dune* (Gris, Morado, Blanco, Blanco, Blanco)
 	- *Ebulientworks* (Gris, Blanco, Fucsia, Blanco, Celeste, Fucsia)
 	- *Emerald* (Gris, Morado, Celeste, Blanco, Blanco, Blanco) Letra Century Gothic
-	- ***Emerald Echo* (Negro, Verde, Verde, Blanco, Esmeralda, Amarillo)**
+	- ***Emerald Echo* (Negro, Verde, Verde, Blanco, Esmeralda, Amarillo) verde**
 	- *Firefly* (Negro, Morado, Verde, Blanco, Blanco, Blanco)
 	- *Focus* (Gris, Morado, Verde, Gris, Verde, Verde)
 	- *Glass Robo* (Gris punteado, Verde, Verde, Blanco, Verde, Blanco)
