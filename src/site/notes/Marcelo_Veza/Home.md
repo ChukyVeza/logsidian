@@ -27,11 +27,14 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- *Firefly* (Negro, Morado, Verde, Blanco, Blanco, Blanco)
 	- *Focus* (Gris, Morado, Verde, Gris, Verde, Verde)
 	- *Glass Robo* (Gris punteado, Verde, Verde, Blanco, Verde, Blanco)
-	- *aproved potato* (Gris, Azul, Azul, Blanco, Fucsia, Fucsia)
-	- *lorens* (Gris, Verde, Verde, Blanco, Salmón, Amarillo) ok
+	- *aproved potato* (Gris, <font color="#1f497d">Azul</font>, Azul, Blanco, <font color="#d99694">Fucsia</font>, Fucsia)
+	- *lorens* (Gris, Verde, Verde, Blanco, Salmón, <font color="#ffff00">Amarillo</font>) ok
 	- *LYT mode* (Gris, Fucsia, Verde, Blanco, Amarillo, Morado) 
 	- *Modern Dark* (Gris, Azul, Azul, Blanco, Verde, Amarillo) Azul
 	- *Obsidian Nord* (Gris, Café, Verde, Blanco, Amarillo, Amarillo) Café
 	- *One Nice* (Gris, Celeste, Fucsia, Blanco, Verde, Salmon) Celeste
 	- ***Penumbra* (Gris, Celeste, Amarillo, Blanco, Blanco, Blanco) Celeste**
+	- ***Primari* (Café medio, Café claro, Celeste, Blanco, Salmón, Celeste) Café claro**
+	- Qlean (Escala de grises)
+	- Seamless view (Gris, Verde, Verde, Blanco, Salmón, Amarillo) Verde
 
