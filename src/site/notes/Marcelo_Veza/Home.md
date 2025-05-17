@@ -37,4 +37,6 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- ***Primari* (Café medio, Café claro, Celeste, Blanco, Salmón, Celeste) Café claro**
 	- Qlean (Escala de grises)
 	- Seamless view (Gris, Verde, Verde, Blanco, Salmón, Amarillo) Verde
+	- Simply Colorful (Gris, Rosado, Morado, Blanco, Turquesa, Verde)
+	- spectrum blue (Gris, Turquesa, morado, blanco, verde, turquesa)
 
