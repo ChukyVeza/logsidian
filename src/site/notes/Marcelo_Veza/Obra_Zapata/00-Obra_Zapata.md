@@ -4,14 +4,6 @@
 
 ### Tareas Pendientes
 
-# [[Registro/Diario/2025/2025-04/2025-04-04 Friday (14)\|2025-04-04 Friday (14)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Pago de servicio plegado y planchado de Monterrey
-        - [ ] Precio de Alambre y Clavos
-        - [x] Cotizar Hormigón ✅ 2025-04-04
-        - [x] Cotizar Acero corrugado ✅ 2025-04-04
-        - [ ] Cronograma de obra (look ahead)
 # [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
 
     - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-17\|2025-17]]
@@ -19,16 +11,18 @@
             - [x] Se solicita ambos {Evaporador/monofásico - Condensador/trifasico} [[@Erwin_Aspiazu\|@Erwin_Aspiazu]] ✅ 2025-04-25
         - [ ] Ubicación medidor de agua [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
         - [ ] Rejillas lineales (muestra) [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-        - [ ] Rejillas de gas ubicación (lavandería, cocina y sala bombas) [[@Erika_Martinez\|@Erika_Martinez]]
+        - [ ] Rejillas de gas ubicación [[@Erika_Martinez\|@Erika_Martinez]]
+            - [ ] Lavanderia
+            - [ ] Cocina
+            - [ ] Sala de bombas
         - [ ] Ubicación controles de piscina [[@Melissa_Barba\|@Melissa_Barba]]
         - [ ] Cambia replanteo de muros en subsuelo [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-        - [ ] Mesones (Proveedor ??)
+        - [ ] Mesones (Proveedor ??) [[@Sofía_Zapata\|@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-04/2025-04-26 Saturday (17)\|2025-04-26 Saturday (17)]]
 
     - [ ] #Obras/Zapata
         - [ ] Modificar tragaluz de servicio, ya están los revoques hechos
         - [ ] Muro inodoro baño visitas
-        - [ ] Detalles de niveles en piso
 # [[Registro/Diario/2025/2025-04/2025-04-28 Monday (18)\|2025-04-28 Monday (18)]]
 
     - [ ] #Obras/Zapata
@@ -99,5 +93,18 @@
         - [ ] Muestra de dintel en puerta [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Pase eléctrico para audio [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
             - [ ] Ver opciones [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+# [[Registro/Diario/2025/2025-05/2025-05-17 Saturday (20)\|2025-05-17 Saturday (20)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Material eléctrico [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] Aterramiento en garaje [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] Detalle de cocina [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]/[[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+            - [ ] Medida zócalo
+            - [ ] Espesor de mesón
+            - [ ] Altura mesón
+        - [ ] Planilla P1 [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]/[[@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Plano de gas actualizado [[@Erika_Martinez\|@Erika_Martinez]]
+        - [ ] Asientos de Fogatero HoAo [[@Adilson_Pérez\|@Adilson_Pérez]]
+        - [ ] 
 
 { .block-language-dataview}
