@@ -6,9 +6,9 @@
 
 # [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
 
-    - [ ] Cambia replanteo de muros en subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] Cambia replanteo de muros en subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] ![Adjuntos/Pasted image 20250518225151.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250518225151.png)
         - [ ] Modificar instalación hidrosanitaria[[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-        - [ ] Levantar muro [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ![Adjuntos/Pasted image 20250518225151.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250518225151.png)
+        - [ ] Levantar muro [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-04/2025-04-29 Tuesday (18)\|2025-04-29 Tuesday (18)]]
 
     - [ ] Baño aprobado [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]

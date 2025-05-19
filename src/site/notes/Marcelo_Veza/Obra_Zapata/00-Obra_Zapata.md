@@ -18,9 +18,9 @@
             - [ ] Sala de bombas
         - [ ] Ubicación controles de piscina [[@Melissa_Barba\|@Melissa_Barba]]
             - [x] *En zona de churrasquera* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-05-15
-        - [ ] Cambia replanteo de muros en subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+        - [ ] Cambia replanteo de muros en subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] ![Adjuntos/Pasted image 20250518225151.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250518225151.png)
             - [ ] Modificar instalación hidrosanitaria[[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-            - [ ] Levantar muro [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ![Adjuntos/Pasted image 20250518225151.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250518225151.png)
+            - [ ] Levantar muro [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Mesones (Proveedor ??) [[@Sofía_Zapata\|@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-04/2025-04-26 Saturday (17)\|2025-04-26 Saturday (17)]]
 
