@@ -4,6 +4,9 @@
 
 ## [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
 
+# [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
+
+    - [ ] *En zona de churrasquera* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
 # [[Registro/Diario/2025/2025-04/2025-04-28 Monday (18)\|2025-04-28 Monday (18)]]
 
     - [ ] Espera drenaje hidrosanitario [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]

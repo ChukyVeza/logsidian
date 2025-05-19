@@ -10,13 +10,15 @@
         - [x] Es necesario punto monofásico en las centrales A/C además del trifásico? [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-04-24
             - [x] Se solicita ambos {Evaporador/monofásico - Condensador/trifasico} [[@Erwin_Aspiazu\|@Erwin_Aspiazu]] ✅ 2025-04-25
         - [ ] Ubicación medidor de agua [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
+            - [ ] *Se mantiene donde está* [[@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Rejillas lineales (muestra) [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
         - [ ] Rejillas de gas ubicación [[@Erika_Martinez\|@Erika_Martinez]]
             - [ ] Lavanderia
             - [ ] Cocina
             - [ ] Sala de bombas
         - [ ] Ubicación controles de piscina [[@Melissa_Barba\|@Melissa_Barba]]
-        - [ ] Cambia replanteo de muros en subsuelo [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
+            - [ ] *En zona de churrasquera* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] Cambia replanteo de muros en subsuelo [[@Alejandro_Mendieta\|@Alejandro_Mendieta]] ![Adjuntos/Pasted image 20250518225151.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250518225151.png)
         - [ ] Mesones (Proveedor ??) [[@Sofía_Zapata\|@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-04/2025-04-26 Saturday (17)\|2025-04-26 Saturday (17)]]
 

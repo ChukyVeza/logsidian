@@ -38,3 +38,10 @@ Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contr
 	- Seamless view (Gris, Verde, Verde, Blanco, Salmón, Amarillo) Verde
 	- Simply Colorful (Gris, Rosado, Morado, Blanco, Turquesa, Verde)
 	- spectrum blue (Gris, Turquesa, morado, blanco, verde, turquesa)
+	- ***Things* (Gris, Azul, Verde, Blanco, Fucsia, Fucsia) Azul**
+	- ***Trace Labs* (Gris, Turquesa, Turquesa, Blanco, Fucsia, Amarillo) Turquesa**
+	- ***Underwater* (Gris, Gris, Turquesa, Blanco, Fucsia, Amarillo) Turquesa**
+	- ***Violet evening* (Violeta, Violeta, Violeta, Blanco, Verde, Turquesa) Turquesa**
+	- ***Vortex* (Negro, Blanco, Purpura, Blanco, Mixto, Púrpura) Blanco**
+	- ***Zen* (Gris, Turquesa, Morado, Blanco, Morado, Blanco) Morado
+
