@@ -9,8 +9,8 @@
     - [ ] *Levantar muro en ducha - baño subsuelo* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-04/2025-04-26 Saturday (17)\|2025-04-26 Saturday (17)]]
 
-    - [ ] Modificar tragaluz de servicio, ya están los revoques hechos [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-    - [ ] Muro inodoro baño visitas [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]/[[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Modificar tragaluz de servicio, *ya está hecho el revoque interior [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Levantar muro para inodoro [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-04/2025-04-28 Monday (18)\|2025-04-28 Monday (18)]]
 
     - [ ] Cierre de Shaft en Cocina [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
