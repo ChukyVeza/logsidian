@@ -6,7 +6,6 @@
 
 # [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
 
-    - [ ] *Se mantiene donde está* [[@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Mesones (Proveedor ??) [[@Sofía_Zapata\|@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-05/2025-05-17 Saturday (20)\|2025-05-17 Saturday (20)]]
 
