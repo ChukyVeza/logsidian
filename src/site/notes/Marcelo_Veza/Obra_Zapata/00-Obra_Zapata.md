@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/00-obra-zapata/","noteIcon":""}
 ---
 
-## Tareas Pendientes
+# Tareas Pendientes
 
 # [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
 
