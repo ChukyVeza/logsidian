@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/00-sofia-zapata/","noteIcon":""}
+{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/00-sofia-zapata/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## [[@Sofía_Zapata\|@Sofía_Zapata]]

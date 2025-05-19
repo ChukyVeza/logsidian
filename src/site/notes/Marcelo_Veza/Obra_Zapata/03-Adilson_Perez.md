@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/03-adilson-perez/","noteIcon":""}
+{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/03-adilson-perez/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## [[@Adilson_Pérez\|@Adilson_Pérez]]

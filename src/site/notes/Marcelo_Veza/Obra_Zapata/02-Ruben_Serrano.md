@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/02-ruben-serrano/","noteIcon":""}
+{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/02-ruben-serrano/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 
 # [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
 
-    - [ ] Levantar muro [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] *Levantar muro en ducha - baño subsuelo* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-04/2025-04-26 Saturday (17)\|2025-04-26 Saturday (17)]]
 
     - [ ] Modificar tragaluz de servicio, ya están los revoques hechos [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]

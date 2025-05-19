@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/05-dieter-reyes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/05-dieter-reyes/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]

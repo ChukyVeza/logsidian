@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/marcelo-veza/perfiles/","noteIcon":""}
+{"dg-publish":true,"permalink":"/marcelo-veza/perfiles/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Título

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/06-melissa-barba/","noteIcon":""}
+{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/06-melissa-barba/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## [[@Melissa_Barba\|@Melissa_Barba]]
