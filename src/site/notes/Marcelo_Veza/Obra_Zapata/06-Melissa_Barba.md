@@ -16,5 +16,19 @@
             - ![[../2025-04/Adjuntos/Pasted image 20250507192301.png\|../2025-04/Adjuntos/Pasted image 20250507192301.png]]
         - [ ] Rellenar drenaje de piscina [[@Adilson_Pérez\|@Adilson_Pérez]]
         - [ ] Verificar nivel de playa para colocar *pantallas iluminación 7 cm* [[@Adilson_Pérez\|@Adilson_Pérez]]
+# [[Registro/Diario/2025/2025-05/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
+
+    - [ ] Detalle piscina faltante [[@Melissa_Barba\|@Melissa_Barba]]
+        - [ ] *Retorno de playa* [[@Adilson_Pérez\|@Adilson_Pérez]]
+            - ![Adjuntos/Pasted image 20250519135957.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519135957.png)
+        - [ ] *Punto de iluminación* [[@Adilson_Pérez\|@Adilson_Pérez]]
+            - ![Adjuntos/Pasted image 20250519140031.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140031.png)
+        - [ ] *Desagüe de piscina* [[@Adilson_Pérez\|@Adilson_Pérez]]
+            - ![Adjuntos/Pasted image 20250519140102.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140102.png)
+        - [ ] bajante de balcón
+        - [ ] pendientes en ducha
+        - [ ] detalle de viga
+        - [ ] shaft de dormitorio
+        - [ ] 
 
 { .block-language-dataview}

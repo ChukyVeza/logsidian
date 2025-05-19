@@ -22,5 +22,8 @@
         - [ ] Espesor de mesón
         - [ ] Altura mesón
     - [ ] Planilla P1 [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]/[[@Sofía_Zapata\|@Sofía_Zapata]]
+# [[Registro/Diario/2025/2025-05/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
+
+    - [ ] *Iniciar trabajos en galería* [[@Adilson_Pérez\|@Adilson_Pérez]]/[[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 
 { .block-language-dataview}

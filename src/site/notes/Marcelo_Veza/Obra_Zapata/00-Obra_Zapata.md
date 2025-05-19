@@ -4,20 +4,6 @@
 
 # Tareas Pendientes
 
-# [[Registro/Diario/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Detalle estructural galería [[@Oscar_Rivero\|@Oscar_Rivero]]
-            - ![Adjuntos/Pasted image 20250519133746.png](/img/user/Registro/Diario/Adjuntos/Pasted%20image%2020250519133746.png)
-            - [ ] *Iniciar trabajos en galería* [[@Adilson_Pérez\|@Adilson_Pérez]]/[[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Detalle piscina faltante [[@Melissa_Barba\|@Melissa_Barba]]
-            - [ ] *Retorno de playa* [[@Adilson_Pérez\|@Adilson_Pérez]]
-                - ![Adjuntos/Pasted image 20250519135957.png](/img/user/Registro/Diario/Adjuntos/Pasted%20image%2020250519135957.png)
-            - [ ] *Punto de iluminación* [[@Adilson_Pérez\|@Adilson_Pérez]]
-                - ![Adjuntos/Pasted image 20250519140031.png](/img/user/Registro/Diario/Adjuntos/Pasted%20image%2020250519140031.png)
-            - [ ] *Desagüe de piscina* [[@Adilson_Pérez\|@Adilson_Pérez]]
-                - ![Adjuntos/Pasted image 20250519140102.png](/img/user/Registro/Diario/Adjuntos/Pasted%20image%2020250519140102.png)
-            - [ ] 
 # [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
 
     - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-17\|2025-17]]
@@ -127,5 +113,23 @@
         - [ ] Plano de gas actualizado [[@Erika_Martinez\|@Erika_Martinez]]
         - [ ] Asientos de Fogatero HoAo [[@Adilson_Pérez\|@Adilson_Pérez]]
         - [ ] 
+# [[Registro/Diario/2025/2025-05/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
+
+    - [ ] #Obras/Zapata
+        - [x] Detalle estructural galería [[@Oscar_Rivero\|@Oscar_Rivero]] ✅ 2025-05-19
+            - ![Adjuntos/Pasted image 20250519133746.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519133746.png)
+            - [ ] *Iniciar trabajos en galería* [[@Adilson_Pérez\|@Adilson_Pérez]]/[[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] Detalle piscina faltante [[@Melissa_Barba\|@Melissa_Barba]]
+            - [ ] *Retorno de playa* [[@Adilson_Pérez\|@Adilson_Pérez]]
+                - ![Adjuntos/Pasted image 20250519135957.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519135957.png)
+            - [ ] *Punto de iluminación* [[@Adilson_Pérez\|@Adilson_Pérez]]
+                - ![Adjuntos/Pasted image 20250519140031.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140031.png)
+            - [ ] *Desagüe de piscina* [[@Adilson_Pérez\|@Adilson_Pérez]]
+                - ![Adjuntos/Pasted image 20250519140102.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140102.png)
+            - [ ] bajante de balcón
+            - [ ] pendientes en ducha
+            - [ ] detalle de viga
+            - [ ] shaft de dormitorio
+            - [ ] 
 
 { .block-language-dataview}
