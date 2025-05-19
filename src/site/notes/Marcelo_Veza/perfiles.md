@@ -6,12 +6,8 @@
 
 Theme (Fondo, Titulo, #Etiqueta, Cuerpo, **|**, *|*,) [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
 	- ***Border* (Gris, Gris, Gris, Blanco, Salmón, Amarillo) Gris**
-	- Brutalism
-	- Carpe Noctem
-	- Dark Castle
-	- Dawn
-	- Dayspring
-	- *Deeper work* (Azul marino, Azul, Amarilla, Blanco, Verde, Verde)
+	- ***Dark Castle* (Negro, Rojo, Café, Amarillo, Turquesa, Turquesa) Café**
+	- *Deeper work* **(Azul marino, Azul, Amarilla, Blanco, Verde, Verde)**
 	- *Discordian*
 	- *Drácula+lyt*
 	- *Drácula for obsidian*
