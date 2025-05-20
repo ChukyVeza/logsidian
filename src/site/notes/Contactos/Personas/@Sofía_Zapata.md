@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/marcelo-veza/obra-zapata/00-sofia-zapata/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/contactos/personas/sofia-zapata/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-## [[Contactos/Personas/@Sofía_Zapata\|../../Contactos/Personas/@Sofía_Zapata]]
 
 # [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
 

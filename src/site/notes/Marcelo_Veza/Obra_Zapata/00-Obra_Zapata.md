@@ -10,7 +10,7 @@
         - [x] *Es necesario punto monofásico en las centrales A/C además del trifásico?* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-04-24
             - [x] *Se solicita ambos* {Evaporador/monofásico - Condensador/trifasico} [[@Erwin_Aspiazu\|@Erwin_Aspiazu]] ✅ 2025-04-25
         - [ ] Ubicación medidor de agua [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-            - [x] *Se mantiene donde está* [[@Sofía_Zapata\|@Sofía_Zapata]] ✅ 2025-04-30
+            - [x] *Se mantiene donde está* [[Contactos/Personas/@Sofía_Zapata\|../../../../Contactos/Personas/@Sofía_Zapata]] ✅ 2025-04-30
         - [ ] Rejillas lineales (muestra) [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
         - [ ] Rejillas de gas ubicación [[@Erika_Martinez\|@Erika_Martinez]]
             - [ ] *Lavanderia*
@@ -21,7 +21,7 @@
         - [ ] Cambia replanteo de muros en subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] ![Adjuntos/Pasted image 20250518225151.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250518225151.png)
             - [ ] *Modificar instalación hidrosanitaria ducha - baño subsuelo*[[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
             - [ ] *Levantar muro en ducha - baño subsuelo* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Mesones (Proveedor ??) [[@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Mesones (Proveedor ??) [[Contactos/Personas/@Sofía_Zapata\|../../../../Contactos/Personas/@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-04/2025-04-26 Saturday (17)\|2025-04-26 Saturday (17)]]
 
     - [ ] #Obras/Zapata
@@ -37,7 +37,7 @@
             - [ ] Espera drenaje hidrosanitario [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
             - [ ] Faltan Bajantes Sanitarias [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
             - [x] Perforación de pases [[@Alejandro_Mendieta\|@Alejandro_Mendieta]] ✅ 2025-05-07
-                - [x] Autorización de servicio [[@Sofía_Zapata\|@Sofía_Zapata]] *No se perfora - Se cambiará posición de artefactos* ✅ 2025-05-07
+                - [x] Autorización de servicio [[Contactos/Personas/@Sofía_Zapata\|../../../../Contactos/Personas/@Sofía_Zapata]] *No se perfora - Se cambiará posición de artefactos* ✅ 2025-05-07
         - [ ] Cierre de Shaft en Cocina [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
             - [x] V°B° de [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] a la nueva posición de los muros ✅ 2025-05-07
         - [x] Plano sala de bombas [[@Erika_Martinez\|@Erika_Martinez]] ✅ 2025-04-28
@@ -109,7 +109,7 @@
             - [ ] Medida zócalo
             - [ ] Espesor de mesón
             - [ ] Altura mesón
-        - [ ] Planilla P1 [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]/[[@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Planilla P1 [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]/[[Contactos/Personas/@Sofía_Zapata\|../../../../Contactos/Personas/@Sofía_Zapata]]
         - [ ] Plano de gas actualizado [[@Erika_Martinez\|@Erika_Martinez]]
         - [ ] Asientos de Fogatero HoAo [[@Adilson_Pérez\|@Adilson_Pérez]]
 # [[Registro/Diario/2025/2025-05/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
