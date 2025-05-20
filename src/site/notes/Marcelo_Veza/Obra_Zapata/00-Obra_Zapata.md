@@ -122,7 +122,7 @@
             - [ ] *Retorno de playa* [[@Adilson_Pérez\|@Adilson_Pérez]]
                 - ![Adjuntos/Pasted image 20250519135957.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519135957.png)
             - [ ] *Punto de iluminación* [[@Adilson_Pérez\|@Adilson_Pérez]]
-                - ![[Adjuntos/Pasted image 20250519140031.png]]
+                - ![Adjuntos/Pasted image 20250519140031.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140031.png)
             - [ ] *Desagüe de piscina* [[@Adilson_Pérez\|@Adilson_Pérez]]
                 - ![Adjuntos/Pasted image 20250519140102.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140102.png)
             - [ ] Bajante de balcón [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
