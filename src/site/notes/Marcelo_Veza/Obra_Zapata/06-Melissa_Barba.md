@@ -25,10 +25,9 @@
             - ![Adjuntos/Pasted image 20250519140031.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140031.png)
         - [ ] *Desagüe de piscina* [[@Adilson_Pérez\|@Adilson_Pérez]]
             - ![Adjuntos/Pasted image 20250519140102.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140102.png)
-        - [ ] bajante de balcón
-        - [ ] pendientes en ducha
-        - [ ] detalle de viga
-        - [ ] shaft de dormitorio
-        - [ ] 
+        - [ ] Bajante de balcón [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+        - [ ] Pendientes en ducha [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+        - [ ] Detalle de viga [[@Marcelo_Veza\|@Marcelo_Veza]]
+        - [ ] Shaft de dormitorio [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}

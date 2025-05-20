@@ -43,5 +43,10 @@
         - [ ] Medida zócalo
         - [ ] Espesor de mesón
         - [ ] Altura mesón
+# [[Registro/Diario/2025/2025-05/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
+
+    - [ ] Bajante de balcón [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] Pendientes en ducha [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] Shaft de dormitorio [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}
