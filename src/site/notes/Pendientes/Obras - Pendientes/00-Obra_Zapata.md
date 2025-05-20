@@ -16,7 +16,7 @@
             - [ ] *Lavanderia*
             - [ ] *Cocina*
             - [ ] *Sala de bombas*
-        - [ ] Ubicación controles de piscina [[Contactos/Personas/Ingenier@s/@Melissa_Barba\|@Melissa_Barba]]
+        - [x] Ubicación controles de piscina [[Contactos/Personas/Ingenier@s/@Melissa_Barba\|@Melissa_Barba]] ✅ 2025-05-15
             - [x] *En zona de churrasquera* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-05-15
         - [ ] Cambia replanteo de muros en subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] ![Adjuntos/Pasted image 20250518225151.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250518225151.png)
             - [ ] *Modificar instalación hidrosanitaria ducha - baño subsuelo*[[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
@@ -80,7 +80,7 @@
         - [ ] Observaciones Arquitectura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
             - [ ] Llaves y rejillas de duchas
             - [ ] Dintel de puertas
-        - [ ] pruebas de presión y estanqueidad
+        - [ ] Pruebas de presión y estanqueidad
         - [ ] Observaciones Carpintería Aluminio [[VidrAlum\|VidrAlum]]
             - [ ] Detalle de Carpintería Planta Alta en Sala
             - [ ] Detalle de Carpintería Planta Alta en Dormitorios
