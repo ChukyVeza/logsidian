@@ -47,5 +47,6 @@
     - [ ] Bajante de balcón [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Pendientes en ducha [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Shaft de dormitorio [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] Replanteo de Revestimientos y Pisos [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}

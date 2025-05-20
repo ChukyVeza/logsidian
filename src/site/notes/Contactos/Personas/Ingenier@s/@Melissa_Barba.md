@@ -24,5 +24,6 @@
         - [ ] Pendientes en ducha [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Detalle de viga [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Shaft de dormitorio [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+        - [ ] Replanteo de Revestimientos y Pisos [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}
