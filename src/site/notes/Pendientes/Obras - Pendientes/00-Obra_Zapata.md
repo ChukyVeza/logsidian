@@ -130,5 +130,11 @@
             - [ ] Detalle de viga [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
             - [ ] Shaft de dormitorio [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
             - [ ] Replanteo de Revestimientos y Pisos [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+# [[Registro/Diario/2025/2025-05/2025-05-20 Tuesday (21)\|2025-05-20 Tuesday (21)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Carpeta en punto más alto de losa voladizo h=8 cm para 13 m de distancia, al 0.3% de pendiente [[@Oscar_Rivero\|@Oscar_Rivero]]
+            - ![Adjuntos/Pasted image 20250520112350.png|300](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250520112350.png)
+        - [ ] 
 
 { .block-language-dataview}
