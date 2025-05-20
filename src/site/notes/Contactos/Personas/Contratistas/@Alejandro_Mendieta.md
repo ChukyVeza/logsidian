@@ -6,7 +6,7 @@
 # [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
 
     - [ ] Ubicación medidor de agua [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-        - [x] *Se mantiene donde está* [[Contactos/Personas/@Sofía_Zapata\|../../../../Contactos/Personas/@Sofía_Zapata]] ✅ 2025-04-30
+        - [x] *Se mantiene donde está* [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] ✅ 2025-04-30
     - [ ] Rejillas lineales (muestra) [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
     - [ ] *Modificar instalación hidrosanitaria ducha - baño subsuelo*[[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
 # [[Registro/Diario/2025/2025-04/2025-04-26 Saturday (17)\|2025-04-26 Saturday (17)]]
