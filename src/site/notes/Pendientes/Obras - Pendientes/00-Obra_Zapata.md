@@ -94,8 +94,8 @@
 # [[Registro/Diario/2025/2025-05/2025-05-15 Thursday (20)\|2025-05-15 Thursday (20)]]
 
     - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025-20\|2025-20]]
-        - [ ] Tarugos y pernos
-        - [ ] Arena fina
+        - [x] Tarugos y pernos ✅ 2025-05-17
+        - [x] Arena fina ✅ 2025-05-17
         - [ ] Muro lavamanos Master Suite [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Muestra de dintel en puerta [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Pase eléctrico para audio [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
