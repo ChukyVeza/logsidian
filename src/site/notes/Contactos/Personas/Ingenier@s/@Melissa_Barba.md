@@ -19,11 +19,11 @@
 
     - [ ] Detalle piscina faltante [[Contactos/Personas/Ingenier@s/@Melissa_Barba\|@Melissa_Barba]]
         - [ ] *Retorno de playa* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|@Adilson_Pérez]]
-            - ![Adjuntos/Pasted image 20250519135957.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519135957.png)
+            - ![Adjuntos/Pasted image 20250519135957.png|300](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519135957.png)
         - [ ] *Punto de iluminación* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|@Adilson_Pérez]]
-            - ![Adjuntos/Pasted image 20250519140031.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140031.png)
+            - ![Adjuntos/Pasted image 20250519140031.png|300](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140031.png)
         - [ ] *Desagüe de piscina* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|@Adilson_Pérez]]
-            - ![Adjuntos/Pasted image 20250519140102.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140102.png)
+            - ![Adjuntos/Pasted image 20250519140102.png|300](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140102.png)
         - [ ] Bajante de balcón [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Pendientes en ducha [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Detalle de viga [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]

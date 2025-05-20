@@ -14,10 +14,10 @@
 
     - [ ] *Iniciar trabajos en galería* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|@Adilson_Pérez]]/[[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] *Retorno de playa* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|@Adilson_Pérez]]
-        - ![Adjuntos/Pasted image 20250519135957.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519135957.png)
+        - ![Adjuntos/Pasted image 20250519135957.png|300](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519135957.png)
     - [ ] *Punto de iluminación* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|@Adilson_Pérez]]
-        - ![Adjuntos/Pasted image 20250519140031.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140031.png)
+        - ![Adjuntos/Pasted image 20250519140031.png|300](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140031.png)
     - [ ] *Desagüe de piscina* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|@Adilson_Pérez]]
-        - ![Adjuntos/Pasted image 20250519140102.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140102.png)
+        - ![Adjuntos/Pasted image 20250519140102.png|300](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140102.png)
 
 { .block-language-dataview}
