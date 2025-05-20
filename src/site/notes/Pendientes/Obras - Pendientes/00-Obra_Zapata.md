@@ -9,7 +9,7 @@
     - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-17\|2025-17]]
         - [x] *Es necesario punto monofásico en las centrales A/C además del trifásico?* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-04-24
             - [x] *Se solicita ambos* {Evaporador/monofásico - Condensador/trifasico} [[Contactos/Personas/Contratistas/@Erwin_Aspiazu\|@Erwin_Aspiazu]] ✅ 2025-04-25
-        - [ ] Ubicación medidor de agua [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
+        - [x] Ubicación medidor de agua [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]] ✅ 2025-04-30
             - [x] *Se mantiene donde está* [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] ✅ 2025-04-30
         - [ ] Rejillas lineales (muestra) [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
         - [ ] Rejillas de gas ubicación [[Contactos/Personas/Contratistas/@Erika_Martinez\|@Erika_Martinez]]
