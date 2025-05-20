@@ -8,7 +8,7 @@
 
     - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-17\|2025-17]]
         - [x] *Es necesario punto monofásico en las centrales A/C además del trifásico?* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-04-24
-            - [x] *Se solicita ambos* {Evaporador/monofásico - Condensador/trifasico} [[@Erwin_Aspiazu\|@Erwin_Aspiazu]] ✅ 2025-04-25
+            - [x] *Se solicita ambos* {Evaporador/monofásico - Condensador/trifasico} [[Contactos/Personas/Contratistas/@Erwin_Aspiazu\|@Erwin_Aspiazu]] ✅ 2025-04-25
         - [ ] Ubicación medidor de agua [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
             - [x] *Se mantiene donde está* [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] ✅ 2025-04-30
         - [ ] Rejillas lineales (muestra) [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
@@ -45,8 +45,8 @@
 # [[Registro/Diario/2025/2025-04/2025-04-29 Tuesday (18)\|2025-04-29 Tuesday (18)]]
 
     - [ ] #Obras/Zapata
-        - [x] [[@Erwin_Aspiazu\|@Erwin_Aspiazu]] verificará en obra las estructuras de cielo falso, para colocar rejillas de A/C ⏳ 2025-04-29 ✅ 2025-05-30
-        - [ ] Pasar detalle de Rejillas [[@Marcelo_Veza\|@Marcelo_Veza]]
+        - [x] [[Contactos/Personas/Contratistas/@Erwin_Aspiazu\|@Erwin_Aspiazu]] verificará en obra las estructuras de cielo falso, para colocar rejillas de A/C ⏳ 2025-04-29 ✅ 2025-05-30
+        - [ ] Pasar detalle de Rejillas [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Baño aprobado [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Detalle de puertas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Iluminación en planta alta [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
@@ -127,7 +127,7 @@
                 - ![Adjuntos/Pasted image 20250519140102.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140102.png)
             - [ ] Bajante de balcón [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
             - [ ] Pendientes en ducha [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-            - [ ] Detalle de viga [[@Marcelo_Veza\|@Marcelo_Veza]]
+            - [ ] Detalle de viga [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
             - [ ] Shaft de dormitorio [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}
