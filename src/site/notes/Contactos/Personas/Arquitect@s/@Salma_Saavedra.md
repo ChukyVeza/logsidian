@@ -1,19 +1,18 @@
 ---
-{"Oficio":"Arquitecta","Contacto":"https://wa.me//59170034758","tags":["Arquitecta"],"dg-publish":true,"permalink":"/contactos/personas/arquitect-s/salma-saavedra/","dgPassFrontmatter":true,"noteIcon":""}
+{"Nombre":"Salma Diana Saavedra Antelo","Oficio":"Arquitect@","Contacto":"https://wa.me//59170034758","tags":["Arquitecta"],"dg-publish":true,"permalink":"/contactos/personas/arquitect-s/salma-saavedra/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-Salma Diana Saavedra Antelo
 
 # [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
 
     - [ ] Cambia replanteo de muros en subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] ![Adjuntos/Pasted image 20250518225151.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250518225151.png)
-        - [ ] *Modificar instalación hidrosanitaria ducha - baño subsuelo*[[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
+        - [ ] *Modificar instalación hidrosanitaria ducha - baño subsuelo*[[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
         - [ ] *Levantar muro en ducha - baño subsuelo* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-04/2025-04-26 Saturday (17)\|2025-04-26 Saturday (17)]]
 
     - [ ] Muro inodoro baño visitas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - ![Adjuntos/Pasted image 20250519021437.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250519021437.png)
-        - [ ] Modificar instalación hidrosanitario [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
+        - [ ] Modificar instalación hidrosanitario [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
         - [ ] Levantar muro para inodoro [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-04/2025-04-29 Tuesday (18)\|2025-04-29 Tuesday (18)]]
 

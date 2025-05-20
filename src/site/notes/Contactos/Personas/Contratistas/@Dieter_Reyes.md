@@ -1,6 +1,7 @@
 ---
-{"Oficio":"Contratista","Contacto":"https://wa.me//59173186861","tags":["Contratista/Electricidad"],"dg-publish":true,"permalink":"/contactos/personas/contratistas/dieter-reyes/","dgPassFrontmatter":true,"noteIcon":""}
+{"Nombre":"Dieter Reyes Antelo","Oficio":"Contratista","Contacto":"https://wa.me//59173186861","tags":["Contratista/Electricidad"],"dg-publish":true,"permalink":"/contactos/personas/contratistas/dieter-reyes/","dgPassFrontmatter":true,"noteIcon":""}
 ---
+
 
 # [[Registro/Diario/2025/2025-04/2025-04-28 Monday (18)\|2025-04-28 Monday (18)]]
 

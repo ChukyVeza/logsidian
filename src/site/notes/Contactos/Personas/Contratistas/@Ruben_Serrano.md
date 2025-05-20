@@ -23,6 +23,6 @@
     - [ ] Planilla P1 [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]/[[Contactos/Personas/@Sofía_Zapata\|../../../../Contactos/Personas/@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-05/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
 
-    - [ ] *Iniciar trabajos en galería* [[@Adilson_Pérez\|@Adilson_Pérez]]/[[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] *Iniciar trabajos en galería* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|../../../../Contactos/Personas/Ingenier@s/@Adilson_Pérez]]/[[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 
 { .block-language-dataview}

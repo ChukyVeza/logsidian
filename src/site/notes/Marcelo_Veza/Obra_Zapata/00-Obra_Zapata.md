@@ -9,17 +9,17 @@
     - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-17\|2025-17]]
         - [x] *Es necesario punto monofásico en las centrales A/C además del trifásico?* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-04-24
             - [x] *Se solicita ambos* {Evaporador/monofásico - Condensador/trifasico} [[@Erwin_Aspiazu\|@Erwin_Aspiazu]] ✅ 2025-04-25
-        - [ ] Ubicación medidor de agua [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
+        - [ ] Ubicación medidor de agua [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
             - [x] *Se mantiene donde está* [[Contactos/Personas/@Sofía_Zapata\|../../../../Contactos/Personas/@Sofía_Zapata]] ✅ 2025-04-30
-        - [ ] Rejillas lineales (muestra) [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-        - [ ] Rejillas de gas ubicación [[@Erika_Martinez\|@Erika_Martinez]]
+        - [ ] Rejillas lineales (muestra) [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
+        - [ ] Rejillas de gas ubicación [[Contactos/Personas/Contratistas/@Erika_Martinez\|@Erika_Martinez]]
             - [ ] *Lavanderia*
             - [ ] *Cocina*
             - [ ] *Sala de bombas*
-        - [ ] Ubicación controles de piscina [[@Melissa_Barba\|@Melissa_Barba]]
+        - [ ] Ubicación controles de piscina [[Contactos/Personas/Ingenier@s/@Melissa_Barba\|@Melissa_Barba]]
             - [x] *En zona de churrasquera* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-05-15
         - [ ] Cambia replanteo de muros en subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] ![Adjuntos/Pasted image 20250518225151.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250518225151.png)
-            - [ ] *Modificar instalación hidrosanitaria ducha - baño subsuelo*[[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
+            - [ ] *Modificar instalación hidrosanitaria ducha - baño subsuelo*[[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
             - [ ] *Levantar muro en ducha - baño subsuelo* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Mesones (Proveedor ??) [[Contactos/Personas/@Sofía_Zapata\|../../../../Contactos/Personas/@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-04/2025-04-26 Saturday (17)\|2025-04-26 Saturday (17)]]
@@ -28,19 +28,19 @@
         - [ ] Modificar tragaluz de servicio, *ya está hecho el revoque interior [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Muro inodoro baño visitas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
             - ![Adjuntos/Pasted image 20250519021437.png](/img/user/Registro/Diario/2025/2025-04/Adjuntos/Pasted%20image%2020250519021437.png)
-            - [ ] Modificar instalación hidrosanitario [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
+            - [ ] Modificar instalación hidrosanitario [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
             - [ ] Levantar muro para inodoro [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-04/2025-04-28 Monday (18)\|2025-04-28 Monday (18)]]
 
     - [ ] #Obras/Zapata
         - [ ] Contrapiso pasillo técnico
             - [ ] Espera drenaje hidrosanitario [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
-            - [ ] Faltan Bajantes Sanitarias [[@Alejandro_Mendieta\|@Alejandro_Mendieta]]
-            - [x] Perforación de pases [[@Alejandro_Mendieta\|@Alejandro_Mendieta]] ✅ 2025-05-07
-                - [x] Autorización de servicio [[Contactos/Personas/@Sofía_Zapata\|../../../../Contactos/Personas/@Sofía_Zapata]] *No se perfora - Se cambiará posición de artefactos* ✅ 2025-05-07
+            - [ ] Faltan Bajantes Sanitarias [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]]
+            - [x] Perforación de pases [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]] ✅ 2025-05-07
+                - [x] Autorización de servicio [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] *No se perfora - Se cambiará posición de artefactos* ✅ 2025-05-07
         - [ ] Cierre de Shaft en Cocina [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
             - [x] V°B° de [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] a la nueva posición de los muros ✅ 2025-05-07
-        - [x] Plano sala de bombas [[@Erika_Martinez\|@Erika_Martinez]] ✅ 2025-04-28
+        - [x] Plano sala de bombas [[Contactos/Personas/Contratistas/@Erika_Martinez\|@Erika_Martinez]] ✅ 2025-04-28
         - [x] Pasar planos a [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-04-28
 # [[Registro/Diario/2025/2025-04/2025-04-29 Tuesday (18)\|2025-04-29 Tuesday (18)]]
 
@@ -66,9 +66,9 @@
 
     - [ ] #Obras/Zapata
         - [x] Pedir arenilla [[@Wilson_Nuñez\|@Wilson_Nuñez]] ⏳ 2025-05-06 ✅ 2025-05-06
-        - [x] Revisar punto de gas en mesón de cocina [[@Erika_Martinez\|@Erika_Martinez]] ✅ 2025-05-05
+        - [x] Revisar punto de gas en mesón de cocina [[Contactos/Personas/Contratistas/@Erika_Martinez\|@Erika_Martinez]] ✅ 2025-05-05
             - [x] *V°B° de ella* ✅ 2025-05-05
-            - [x] Reubicar punto de campana cocina [[@Alejandro_Mendieta\|@Alejandro_Mendieta]] ✅ 2025-05-05
+            - [x] Reubicar punto de campana cocina [[Contactos/Personas/Contratistas/@Alejandro_Mendieta\|@Alejandro_Mendieta]] ✅ 2025-05-05
             - [x] *Ya está perforada la losa para ubicar en cocina* ✅ 2025-05-05
         - [ ] Planos de detalles pendientes
         - [x] Cronograma de [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] inicio 🛫 2025-05-05 ✅ 2025-05-08
@@ -84,12 +84,12 @@
         - [ ] Observaciones Carpintería Aluminio [[VidrAlum\|VidrAlum]]
             - [ ] Detalle de Carpintería Planta Alta en Sala
             - [ ] Detalle de Carpintería Planta Alta en Dormitorios
-        - [ ] Observaciones [[Mi_Piscina\|Mi_Piscina]] [[@Melissa_Barba\|@Melissa_Barba]]
-            - [x] Cambio en punto de calentador para piscina [[@Melissa_Barba\|@Melissa_Barba]] ✅ 2025-05-07
-                - [x] Coordinar con [[@Erika_Martinez\|@Erika_Martinez]] ✅ 2025-05-07 *Coordinado*
+        - [ ] Observaciones [[Mi_Piscina\|Mi_Piscina]] [[Contactos/Personas/Ingenier@s/@Melissa_Barba\|@Melissa_Barba]]
+            - [x] Cambio en punto de calentador para piscina [[Contactos/Personas/Ingenier@s/@Melissa_Barba\|@Melissa_Barba]] ✅ 2025-05-07
+                - [x] Coordinar con [[Contactos/Personas/Contratistas/@Erika_Martinez\|@Erika_Martinez]] ✅ 2025-05-07 *Coordinado*
                 - ![[../2025-04/Adjuntos/Pasted image 20250507192301.png\|../2025-04/Adjuntos/Pasted image 20250507192301.png]]
-            - [ ] Rellenar drenaje de piscina [[@Adilson_Pérez\|@Adilson_Pérez]]
-            - [ ] Verificar nivel de playa para colocar *pantallas iluminación 7 cm* [[@Adilson_Pérez\|@Adilson_Pérez]]
+            - [ ] Rellenar drenaje de piscina [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|../../../../Contactos/Personas/Ingenier@s/@Adilson_Pérez]]
+            - [ ] Verificar nivel de playa para colocar *pantallas iluminación 7 cm* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|../../../../Contactos/Personas/Ingenier@s/@Adilson_Pérez]]
         - [x] Pasar detalle de estructura muro doble altura [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-05-07
 # [[Registro/Diario/2025/2025-05/2025-05-15 Thursday (20)\|2025-05-15 Thursday (20)]]
 
@@ -110,20 +110,20 @@
             - [ ] Espesor de mesón
             - [ ] Altura mesón
         - [ ] Planilla P1 [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]/[[Contactos/Personas/@Sofía_Zapata\|../../../../Contactos/Personas/@Sofía_Zapata]]
-        - [ ] Plano de gas actualizado [[@Erika_Martinez\|@Erika_Martinez]]
-        - [ ] Asientos de Fogatero HoAo [[@Adilson_Pérez\|@Adilson_Pérez]]
+        - [ ] Plano de gas actualizado [[Contactos/Personas/Contratistas/@Erika_Martinez\|@Erika_Martinez]]
+        - [ ] Asientos de Fogatero HoAo [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|../../../../Contactos/Personas/Ingenier@s/@Adilson_Pérez]]
 # [[Registro/Diario/2025/2025-05/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
 
     - [ ] #Obras/Zapata
         - [x] Detalle estructural galería [[@Oscar_Rivero\|@Oscar_Rivero]] ✅ 2025-05-19
             - ![Adjuntos/Pasted image 20250519133746.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519133746.png)
-            - [ ] *Iniciar trabajos en galería* [[@Adilson_Pérez\|@Adilson_Pérez]]/[[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Detalle piscina faltante [[@Melissa_Barba\|@Melissa_Barba]]
-            - [ ] *Retorno de playa* [[@Adilson_Pérez\|@Adilson_Pérez]]
+            - [ ] *Iniciar trabajos en galería* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|../../../../Contactos/Personas/Ingenier@s/@Adilson_Pérez]]/[[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] Detalle piscina faltante [[Contactos/Personas/Ingenier@s/@Melissa_Barba\|@Melissa_Barba]]
+            - [ ] *Retorno de playa* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|../../../../Contactos/Personas/Ingenier@s/@Adilson_Pérez]]
                 - ![Adjuntos/Pasted image 20250519135957.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519135957.png)
-            - [ ] *Punto de iluminación* [[@Adilson_Pérez\|@Adilson_Pérez]]
+            - [ ] *Punto de iluminación* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|../../../../Contactos/Personas/Ingenier@s/@Adilson_Pérez]]
                 - ![Adjuntos/Pasted image 20250519140031.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140031.png)
-            - [ ] *Desagüe de piscina* [[@Adilson_Pérez\|@Adilson_Pérez]]
+            - [ ] *Desagüe de piscina* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|../../../../Contactos/Personas/Ingenier@s/@Adilson_Pérez]]
                 - ![Adjuntos/Pasted image 20250519140102.png](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250519140102.png)
             - [ ] Bajante de balcón [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
             - [ ] Pendientes en ducha [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
