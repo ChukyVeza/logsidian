@@ -136,5 +136,17 @@
         - [ ] Carpeta en punto más alto de losa voladizo h=8 cm para 13 m de distancia, al 0.3% de pendiente [[@Oscar_Rivero\|@Oscar_Rivero]]
             - ![Adjuntos/Pasted image 20250520112350.png|300](/img/user/Registro/Diario/2025/2025-05/Adjuntos/Pasted%20image%2020250520112350.png)
             - [x] *No se puede colocar carpeta mayor a 5 cm* [[@Oscar_Rivero\|@Oscar_Rivero]] ✅ 2025-05-20
+            - [ ] Se colocará planchas de poliestireno expandido para que la carpeta no supere los 5 cm de espesor [[@Oscar_Rivero\|@Oscar_Rivero]]
+# [[Registro/Diario/2025/2025-05/2025-05-21 Wednesday (21)\|2025-05-21 Wednesday (21)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Cambio en ducha de subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+        - [ ] Cambio en sauna para acceso de calentador [[Contactos/Personas/Ingenier@s/@Melissa_Barba\|@Melissa_Barba]]
+        - [ ] Cemento cola Multimix [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Rejillas inox [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+        - [ ] Hacer viga para perfiles [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] Pasar nivel de puntos a [[@Oscar_Rivero\|@Oscar_Rivero]] / [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
+        - [ ] Hacer juntas de contracción en carpetas de cubierta [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] 
 
 { .block-language-dataview}

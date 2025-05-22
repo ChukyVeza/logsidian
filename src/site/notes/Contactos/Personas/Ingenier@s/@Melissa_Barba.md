@@ -25,5 +25,8 @@
         - [ ] Detalle de viga [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Shaft de dormitorio [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Replanteo de Revestimientos y Pisos [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+# [[Registro/Diario/2025/2025-05/2025-05-21 Wednesday (21)\|2025-05-21 Wednesday (21)]]
+
+    - [ ] Cambio en sauna para acceso de calentador [[Contactos/Personas/Ingenier@s/@Melissa_Barba\|@Melissa_Barba]]
 
 { .block-language-dataview}

@@ -24,5 +24,9 @@
 # [[Registro/Diario/2025/2025-05/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
 
     - [ ] *Iniciar trabajos en galería* [[Contactos/Personas/Ingenier@s/@Adilson_Pérez\|@Adilson_Pérez]]/[[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+# [[Registro/Diario/2025/2025-05/2025-05-21 Wednesday (21)\|2025-05-21 Wednesday (21)]]
+
+    - [ ] Hacer viga para perfiles [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Hacer juntas de contracción en carpetas de cubierta [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 
 { .block-language-dataview}
