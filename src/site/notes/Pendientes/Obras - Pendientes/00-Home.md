@@ -7,4 +7,7 @@
 Lista de tareas pendientes para compartir
 
 ```tasks
+tag includes #Obras/Zapata
+not done
+sort by due
 ```
