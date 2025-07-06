@@ -3,15 +3,8 @@
 ---
 
 
-# [[Registro/Diario/2025/2025-04/2025-04-29 Tuesday (18)\|2025-04-29 Tuesday (18)]]
-
-    - [ ] Pasar detalle de Rejillas [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
 # [[Registro/Diario/2025/2025-05/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
 
     - [ ] Cotizar fierro [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
-    - [ ] Detalle de viga [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
-# [[Registro/Diario/2025/2025-05/2025-05-21 Wednesday (21)\|2025-05-21 Wednesday (21)]]
-
-    - [ ] Pasar nivel de puntos a [[@Oscar_Rivero\|@Oscar_Rivero]] / [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
 
 { .block-language-dataview}

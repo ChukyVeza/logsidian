@@ -3,14 +3,9 @@
 ---
 
 
-# [[Registro/Diario/2025/2025-04/2025-04-24 Thursday (17)\|2025-04-24 Thursday (17)]]
+# [[Registro/Diario/2025/2025-07/2025-07-06 Sunday (27)\|2025-07-06 Sunday (27)]]
 
     - [ ] Rejillas de gas ubicación [[Contactos/Personas/Contratistas/@Erika_Martinez\|@Erika_Martinez]]
         - [ ] *Lavanderia*
-        - [ ] *Cocina*
-        - [ ] *Sala de bombas*
-# [[Registro/Diario/2025/2025-05/2025-05-17 Saturday (20)\|2025-05-17 Saturday (20)]]
-
-    - [ ] Plano de gas actualizado [[Contactos/Personas/Contratistas/@Erika_Martinez\|@Erika_Martinez]]
 
 { .block-language-dataview}
