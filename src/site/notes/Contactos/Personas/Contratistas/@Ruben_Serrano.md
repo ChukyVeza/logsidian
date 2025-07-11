@@ -6,5 +6,8 @@
 # [[Registro/Diario/2025/2025-07/2025-07-06 Sunday (27)\|2025-07-06 Sunday (27)]]
 
     - [ ] Muro en baño visitas [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+# [[Registro/Diario/2025/2025-07/2025-07-09 Wednesday (28)\|2025-07-09 Wednesday (28)]]
+
+    - [ ] Nivel piso de sauna *Debe ser igual que el piso del baño* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 
 { .block-language-dataview}
