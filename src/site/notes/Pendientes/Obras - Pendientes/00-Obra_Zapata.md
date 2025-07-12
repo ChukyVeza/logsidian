@@ -46,7 +46,6 @@
         - [ ] Codigos de pintura Suvinil [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Plano de colores en muro [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Acometida electrica [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
-        - [ ] 
 # [[Registro/Diario/2025/2025-07/2025-07-11 Friday (28)\|2025-07-11 Friday (28)]]
 
     - [ ] #Obras/Zapata
