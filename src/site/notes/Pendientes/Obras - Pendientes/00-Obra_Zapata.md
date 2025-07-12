@@ -4,11 +4,6 @@
 
 # Tareas Pendientes
 
-# [[Registro/Diario/2025-07-11 Friday (28)\|2025-07-11 Friday (28)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-        - [ ] 
 # [[Registro/Diario/2025/2025-07/2025-07-06 Sunday (27)\|2025-07-06 Sunday (27)]]
 
     - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-27\|2025-27]]
@@ -52,10 +47,13 @@
         - [ ] Plano de colores en muro [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Acometida electrica [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] 
+# [[Registro/Diario/2025/2025-07/2025-07-11 Friday (28)\|2025-07-11 Friday (28)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}
 - [ ] #Obras/Pinto 
-	- [ ] Estudio de suelos [[Contactos/Personas/Ingenier@s/@Cristina_Uscamayta\|../../Contactos/Personas/Ingenier@s/@Cristina_Uscamayta]]
+	- [ ] Estudio de suelos [[Contactos/Personas/Ingenier@s/@Cristina_Uscamayta\|@Cristina_Uscamayta]]
 		- [ ] 2 pozos 10 m
 	- [ ] Pasar estructura a otras Ingenierías
-	- [ ] 
