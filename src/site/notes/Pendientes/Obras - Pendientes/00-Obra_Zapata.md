@@ -53,7 +53,3 @@
         - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}
-- [ ] #Obras/Pinto 
-	- [ ] Estudio de suelos [[Contactos/Personas/Ingenier@s/@Cristina_Uscamayta\|@Cristina_Uscamayta]]
-		- [ ] 2 pozos 10 m
-	- [ ] Pasar estructura a otras Ingenierías
