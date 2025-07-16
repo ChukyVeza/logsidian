@@ -4,15 +4,6 @@
 
 # Tareas Pendientes
 
-# [[Registro/Diario/2025-07-14 Monday (29)\|2025-07-14 Monday (29)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Estructura metálica fachada de vidrio [[@Oscar_Rivero\|@Oscar_Rivero]]
-            - [ ] *Videollamada en obra a las 11:00*
-# [[Registro/Diario/2025-07-15 Tuesday (29)\|2025-07-15 Tuesday (29)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] 2 Personas para limpieza [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025-07-16 Wednesday (29)\|2025-07-16 Wednesday (29)]]
 
     - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-29\|2025-29]]
@@ -64,6 +55,15 @@
 
     - [ ] #Obras/Zapata
         - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+# [[Registro/Diario/2025/2025-07/2025-07-14 Monday (29)\|2025-07-14 Monday (29)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Estructura metálica fachada de vidrio [[@Oscar_Rivero\|@Oscar_Rivero]]
+            - [ ] *Videollamada en obra a las 11:00*
+# [[Registro/Diario/2025/2025-07/2025-07-15 Tuesday (29)\|2025-07-15 Tuesday (29)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] 2 Personas para limpieza [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 
 { .block-language-dataview}
 
