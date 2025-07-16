@@ -4,6 +4,19 @@
 
 # Tareas Pendientes
 
+# [[Registro/Diario/2025-07-14 Monday (29)\|2025-07-14 Monday (29)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Estructura metálica fachada de vidrio [[@Oscar_Rivero\|@Oscar_Rivero]]
+            - [ ] *Videollamada en obra a las 11:00*
+# [[Registro/Diario/2025-07-15 Tuesday (29)\|2025-07-15 Tuesday (29)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] 2 Personas para limpieza [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+# [[Registro/Diario/2025-07-16 Wednesday (29)\|2025-07-16 Wednesday (29)]]
+
+    - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-29\|2025-29]]
+        - [ ] 
 # [[Registro/Diario/2025/2025-07/2025-07-06 Sunday (27)\|2025-07-06 Sunday (27)]]
 
     - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-27\|2025-27]]
@@ -12,8 +25,9 @@
         - [ ] Pruebas de presión y estanqueidad [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
             - [ ] *Es necesario el chicotillo sanitario* [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Muro en baño visitas [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+            - [ ] *Todavía no se define que inodoro se colocará* [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Iniciar cableado eléctrico [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
-            - [ ] Cronograma de ejecución
+            - [ ] Cronograma de ejecución [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] Movimiento de Tierras [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Pulido de Hormigón [[@Arkilab\|@Arkilab]]
         - [ ] Detalles desayunador [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
@@ -36,7 +50,7 @@
         - [ ] Burbuja de aire en impermeabilización de balcón [[Quilosa\|Quilosa]]
 # [[Registro/Diario/2025/2025-07/2025-07-09 Wednesday (28)\|2025-07-09 Wednesday (28)]]
 
-    - [ ] #Obras/Zapata
+    - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-28\|2025-28]]
         - [ ] Nivel piso de sauna *Debe ser igual que el piso del baño* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Asiento en Sauna en carpeta Detalla miento [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Punto de agua bajo asiento [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -52,3 +66,4 @@
         - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}
+

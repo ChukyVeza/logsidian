@@ -5,6 +5,7 @@
 
 # [[Registro/Diario/2025/2025-07/2025-07-06 Sunday (27)\|2025-07-06 Sunday (27)]]
 
+    - [ ] *Todavía no se define que inodoro se colocará* [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Detalles desayunador [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 # [[Registro/Diario/2025/2025-07/2025-07-08 Tuesday (28)\|2025-07-08 Tuesday (28)]]
 
