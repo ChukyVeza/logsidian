@@ -7,7 +7,15 @@
 # [[Registro/Diario/2025-07-16 Wednesday (29)\|2025-07-16 Wednesday (29)]]
 
     - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-29\|2025-29]]
-        - [ ] 
+        - [ ] Rellenar muro en Dormitorio PA
+        - [ ] Rejilla en baño servicio
+        - [ ] Cámara chicotillo
+        - [ ] Conexión de aire y desagüe
+        - [ ] Cielo falso en baño visitas -10 cm
+        - [ ] Iluminación lineal bajo fogatero
+        - [ ] Piruleado inicio
+        - [ ] Medida de ventana en subsuelo
+        - [ ] Espesor de maderas para Sauna
 # [[Registro/Diario/2025/2025-07/2025-07-06 Sunday (27)\|2025-07-06 Sunday (27)]]
 
     - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-27\|2025-27]]
@@ -64,6 +72,8 @@
 
     - [ ] #Obras/Zapata
         - [ ] 2 Personas para limpieza [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] 10 bolsas de separadores 1.5 mm Cortag
+        - [ ] 2 discos para porcelanato continuo Kamasa
 
 { .block-language-dataview}
 
