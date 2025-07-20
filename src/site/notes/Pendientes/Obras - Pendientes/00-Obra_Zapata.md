@@ -4,23 +4,6 @@
 
 # Tareas Pendientes
 
-# [[Registro/Diario/2025-07-18 Friday (29)\|2025-07-18 Friday (29)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Luminarias de muros en ingreso
-        - [ ] Cámaras de inspección en acometida
-        - [ ] Circuitos de iluminación en ingreso
-        - [ ] Detalles para instalación equipos centrales de aire acondicionado [[Contactos/Personas/Contratistas/@Erwin_Aspiazu\|@Erwin_Aspiazu]]
-        - [ ] Hule
-        - [ ] Ripio
-        - [ ] Cables para cinta led
-        - [ ] Fotos de pilastra
-        - [ ] 1000 pzas Ladrillo 6H
-        - [ ] Instalación de gas
-# [[Registro/Diario/2025-07-19 Saturday (29)\|2025-07-19 Saturday (29)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] [[VidrAlum\|VidrAlum]] ingresa (@[[2025-07-28 Monday (31)\|2025-07-28 Monday (31)]]) a obra y demora 3 semana, finalizando
 # [[Registro/Diario/2025/2025-07/2025-07-06 Sunday (27)\|2025-07-06 Sunday (27)]]
 
     - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-27\|2025-27]]
@@ -94,6 +77,22 @@
         - [ ] Medida de ventana en subsuelo [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Espesor de maderas para Sauna
             - [ ] *40 mm* [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+# [[Registro/Diario/2025/2025-07/2025-07-18 Friday (29)\|2025-07-18 Friday (29)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Luminarias de muros en ingreso [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [x] Chicotillo sanitario *finalizado* [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]] ✅ 2025-07-18
+        - [ ] Circuitos de iluminación en ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+        - [ ] Detalles para instalación equipos centrales de aire acondicionado [[Contactos/Personas/Contratistas/@Erwin_Aspiazu\|@Erwin_Aspiazu]]
+        - [ ] Hule
+        - [x] 1 Viaje de Ripio ✅ 2025-07-19
+        - [ ] Cables tipo cordón para cinta led [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] 1000 pzas Ladrillo 6H
+        - [ ] Instalación de gas
+# [[Registro/Diario/2025/2025-07/2025-07-19 Saturday (29)\|2025-07-19 Saturday (29)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] [[VidrAlum\|VidrAlum]] ingresa (@[[2025-07-28 Monday (31)\|2025-07-28 Monday (31)]]) a obra y demora 3 semana, finalizando
 
 { .block-language-dataview}
 
