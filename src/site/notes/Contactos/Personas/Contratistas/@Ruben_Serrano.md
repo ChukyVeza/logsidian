@@ -13,5 +13,10 @@
 # [[Registro/Diario/2025/2025-07/2025-07-15 Tuesday (29)\|2025-07-15 Tuesday (29)]]
 
     - [ ] 2 Personas para limpieza [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+# [[Registro/Diario/2025/2025-07/2025-07-16 Wednesday (29)\|2025-07-16 Wednesday (29)]]
+
+    - [ ] Rellenar muro en dormitorio PA [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Afinar terminado [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Piruleado inicio [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 
 { .block-language-dataview}

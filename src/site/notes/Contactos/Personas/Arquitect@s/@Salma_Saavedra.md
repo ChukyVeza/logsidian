@@ -19,5 +19,8 @@
 # [[Registro/Diario/2025/2025-07/2025-07-11 Friday (28)\|2025-07-11 Friday (28)]]
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+# [[Registro/Diario/2025/2025-07/2025-07-16 Wednesday (29)\|2025-07-16 Wednesday (29)]]
+
+    - [ ] *40 mm* [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}

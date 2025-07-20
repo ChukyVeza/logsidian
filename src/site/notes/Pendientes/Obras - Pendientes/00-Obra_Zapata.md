@@ -4,18 +4,23 @@
 
 # Tareas Pendientes
 
-# [[Registro/Diario/2025-07-16 Wednesday (29)\|2025-07-16 Wednesday (29)]]
+# [[Registro/Diario/2025-07-18 Friday (29)\|2025-07-18 Friday (29)]]
 
-    - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-29\|2025-29]]
-        - [ ] Rellenar muro en Dormitorio PA
-        - [ ] Rejilla en baño servicio
-        - [ ] Cámara chicotillo
-        - [ ] Conexión de aire y desagüe
-        - [ ] Cielo falso en baño visitas -10 cm
-        - [ ] Iluminación lineal bajo fogatero
-        - [ ] Piruleado inicio
-        - [ ] Medida de ventana en subsuelo
-        - [ ] Espesor de maderas para Sauna
+    - [ ] #Obras/Zapata
+        - [ ] Luminarias de muros en ingreso
+        - [ ] Cámaras de inspección en acometida
+        - [ ] Circuitos de iluminación en ingreso
+        - [ ] Detalles para instalación equipos centrales de aire acondicionado [[Contactos/Personas/Contratistas/@Erwin_Aspiazu\|@Erwin_Aspiazu]]
+        - [ ] Hule
+        - [ ] Ripio
+        - [ ] Cables para cinta led
+        - [ ] Fotos de pilastra
+        - [ ] 1000 pzas Ladrillo 6H
+        - [ ] Instalación de gas
+# [[Registro/Diario/2025-07-19 Saturday (29)\|2025-07-19 Saturday (29)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] [[VidrAlum\|VidrAlum]] ingresa (@[[2025-07-28 Monday (31)\|2025-07-28 Monday (31)]]) a obra y demora 3 semana, finalizando
 # [[Registro/Diario/2025/2025-07/2025-07-06 Sunday (27)\|2025-07-06 Sunday (27)]]
 
     - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-27\|2025-27]]
@@ -74,6 +79,21 @@
         - [ ] 2 Personas para limpieza [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] 10 bolsas de separadores 1.5 mm Cortag
         - [ ] 2 discos para porcelanato continuo Kamasa
+# [[Registro/Diario/2025/2025-07/2025-07-16 Wednesday (29)\|2025-07-16 Wednesday (29)]]
+
+    - [ ] #Obras/Zapata **Reunión** [[Registro/Semanal/2025-29\|2025-29]]
+        - [ ] Rellenar muro en dormitorio PA [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] Rejilla en baño servicio [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
+        - [x] Cámara chicotillo *finalizada* ✅ 2025-07-16
+        - [ ] Conexión de aire y desagüe [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
+        - [ ] Cielo falso en baño visitas -10 cm *depende de bacha* [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Iluminación lineal bajo fogatero
+            - [ ] Afinar terminado [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+            - [ ] Perfil a colocar [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] Piruleado inicio [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] Medida de ventana en subsuelo [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
+        - [ ] Espesor de maderas para Sauna
+            - [ ] *40 mm* [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}
 

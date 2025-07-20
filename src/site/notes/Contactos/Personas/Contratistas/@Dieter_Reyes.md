@@ -11,5 +11,8 @@
 # [[Registro/Diario/2025/2025-07/2025-07-09 Wednesday (28)\|2025-07-09 Wednesday (28)]]
 
     - [ ] Acometida electrica [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
+# [[Registro/Diario/2025/2025-07/2025-07-16 Wednesday (29)\|2025-07-16 Wednesday (29)]]
+
+    - [ ] Perfil a colocar [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
 
 { .block-language-dataview}
