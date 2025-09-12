@@ -10,13 +10,15 @@
 # [[Registro/Diario/2025/2025-07/2025-07-09 Wednesday (28)\|2025-07-09 Wednesday (28)]]
 
     - [ ] Nivel piso de sauna *Debe ser igual que el piso del baño* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-# [[Registro/Diario/2025/2025-07/2025-07-15 Tuesday (29)\|2025-07-15 Tuesday (29)]]
-
-    - [ ] 2 Personas para limpieza [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-07/2025-07-16 Wednesday (29)\|2025-07-16 Wednesday (29)]]
 
-    - [ ] Rellenar muro en dormitorio PA [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Afinar terminado [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-    - [ ] Piruleado inicio [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+# [[Registro/Diario/2025/2025-07/2025-07-22 Tuesday (30)\|2025-07-22 Tuesday (30)]]
+
+    - [ ] Contacto para retiro de escombros [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Retiro de escombros [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+# [[Registro/Diario/2025/2025-07/2025-07-28 Monday (31)\|2025-07-28 Monday (31)]]
+
+    - [ ] Adicionales Hidrosanitario [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 
 { .block-language-dataview}

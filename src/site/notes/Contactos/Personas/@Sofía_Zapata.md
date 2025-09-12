@@ -3,10 +3,6 @@
 ---
 
 
-# [[Registro/Diario/2025/2025-07/2025-07-06 Sunday (27)\|2025-07-06 Sunday (27)]]
-
-    - [ ] *Es necesario el chicotillo sanitario* [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Movimiento de Tierras [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-07/2025-07-09 Wednesday (28)\|2025-07-09 Wednesday (28)]]
 
     - [ ] Muestra de piedra laja negra en parqueo [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
@@ -17,5 +13,10 @@
 # [[Registro/Diario/2025/2025-07/2025-07-18 Friday (29)\|2025-07-18 Friday (29)]]
 
     - [ ] Luminarias de muros en ingreso [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] 1000 pzas Ladrillo 6H [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
+# [[Registro/Diario/2025/2025-07/2025-07-22 Tuesday (30)\|2025-07-22 Tuesday (30)]]
+
+    - [ ] Pintar viga estructura metálica [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] ^97c383
+    - [ ] Ladrillo 6H [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
 
 { .block-language-dataview}
