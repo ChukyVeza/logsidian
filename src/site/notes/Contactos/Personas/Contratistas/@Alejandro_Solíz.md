@@ -3,16 +3,5 @@
 ---
 
 
-# [[Registro/Diario/2025/2025-07/2025-07-06 Sunday (27)\|2025-07-06 Sunday (27)]]
-
-    - [ ] Pruebas de presión y estanqueidad [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
-        - [x] *Es necesario el chicotillo sanitario* [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] ✅ 2025-07-16
-# [[Registro/Diario/2025/2025-07/2025-07-09 Wednesday (28)\|2025-07-09 Wednesday (28)]]
-
-    - [ ] Punto de agua bajo asiento [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
-# [[Registro/Diario/2025/2025-07/2025-07-16 Wednesday (29)\|2025-07-16 Wednesday (29)]]
-
-    - [ ] Rejilla en baño servicio [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
-    - [ ] Conexión de aire y desagüe [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
 
 { .block-language-dataview}
