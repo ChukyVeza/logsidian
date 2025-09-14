@@ -62,18 +62,6 @@
         - [ ] [Cielo_Falso](<@Juan_Pablo_Hurtado>)
             - [ ] Cielo falso en Master Suite
         - [ ] Churrasquera con marco de 40x40x2mm
-# [[Registro/Diario/2025/2025-08/2025-08-08 Friday (32)\|2025-08-08 Friday (32)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Pirulear saldo de pasillo tecnico y rematar casetones
-        - [ ] Completar altura de revoque en master suite
-        - [ ] Completar altura de revestimiento en master suite
-        - [ ] 
-# [[Registro/Diario/2025/2025-08/2025-08-09 Saturday (32)\|2025-08-09 Saturday (32)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] 3 Disco de corte
-        - [ ] 5 bolsas de niveladores
 # [[Registro/Diario/2025/2025-08/2025-08-15 Friday (33)\|2025-08-15 Friday (33)]]
 
     - [ ] #Obras/Zapata
