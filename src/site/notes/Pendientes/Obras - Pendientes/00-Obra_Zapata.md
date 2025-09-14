@@ -43,30 +43,6 @@
             - [ ] *Afinar terminado* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
             - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-# [[Registro/Diario/2025/2025-08/2025-08-05 Tuesday (32)\|2025-08-05 Tuesday (32)]]
-
-    - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025-32\|2025-32]]
-        - [x] [Muebles](<@Wendy_Mendez>) ✅ 2025-08-05
-            - [x] Muros para mesones a 88 cm ✅ 2025-08-05
-        - [ ] [Proyecto_Hidrosanitario](<Zapata-Proyecto_Hidrosanitario>)
-            - [ ] Nivel de canal en pasillo servicio
-        - [ ] [Proyecto_Eléctrico](<Zapata-Proyecto_Eléctrico>)
-            - [ ] Iluminación en ingreso
-            - [x] Iluminación en baño visitas ✅ 2025-08-05
-            - [x] Iluminación en baño subsuelo ✅ 2025-08-05
-            - [ ] Portero con sensor de movimiento
-        - [ ] *[Albañilería](<@Ruben_Serrano>)*
-            - [ ] Canal drenaje
-            - [ ] Contrapiso
-            - [ ] Impermeabilizacion losa
-        - [ ] [Cielo_Falso](<@Juan_Pablo_Hurtado>)
-            - [ ] Cielo falso en Master Suite
-        - [ ] Churrasquera con marco de 40x40x2mm
-# [[Registro/Diario/2025/2025-08/2025-08-15 Friday (33)\|2025-08-15 Friday (33)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Recuplast
-        - [ ] Revoque de tragaluz en ingreso
 
 { .block-language-dataview}
 

@@ -3,11 +3,5 @@
 ---
 
 
-# [[Registro/Diario/2025/2025-08/2025-08-05 Tuesday (32)\|2025-08-05 Tuesday (32)]]
-
-    - [ ] *[Albañilería](<@Ruben_Serrano>)*
-        - [ ] Canal drenaje
-        - [ ] Contrapiso
-        - [ ] Impermeabilizacion losa
 
 { .block-language-dataview}
