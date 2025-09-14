@@ -38,7 +38,7 @@
         - [ ] 
 # [[Registro/Diario/2025-09-14 Sunday (37)\|2025-09-14 Sunday (37)]]
 
-    - [ ] #Obras/Zapata
+    - [ ] #Obras/Zapata **Semana** [[Registro/Semanal/2025-37\|2025-37]]
         - [ ] Iluminación lineal bajo fogatero
             - [ ] *Afinar terminado* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
             - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
