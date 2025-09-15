@@ -43,6 +43,11 @@
             - [ ] *Afinar terminado* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
             - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+# [[Registro/Diario/2025-09-15 Monday (38)\|2025-09-15 Monday (38)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Ingreso de [[VidrAlum\|VidrAlum]]
+        - [ ] 
 
 { .block-language-dataview}
 
