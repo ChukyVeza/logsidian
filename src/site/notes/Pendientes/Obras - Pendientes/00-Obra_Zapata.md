@@ -46,8 +46,30 @@
 # [[Registro/Diario/2025-09-15 Monday (38)\|2025-09-15 Monday (38)]]
 
     - [ ] #Obras/Zapata
-        - [ ] Ingreso de [[VidrAlum\|VidrAlum]]
-        - [ ] 
+        - [ ] Ingreso de [[VidrAlum\|VidrAlum]] ^1f7b87
+# [[Registro/Diario/2025-09-17 Wednesday (38)\|2025-09-17 Wednesday (38)]]
+
+    - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025-38\|2025-38]]
+        - ![[Registro/Diario/2025-09-15 Monday (38)#^1f7b87\|2025-09-15 Monday (38)#^1f7b87]]
+            - [ ] *[[VidrAlum\|VidrAlum]] ingresaría el [[Registro/Diario/2025-09-19 Friday (38)\|2025-09-19 Friday (38)]]
+        - [ ] Revestir lavandería con piso 60x60 cm
+        - [ ] Revestir piedra negra en cocina
+        - [ ] Perfil metálico en revestimiento de fachada
+# [[Registro/Diario/2025-09-18 Thursday (38)\|2025-09-18 Thursday (38)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Buña en fachada
+# [[Registro/Diario/2025-09-19 Friday (38)\|2025-09-19 Friday (38)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] Contrato de cielo falso [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Impermeabilizar baño servicio [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] ![[Registro/Diario/2025-09-15 Monday (38)#^1f7b87\|2025-09-15 Monday (38)#^1f7b87]]
+        - *Ingreso [[Registro/Diario/2025-09-22 Monday (39)\|2025-09-22 Monday (39)]]*
+# [[Registro/Diario/2025-09-22 Monday (39)\|2025-09-22 Monday (39)]]
+
+    - [ ] #Obras/Zapata
+        - [ ] *Ingreso a obra*![[Registro/Diario/2025-09-15 Monday (38)#^1f7b87\|2025-09-15 Monday (38)#^1f7b87]]
 
 { .block-language-dataview}
 
