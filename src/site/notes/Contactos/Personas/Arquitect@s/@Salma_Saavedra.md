@@ -3,5 +3,11 @@
 ---
 
 
+# [[Registro/Diario/2025/2025-09/2025-09-10 Wednesday (37)\|2025-09-10 Wednesday (37)]]
+
+    - [ ] Cielo Falso en Subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+# [[Registro/Diario/2025/2025-09/2025-09-14 Sunday (37)\|2025-09-14 Sunday (37)]]
+
+    - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}

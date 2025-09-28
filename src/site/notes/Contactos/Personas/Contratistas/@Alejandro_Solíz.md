@@ -3,5 +3,8 @@
 ---
 
 
+# [[Registro/Diario/2025/2025-09/2025-09-10 Wednesday (37)\|2025-09-10 Wednesday (37)]]
+
+    - [ ] Chicotillos para grifería [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
 
 { .block-language-dataview}
