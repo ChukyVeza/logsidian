@@ -4,21 +4,27 @@
 
 # Tareas
 
-### Pendiente
+>[!failure]- ## Pendientes
+
 # [[Registro/Diario/2025-09-23 Tuesday (39)\|2025-09-23 Tuesday (39)]]
 
     - [ ] #Obras/Zapata
-        - [ ] Retiro de escombro
+        - [x] Retiro de escombro ✅ 2025-09-25
         - [ ] Extractor de churrasquera
         - [ ] Mesones baños PA
 # [[Registro/Diario/2025-09-25 Thursday (39)\|2025-09-25 Thursday (39)]]
 
     - [ ] #Obras/Zapata
         - [ ] Pintura Beige
-        - [ ] Ingreso de [[VidrAlum\|VidrAlum]] *(grúa)* [[2025-09-29 Monday (40)\|2025-09-29 Monday (40)]]
+        - Ingreso de [[VidrAlum\|VidrAlum]] *(grúa)* [[Registro/Diario/2025-09-29 Monday (40)\|2025-09-29 Monday (40)]]
         - [ ] Pintura negra en subsuelo
         - [ ] Cielo falso en Subsuelo
         - [ ] Pintado de perfiles para piedra sinterizada con pintura electrostática
+# [[Registro/Diario/2025-09-29 Monday (40)\|2025-09-29 Monday (40)]]
+
+    - [ ] #Obras/Zapata
+        - *Ingreso [[VidrAlum\|VidrAlum]] a obra* ![[Registro/Diario/2025/2025-09/2025-09-15 Monday (38)#^1f7b87\|2025-09-15 Monday (38)#^1f7b87]] ^4bab89
+        - *Ingreso [[LeanCruz\|LeanCruz]] a obra*
 # [[Registro/Diario/2025/2025-09/2025-09-08 Monday (37)\|2025-09-08 Monday (37)]]
 
     - [ ] #Obras/Zapata
@@ -80,11 +86,13 @@
         - *Ingreso [[Registro/Diario/2025-09-22 Monday (39)\|2025-09-22 Monday (39)]]*
 
 { .block-language-dataview}
+>[!success]- ## Completados
 
-### Completados
+
 dataview
 task
 from "Registro/Diario"   
 sort file.name
 where contains(tags, "#Obras/Zapata") and completed
 group by file.link 
+
