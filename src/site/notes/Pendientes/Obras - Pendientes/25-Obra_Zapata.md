@@ -20,6 +20,7 @@
         - [ ] Zócalos en ingresó baño visitas [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Buña/Zócalo en muro doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Trabe 30% en piedra Laja [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] Material de pintura [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] 2 Latas Masa Corrida 1 Rollo lija 120 Norton
 # [[Registro/Diario/2025/2025-09/2025-09-10 Wednesday (37)\|2025-09-10 Wednesday (37)]]
 
     - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-37\|2025-37]]
