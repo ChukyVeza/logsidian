@@ -3,16 +3,8 @@
 ---
 
 
-# [[Registro/Diario/2025/2025-09/2025-09-08 Monday (37)\|2025-09-08 Monday (37)]]
-
-    - [ ] Revisar planos [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]] [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-    - [ ] Rematar encuentro de muro con losa [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-09/2025-09-10 Wednesday (37)\|2025-09-10 Wednesday (37)]]
 
-    - [ ] Estucar y pintar cortineros en baños y cuartos PA [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-    - [ ] Remates en esquinas baño visitas [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-    - [ ] Revoque filo inferior de garaje [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-    - [ ] Revestimiento negro bajo fogatero [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Dintel churrasquera con Panel 3D [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-09/2025-09-14 Sunday (37)\|2025-09-14 Sunday (37)]]
 

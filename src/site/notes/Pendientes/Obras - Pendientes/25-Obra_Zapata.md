@@ -6,38 +6,12 @@
 
 >[!failure]- ## Pendientes
 
-# [[Registro/Diario/2025-10-09 Thursday (41)\|2025-10-09 Thursday (41)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Materiales para pilastra eléctrica
-        - [ ] Base para calefón en patio de servicio [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
-        - [ ] 
-# [[Registro/Diario/2025-10-10 Friday (41)\|2025-10-10 Friday (41)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Base para termotanque
 # [[Registro/Diario/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
 
     - [ ] #Obras/Zapata **Reunión semanal** [[Registro/Semanal/2025-42\|2025-42]]
         - [ ] Ingreso de [[VidrAlum\|VidrAlum]]
         - [ ] Ingreso de [[Quilosa\|Quilosa]]
         - [ ] Revestimiento escalera [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-# [[Registro/Diario/2025/2025-09/2025-09-08 Monday (37)\|2025-09-08 Monday (37)]]
-
-    - [ ] #Obras/Zapata
-        - [x] Inodoro baño Master ✅ 2025-09-09
-            - [x] Cambiar conexión inodoro [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]] ✅ 2025-09-09
-            - [x] Rematar y revestir muro [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-09-09
-        - [ ] Churrasquera
-            - [ ] Revisar planos [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]] [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-            - [ ] Rematar encuentro de muro con losa [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [x] Remates de Cocina ✅ 2025-09-08
-            - [x] Corte para revestimiento de pared [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-09-08
-            - [x] Remate de rejilla piso [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-09-08
-        - [x] Punto A/C en cocina ✅ 2025-09-22
-            - [x] Mover cañería cobre [[Mainter\|Mainter]] ✅ 2025-09-08
-            - [x] Mover drenaje [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]] ✅ 2025-09-09
-            - [x] Mover punto eléctrico [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-09-10
 # [[Registro/Diario/2025/2025-09/2025-09-10 Wednesday (37)\|2025-09-10 Wednesday (37)]]
 
     - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-37\|2025-37]]
@@ -47,10 +21,10 @@
         - [x] Reposición de piso en servicio [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-09-17
         - [x] Ubicar termotanque cocina técnica [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]] ✅ 2025-09-19
             - [x] *Nueva ubicación en pasillo de servicio* ✅ 2025-09-19
-        - [ ] Estucar y pintar cortineros en baños y cuartos PA [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Remates en esquinas baño visitas [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Revoque filo inferior de garaje [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Revestimiento negro bajo fogatero [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [x] Estucar y pintar cortineros en baños y cuartos PA [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-10-14
+        - [x] Remates en esquinas baño visitas [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-10-14
+        - [x] Revoque filo inferior de garaje [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-10-14
+        - [x] Revestimiento negro bajo fogatero [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-10-14
         - [ ] Cielo Falso en Subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Dintel churrasquera con Panel 3D [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [x] Instalación eléctrica en A/C [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-09-15
@@ -67,7 +41,7 @@
     - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-38\|2025-38]]
         - ![[Registro/Diario/2025/2025-09/2025-09-15 Monday (38)#^1f7b87\|2025-09-15 Monday (38)#^1f7b87]]
             - [ ] *[[VidrAlum\|VidrAlum]] ingresaría el [[Registro/Diario/2025/2025-09/2025-09-19 Friday (38)\|2025-09-19 Friday (38)]]
-        - [ ] Revestir lavandería con piso 60x60 cm
+        - [x] Revestir lavandería con piso 60x60 cm ✅ 2025-10-14
         - [ ] Revestir piedra negra en cocina
         - [ ] Perfil metálico en revestimiento de fachada
 # [[Registro/Diario/2025/2025-09/2025-09-18 Thursday (38)\|2025-09-18 Thursday (38)]]
@@ -77,7 +51,7 @@
 # [[Registro/Diario/2025/2025-09/2025-09-19 Friday (38)\|2025-09-19 Friday (38)]]
 
     - [ ] #Obras/Zapata
-        - [ ] Contrato de cielo falso firmado [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [x] Contrato de cielo falso firmado [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] ✅ 2025-10-14
         - [ ] Impermeabilizar baño servicio [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [x] ![[Registro/Diario/2025/2025-09/2025-09-15 Monday (38)#^1f7b87\|2025-09-15 Monday (38)#^1f7b87]] ✅ 2025-09-22
         - *Ingreso [[Registro/Diario/2025/2025-09/2025-09-22 Monday (39)\|2025-09-22 Monday (39)]]*
@@ -100,13 +74,6 @@
     - [ ] #Obras/Zapata
         - *Ingreso [[VidrAlum\|VidrAlum]] a obra* ![[Registro/Diario/2025/2025-09/2025-09-15 Monday (38)#^1f7b87\|2025-09-15 Monday (38)#^1f7b87]] ^4bab89
         - *Ingreso [[LeanCruz\|LeanCruz]] a obra*
-# [[Registro/Diario/2025/2025-10/2025-10-01 Wednesday (40)\|2025-10-01 Wednesday (40)]]
-
-    - [ ] #Obras/Zapata
-        - [ ] Goteras
-# [[Registro/Diario/2025/2025-10/2025-10-06 Monday (41)\|2025-10-06 Monday (41)]]
-
-    - [ ] #Obras/Zapata **Reunión semanal** [[Registro/Semanal/2025/2025-41\|2025-41]] 
 # [[Registro/Diario/2025/2025-10/2025-10-07 Tuesday (41)\|2025-10-07 Tuesday (41)]]
 
     - [ ] #Obras/Zapata **Reunión semanal** [[Registro/Semanal/2025/2025-41\|2025-41]]
@@ -115,7 +82,12 @@
 # [[Registro/Diario/2025/2025-10/2025-10-08 Wednesday (41)\|2025-10-08 Wednesday (41)]]
 
     - [ ] #Obras/Zapata
-        - [ ] Cambio en cielo falso
+        - [ ] Cambio en cielo falso cocina y master suite
+# [[Registro/Diario/2025/2025-10/2025-10-09 Thursday (41)\|2025-10-09 Thursday (41)]]
+
+    - [ ] #Obras/Zapata
+        - [x] Materiales para pilastra eléctrica ✅ 2025-10-14
+        - [ ] Base para calefón en patio de servicio [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
 
 { .block-language-dataview}
 >[!success]- ## Completados
