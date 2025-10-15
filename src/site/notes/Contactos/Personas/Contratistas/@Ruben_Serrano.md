@@ -3,9 +3,6 @@
 ---
 
 
-# [[Registro/Diario/2025/2025-09/2025-09-10 Wednesday (37)\|2025-09-10 Wednesday (37)]]
-
-    - [ ] Dintel churrasquera con Panel 3D [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-09/2025-09-14 Sunday (37)\|2025-09-14 Sunday (37)]]
 
     - [ ] *Afinar terminado* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]

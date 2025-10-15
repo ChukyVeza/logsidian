@@ -10,7 +10,6 @@
 
     - [ ] #Obras/Rocabado
         - [ ] Cotización [[Studio Industrial\|Studio Industrial]] ⏳ 2025-10-13
-        - [ ] 
 # [[Registro/Diario/2025/2025-06/2025-06-23 Monday (26)\|2025-06-23 Monday (26)]]
 
     - [ ] #Obras/Rocabado

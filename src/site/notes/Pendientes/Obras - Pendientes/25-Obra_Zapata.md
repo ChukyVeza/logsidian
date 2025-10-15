@@ -20,24 +20,11 @@
         - [ ] Zócalos en ingresó baño visitas [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Buña/Zócalo en muro doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Trabe 30% en piedra Laja [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Material de pintura [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] 2 Latas Masa Corrida 1 Rollo lija 120 Norton
-# [[Registro/Diario/2025/2025-09/2025-09-10 Wednesday (37)\|2025-09-10 Wednesday (37)]]
-
-    - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-37\|2025-37]]
-        - [x] Cambiar piezas de revestimiento en ducha master [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-09-19
-        - [x] Revestimiento de sand detrás de inodoro master [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-09-19
-        - [ ] Chicotillos para grifería [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
-        - [x] Reposición de piso en servicio [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-09-17
-        - [x] Ubicar termotanque cocina técnica [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]] ✅ 2025-09-19
-            - [x] *Nueva ubicación en pasillo de servicio* ✅ 2025-09-19
-        - [x] Estucar y pintar cortineros en baños y cuartos PA [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-10-14
-        - [x] Remates en esquinas baño visitas [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-10-14
-        - [x] Revoque filo inferior de garaje [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-10-14
-        - [x] Revestimiento negro bajo fogatero [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]] ✅ 2025-10-14
-        - [ ] Cielo Falso en Subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-        - [ ] Dintel churrasquera con Panel 3D [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [x] Instalación eléctrica en A/C [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]] ✅ 2025-09-15
-        - [ ] 
+        - [ ] Material de pintura [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] ⏫ 2 Latas Masa Corrida 1 Rollo lija 120 Norton
+        - [ ] Separación luminaria a muro piso ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] ⏫
+        - [ ] Perfil en revestimiento fachada [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+        - [ ] Extractor de Churrasquera [[@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
+        - [ ] Mesones de baño [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-09/2025-09-14 Sunday (37)\|2025-09-14 Sunday (37)]]
 
     - [ ] #Obras/Zapata **Semana** [[Registro/Semanal/2025/2025-37\|2025-37]]
@@ -45,14 +32,6 @@
             - [ ] *Afinar terminado* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
             - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-# [[Registro/Diario/2025/2025-09/2025-09-17 Wednesday (38)\|2025-09-17 Wednesday (38)]]
-
-    - [ ] #Obras/Zapata **Reunión Semanal** [[Registro/Semanal/2025/2025-38\|2025-38]]
-        - ![[Registro/Diario/2025/2025-09/2025-09-15 Monday (38)#^1f7b87\|2025-09-15 Monday (38)#^1f7b87]]
-            - [ ] *[[VidrAlum\|VidrAlum]] ingresaría el [[Registro/Diario/2025/2025-09/2025-09-19 Friday (38)\|2025-09-19 Friday (38)]]
-        - [x] Revestir lavandería con piso 60x60 cm ✅ 2025-10-14
-        - [ ] Revestir piedra negra en cocina
-        - [ ] Perfil metálico en revestimiento de fachada
 # [[Registro/Diario/2025/2025-09/2025-09-18 Thursday (38)\|2025-09-18 Thursday (38)]]
 
     - [ ] #Obras/Zapata
@@ -64,12 +43,6 @@
         - [ ] Impermeabilizar baño servicio [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [x] ![[Registro/Diario/2025/2025-09/2025-09-15 Monday (38)#^1f7b87\|2025-09-15 Monday (38)#^1f7b87]] ✅ 2025-09-22
         - *Ingreso [[Registro/Diario/2025/2025-09/2025-09-22 Monday (39)\|2025-09-22 Monday (39)]]*
-# [[Registro/Diario/2025/2025-09/2025-09-23 Tuesday (39)\|2025-09-23 Tuesday (39)]]
-
-    - [ ] #Obras/Zapata
-        - [x] Retiro de escombro ✅ 2025-09-25
-        - [ ] Extractor de churrasquera
-        - [ ] Mesones baños PA
 # [[Registro/Diario/2025/2025-09/2025-09-25 Thursday (39)\|2025-09-25 Thursday (39)]]
 
     - [ ] #Obras/Zapata
