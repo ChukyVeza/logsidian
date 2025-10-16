@@ -22,7 +22,7 @@
         - [ ] Buña en fachada por fisuras [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Trabe 30% en piedra Laja [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Material de pintura [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]] ⏫ 2 Latas Masa Corrida 1 Rollo lija 120 Norton
-        - [ ] Separación luminaria a muro piso ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] ⏫
+        - [x] Separación luminaria a muro piso ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] ⏫ ✅ 2025-10-15 *A 15 cm del muro terminado*
         - [ ] Perfil en revestimiento fachada [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Extractor de Churrasquera [[@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contactos/Personas/Contratistas/@Alejandro_Solíz\|@Alejandro_Solíz]]
         - [ ] Mesones de baño [[Contactos/Personas/@Sofía_Zapata\|@Sofía_Zapata]]
@@ -31,7 +31,7 @@
 
     - [ ] #Obras/Zapata **Semana** [[Registro/Semanal/2025/2025-37\|2025-37]]
         - [ ] Iluminación lineal bajo fogatero
-            - [ ] *Afinar terminado* [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
+            - [ ] *Afinar terminado* [[@LeanCruz\|@LeanCruz]]
             - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 # [[Registro/Diario/2025/2025-09/2025-09-25 Thursday (39)\|2025-09-25 Thursday (39)]]
