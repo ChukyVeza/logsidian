@@ -3,7 +3,7 @@
 ---
 
 ### #Obras/Zapata 
-# [[Registro/Diario/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
+# [[Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
 
     - [ ] Base lavamanos baño visitas se mantiene [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Buña en fachada por fisuras [[Contactos/Personas/Contratistas/@Ruben_Serrano\|@Ruben_Serrano]]

@@ -4,8 +4,5 @@
 
 ### #Obras/Zapata 
 
-# [[Registro/Diario/2025/2025-09/2025-09-22 Monday (39)\|2025-09-22 Monday (39)]]
-
-    - [ ] *Cotizar proyecto de gas con [[Contactos/Personas/Contratistas/@Erika_Martinez\|@Erika_Martinez]]* ![[Registro/Diario/2025/2025-09/2025-09-19 Friday (38)#^18758f\|2025-09-19 Friday (38)#^18758f]]
 
 { .block-language-dataview}

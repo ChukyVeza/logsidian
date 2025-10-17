@@ -6,10 +6,6 @@
 # Tareas
 
 ### Pendiente
-# [[Registro/Diario/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
-
-    - [ ] #Obras/Rocabado
-        - [ ] Cotización [[Studio Industrial\|Studio Industrial]] ⏳ 2025-10-13
 # [[Registro/Diario/2025/2025-06/2025-06-23 Monday (26)\|2025-06-23 Monday (26)]]
 
     - [ ] #Obras/Rocabado
@@ -25,7 +21,11 @@
         - [ ] Pedido de materiales
         - [ ] Planos de obra
         - [ ] Plano detalles cubierta metálica
-            - [ ] [[Studio Industrial\|Studio Industrial]] wa.me/75185755 [Studio Industrial Instagram](https://www.instagram.com/studioindustrialbolivia?utm_source=ig_web_button_share_sheet&igsh=cHc3NG9nYW1xY2Vn)
-            - [ ] [[Alsevic\|Alsevic]] wa.me/71001179 [Alsevic Instagram](https://www.instagram.com/alsevic_sc?utm_source=ig_web_button_share_sheet&igsh=MTEwdzl4aXQxcm5laA==)
+            - [ ] [[Contactos/Empresas/@Studio Industrial\|@Studio Industrial]] wa.me/75185755 [Studio Industrial Instagram](https://www.instagram.com/studioindustrialbolivia?utm_source=ig_web_button_share_sheet&igsh=cHc3NG9nYW1xY2Vn)
+            - [ ] [[Contactos/Empresas/@Alsevic\|@Alsevic]] wa.me/71001179 [Alsevic Instagram](https://www.instagram.com/alsevic_sc?utm_source=ig_web_button_share_sheet&igsh=MTEwdzl4aXQxcm5laA==)
+# [[Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
+
+    - [ ] #Obras/Rocabado
+        - [ ] Cotización [[Contactos/Empresas/@Studio Industrial\|@Studio Industrial]] ⏳ 2025-10-13
 
 { .block-language-dataview}
