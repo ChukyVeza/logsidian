@@ -31,7 +31,7 @@
 
     - [ ] #Obras/Zapata
         - [ ] Cotizar rejilla metálica subsuelo
-        - [ ] 36 Perno para cámaras
+        - [ ] 36 Pernos para cámaras
 # [[Registro/Diario/2025/2025-09/2025-09-14 Sunday (37)\|2025-09-14 Sunday (37)]]
 
     - [ ] #Obras/Zapata **Semana** [[Registro/Semanal/2025/2025-37\|2025-37]]
