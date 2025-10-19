@@ -10,7 +10,7 @@
         - [ ] Plano churrasquera
         - [ ] Plano cocina técnica
         - [ ] Diseño puertas ingreso y corredizas
-        - [ ] Interruptores
+        - [ ] Interruptores  🆔 t9qlez
         - [ ] Empapelado bronce en cielo baño visita
         - [ ] Empapelado/pintura doble altura
         - [ ] Chapa pintura

@@ -39,7 +39,7 @@
         - [ ] Tablero
         - [ ] Cableado doble altura
         - [ ] Cableado Jardines
-        - [ ] Instalación iluminación
+        - [ ] Instalación iluminación ⛔ t9qlez
     - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-20
 # @Gree
 
@@ -54,6 +54,7 @@
     - [ ] Cambio en cielo falso en puerta entre cocina y master suite [[Contactos/Personas/Contratistas/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]
 # @LeanCruz
 
+    - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 🆔 vtfiy6 📅 2025-10-20
     - [ ] *Afinar terminado* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-20
 # @Marcelo_Veza
 
@@ -61,6 +62,7 @@
         - [ ] Ductos de A/C (PA)
         - [ ] Punto eléctrico (Pasillo Servicio)
         - [ ] Ingreso principal
+        - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 🆔 vtfiy6 📅 2025-10-20
     - [ ] Cotizar fierro [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
 # @Mario_Echazu
 
@@ -76,8 +78,7 @@
     - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
         - [ ] Concluir borde ingreso antes que desportillen los de la piedra
-        - [ ] ⁠Revestir canal piscina para hacer pruebas
-        - [ ] Arreglar desnivel piscina
+        - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
         - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
         - [ ] ⁠Piso en Escalera
         - [ ] Laja en Garaje
@@ -98,7 +99,7 @@
         - [ ] Plano churrasquera
         - [ ] Plano cocina técnica
         - [ ] Diseño puertas ingreso y corredizas
-        - [ ] Interruptores
+        - [ ] Interruptores  🆔 t9qlez
         - [ ] Empapelado bronce en cielo baño visita
         - [ ] Empapelado/pintura doble altura
         - [ ] Chapa pintura
@@ -180,11 +181,11 @@ sort link.file.name asc
             - [ ] Ductos de A/C (PA)
             - [ ] Punto eléctrico (Pasillo Servicio)
             - [ ] Ingreso principal
+            - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 🆔 vtfiy6 📅 2025-10-20
         - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
             - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
             - [ ] Concluir borde ingreso antes que desportillen los de la piedra
-            - [ ] ⁠Revestir canal piscina para hacer pruebas
-            - [ ] Arreglar desnivel piscina
+            - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
             - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
             - [ ] ⁠Piso en Escalera
             - [ ] Laja en Garaje
@@ -208,12 +209,12 @@ sort link.file.name asc
             - [ ] Tablero
             - [ ] Cableado doble altura
             - [ ] Cableado Jardines
-            - [ ] Instalación iluminación
+            - [ ] Instalación iluminación ⛔ t9qlez
         - [ ] #Arquitectura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
             - [ ] Plano churrasquera
             - [ ] Plano cocina técnica
             - [ ] Diseño puertas ingreso y corredizas
-            - [ ] Interruptores
+            - [ ] Interruptores  🆔 t9qlez
             - [ ] Empapelado bronce en cielo baño visita
             - [ ] Empapelado/pintura doble altura
             - [ ] Chapa pintura

@@ -8,8 +8,7 @@
     - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
         - [ ] Concluir borde ingreso antes que desportillen los de la piedra
-        - [ ] ⁠Revestir canal piscina para hacer pruebas
-        - [ ] Arreglar desnivel piscina
+        - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
         - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
         - [ ] ⁠Piso en Escalera
         - [ ] Laja en Garaje
