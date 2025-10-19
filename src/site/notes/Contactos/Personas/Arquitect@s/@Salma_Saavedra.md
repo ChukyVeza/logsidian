@@ -3,6 +3,21 @@
 ---
 
 
+# [[Registro/Diario/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
+
+    - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] #Arquitectura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+        - [ ] Plano churrasquera
+        - [ ] Plano cocina técnica
+        - [ ] Diseño puertas ingreso y corredizas
+        - [ ] Interruptores
+        - [ ] Empapelado bronce en cielo baño visita
+        - [ ] Empapelado/pintura doble altura
+        - [ ] Chapa pintura
+        - [ ] Mesón en cocina técnica
+        - [ ] Mobiliario en cocina técnica
+        - [ ] Grifería en cocina técnica
+        - [ ] Mobiliario en baño visitas
 # [[Registro/Diario/2025/2025-09/2025-09-14 Sunday (37)\|2025-09-14 Sunday (37)]]
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
