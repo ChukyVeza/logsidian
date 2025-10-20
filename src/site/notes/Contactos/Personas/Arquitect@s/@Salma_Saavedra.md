@@ -5,11 +5,10 @@
 
 # [[Registro/Diario/2025/2025-09/2025-09-14 Sunday (37)\|2025-09-14 Sunday (37)]]
 
-    - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/@Javier_Gallardo\|@Javier_Gallardo]]
 # [[Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
 
     - [ ] Rejilla de canal subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] Color de pintura beige [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Nuevo plano de Churrasquera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Buña/Zócalo en muro doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Perfil en revestimiento fachada [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
@@ -17,13 +16,13 @@
 
     - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] #Arquitectura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-        - [ ] Plano churrasquera
-        - [ ] Plano cocina técnica
+        - [ ] Plano churrasquera [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]]
+        - [x] Plano cocina técnica ✅ 2025-09-20
         - [ ] Diseño puertas ingreso y corredizas
-        - [ ] Interruptores  🆔 t9qlez
-        - [ ] Empapelado bronce en cielo baño visita
-        - [ ] Empapelado/pintura doble altura
-        - [ ] Chapa pintura
+        - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] Empapelado bronce en cielo baño visita [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Empapelado/pintura doble altura [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Chapa ingreso [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Mesón en cocina técnica
         - [ ] Mobiliario en cocina técnica
         - [ ] Grifería en cocina técnica
