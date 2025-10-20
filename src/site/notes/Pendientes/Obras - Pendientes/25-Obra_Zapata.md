@@ -138,6 +138,8 @@
         - [ ] Ventana baño inodoro
         - [ ] Puerta gimnasio
         - [ ] Colocar tapetas y sellado en fachada
+        - [ ] Puerta de sauna
+        - [ ] Paño fijo de Sauna
         - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
 
 { .block-language-dataview}
