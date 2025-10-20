@@ -14,6 +14,7 @@
     - [ ] Seta Cuero Cocina [[@Sin_Asignar\|@Sin_Asignar]]
     - [ ] Limpiar losa para colocar cielo falso de madera [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020110753.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110753.png)
     - [ ] Remate de peldaño entre garaje y pasillo ingreso [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020110842.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110842.png)
+    - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] ![Pasted image 20251020111154.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111154.png)
     - [ ] Rebaje cordón de canal subsuelo [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] (*5cm lado del pasto*) ![Pasted image 20251020111218.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111218.png)
 # @Alejandro_Solíz
 
@@ -26,6 +27,7 @@
         - [ ] Instalar ducha servicio
         - [ ] Ubicar termotanque area servicio
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] ![Pasted image 20251020111154.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111154.png)
 # @Assinco
 
     - [ ] Instalar central [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/A-C/@Assinco\|@Assinco]]
