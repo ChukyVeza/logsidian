@@ -12,16 +12,8 @@
     - [ ] Oro filo en fachada [[@Sin_Asignar\|@Sin_Asignar]]
     - [ ] Seta Cuero inodoro Master [[@Sin_Asignar\|@Sin_Asignar]]
     - [ ] Seta Cuero Cocina [[@Sin_Asignar\|@Sin_Asignar]]
-    - [ ] Limpiar losa para colocar cielo falso de madera [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020110753.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110753.png)
-    - [ ] Remate de peldaño entre garaje y pasillo ingreso [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020110842.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110842.png)
-    - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] ![Pasted image 20251020111154.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111154.png)
-    - [ ] Rebaje cordón de canal subsuelo [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] (*5cm lado del pasto*) ![Pasted image 20251020111218.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111218.png)
-    - [ ] Buña entre cambio de materiales [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020115124.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115124.png)
-    - [ ] Altura de terreno desde fogatero [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020115507.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115507.png)
-    - [ ] Dirección piedra laja [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020115445.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115445.png)
-    - [ ] Remate bajo losa en gimnasio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020115412.png|400](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115412.png)
-    - [ ] Modelo de rejilla pluvial aprobada [[@Sin_Asignar\|@Sin_Asignar]] ![Pasted image 20251020115559.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115559.png)
-    - [ ] Modelo de rejilla pluvial aprobada [[@Sin_Asignar\|@Sin_Asignar]] ![Pasted image 20251020115559.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115559.png)
+    - [ ] Modelo de rejilla pluvial aprobada [[@Sin_Asignar\|@Sin_Asignar]]
+        - ![Pasted image 20251020115559.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115559.png)
 # @Alejandro_Solíz
 
     - [ ] Sala de bombas [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -33,7 +25,8 @@
         - [ ] Instalar ducha servicio
         - [ ] Ubicar termotanque area servicio
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-    - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] ![Pasted image 20251020111154.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111154.png)
+    - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
+        - ![Pasted image 20251020111154.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111154.png)
 # @Assinco
 
     - [ ] Instalar central [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/A-C/@Assinco\|@Assinco]]
@@ -115,13 +108,20 @@
         - [ ] Bordes cielo falso baño visita y baño subsuelo
         - [ ] ⁠Limpiar hormigon esferas bajo doble altura y losas doble altura (cielo y piso)
     - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
-    - [ ] Limpiar losa para colocar cielo falso de madera [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020110753.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110753.png)
-    - [ ] Remate de peldaño entre garaje y pasillo ingreso [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020110842.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110842.png)
-    - [ ] Rebaje cordón de canal subsuelo [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] (*5cm lado del pasto*) ![Pasted image 20251020111218.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111218.png)
-    - [ ] Buña entre cambio de materiales [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020115124.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115124.png)
-    - [ ] Altura de terreno desde fogatero [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020115507.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115507.png)
-    - [ ] Dirección piedra laja [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020115445.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115445.png)
-    - [ ] Remate bajo losa en gimnasio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020115412.png|400](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115412.png)
+    - [ ] Limpiar losa para colocar cielo falso de madera [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+        - ![Pasted image 20251020110753.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110753.png)
+    - [ ] Remate de peldaño entre garaje y pasillo ingreso [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+        - ![Pasted image 20251020110842.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110842.png)
+    - [ ] Rebaje cordón de canal subsuelo [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] (*5cm lado del pasto*)
+        - ![Pasted image 20251020111218.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111218.png)
+    - [ ] Buña entre cambio de materiales [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+        - ![Pasted image 20251020115124.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115124.png)
+    - [ ] Altura de terreno desde fogatero [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+        - ![Pasted image 20251020115507.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115507.png)
+    - [ ] Dirección piedra laja [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+        - ![Pasted image 20251020115445.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115445.png)
+    - [ ] Remate bajo losa en gimnasio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+        - ![Pasted image 20251020115412.png|400](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115412.png)
 # @Salma_Saavedra
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
