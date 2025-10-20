@@ -2,7 +2,7 @@
 {"Nombre":"Salma Diana Saavedra Antelo","Oficio":"Arquitect@","Contacto":"https://wa.me//59170034758","tags":["Arquitectura"],"dg-publish":true,"permalink":"/contactos/personas/arquitect-s/salma-saavedra/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-
+### #Obra/Zapata 
 # [[Registro/Diario/2025/2025-09/2025-09-14 Sunday (37)\|2025-09-14 Sunday (37)]]
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]

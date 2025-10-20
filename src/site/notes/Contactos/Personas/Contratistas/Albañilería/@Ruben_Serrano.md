@@ -2,7 +2,7 @@
 {"Nombre":"Rubén Serrano","Oficio":"Contratista","Contacto":"https://wa.me//59178060812","tags":["Construcción/Estructura/Hormigón"],"dg-publish":true,"permalink":"/contactos/personas/contratistas/albanileria/ruben-serrano/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-### #Obras/Zapata 
+### #Obra/Zapata 
 # [[Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
 
     - [ ] Base lavamanos baño visitas se mantiene [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp
