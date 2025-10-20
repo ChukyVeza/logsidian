@@ -3,9 +3,6 @@
 ---
 
 
-# [[Registro/Diario/2025/2025-05/2025-05-19 Monday (21)\|2025-05-19 Monday (21)]]
-
-    - [ ] Cotizar fierro [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] Inspeccionar Humedades por Lluvia [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]

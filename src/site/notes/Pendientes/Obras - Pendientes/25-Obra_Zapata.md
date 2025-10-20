@@ -31,22 +31,21 @@
 # @Dienzo
 
     - [ ] #Construcción/Carpintería/Melamina [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
-        - [ ] Muebles en Master Suite
-        - [ ] Muebles en Cocina
-        - [ ] Muebles en Cocineta
-        - [ ] Mueble baño visitas ⛔ hx27yp
+        - [ ] Muebles en Master Suite [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
+        - [ ] Muebles en Cocina [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
+        - [ ] Muebles en Cocineta [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
+        - [ ] Mueble baño visitas ⛔ hx27yp [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
 # @Dieter_Reyes
 
     - [ ] Iluminación lineal bajo fogatero [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] *Afinar terminado* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-20
         - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-20
     - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-    - [ ] #Construcción/Instalación/Electricidad [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-        - [ ] Acometida Trifásica
-        - [ ] Tableros Eléctricos (pedido de térmicos)
-        - [ ] Cableado doble altura (pedido de cables)
-        - [ ] Cableado Jardines (pedido de cables)
-        - [ ] Instalación iluminación ⛔ t9qlez
+    - [ ] Acometida Trifásica [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Tableros Eléctricos (pedido de térmicos) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Cableado doble altura (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Cableado Jardines (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Instalación iluminación ⛔ t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
 # @Gree
 
@@ -68,7 +67,6 @@
     - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 🆔 vtfiy6 📅 2025-10-20
 # @Marcelo_Veza
 
-    - [ ] Cotizar fierro [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
     - [ ] Inspeccionar Humedades por Lluvia [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Ductos de A/C (PA)
         - [ ] Punto eléctrico (Pasillo Servicio)
@@ -111,7 +109,6 @@
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/@Javier_Gallardo\|@Javier_Gallardo]]
     - [ ] Rejilla de canal subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] Nuevo plano de Churrasquera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Buña/Zócalo en muro doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Perfil en revestimiento fachada [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]

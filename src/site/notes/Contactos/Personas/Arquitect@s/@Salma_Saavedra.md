@@ -9,7 +9,6 @@
 # [[Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
 
     - [ ] Rejilla de canal subsuelo [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] Nuevo plano de Churrasquera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Buña/Zócalo en muro doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Perfil en revestimiento fachada [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
