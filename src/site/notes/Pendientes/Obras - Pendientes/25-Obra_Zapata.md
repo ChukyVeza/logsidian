@@ -12,6 +12,8 @@
     - [ ] Oro filo en fachada [[@Sin_Asignar\|@Sin_Asignar]]
     - [ ] Seta Cuero inodoro Master [[@Sin_Asignar\|@Sin_Asignar]]
     - [ ] Seta Cuero Cocina [[@Sin_Asignar\|@Sin_Asignar]]
+    - [ ] Limpiar losa para colocar cielo falso de madera [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020110753.png](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110753.png)
+    - [ ] Remate de peldaño entre garaje y pasillo ingreso [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020110842.png](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110842.png)
 # @Alejandro_Solíz
 
     - [ ] Sala de bombas [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -104,6 +106,8 @@
         - [ ] Bordes cielo falso baño visita y baño subsuelo
         - [ ] ⁠Limpiar hormigon esferas bajo doble altura y losas doble altura (cielo y piso)
     - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
+    - [ ] Limpiar losa para colocar cielo falso de madera [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020110753.png](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110753.png)
+    - [ ] Remate de peldaño entre garaje y pasillo ingreso [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ![Pasted image 20251020110842.png](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110842.png)
 # @Salma_Saavedra
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
