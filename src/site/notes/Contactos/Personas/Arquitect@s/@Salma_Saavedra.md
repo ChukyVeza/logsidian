@@ -15,16 +15,17 @@
 
     - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] #Arquitectura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-        - [ ] Plano churrasquera [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]]
+        - [ ] Plano churrasquera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]]
         - [x] Plano cocina técnica ✅ 2025-09-20
         - [ ] Diseño puertas ingreso y corredizas
-        - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-        - [ ] Empapelado bronce en cielo baño visita [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-        - [ ] Empapelado/pintura doble altura [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-        - [ ] Chapa ingreso [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] Empapelado bronce en cielo baño visita [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Empapelado/pintura doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Chapa ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Portero eléctrico [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Mesón en cocina técnica
-        - [ ] Mobiliario en cocina técnica
         - [ ] Grifería en cocina técnica
         - [ ] Mobiliario en baño visitas
+        - [ ] Desayunador [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/@Javier_Gallardo\|@Javier_Gallardo]]
 
 { .block-language-dataview}

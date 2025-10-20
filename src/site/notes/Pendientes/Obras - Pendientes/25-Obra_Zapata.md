@@ -8,12 +8,10 @@
 
 # \-
 
-    - [ ] #Construcción/Varios [[@Sin_Asignar\|@Sin_Asignar]]
-        - [ ] Conclusión H°V° [[Contactos/Empresas/Proveedores/Servicios/Varios/@Rengel\|@Rengel]]
-        - [ ] Oro Filo en Columnas
-        - [ ] Oro filo en fachada
-        - [ ] Seta Cuero inodoro Master
-        - [ ] Seta Cuero Cocina
+    - [ ] Oro Filo en Columnas [[@Sin_Asignar\|@Sin_Asignar]]
+    - [ ] Oro filo en fachada [[@Sin_Asignar\|@Sin_Asignar]]
+    - [ ] Seta Cuero inodoro Master [[@Sin_Asignar\|@Sin_Asignar]]
+    - [ ] Seta Cuero Cocina [[@Sin_Asignar\|@Sin_Asignar]]
 # @Alejandro_Solíz
 
     - [ ] Sala de bombas [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -31,10 +29,10 @@
 # @Dienzo
 
     - [ ] #Construcción/Carpintería/Melamina [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
-        - [ ] Muebles en Master Suite [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
-        - [ ] Muebles en Cocina [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
-        - [ ] Muebles en Cocineta [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
-        - [ ] Mueble baño visitas ⛔ hx27yp [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
+        - [ ] Muebles en Master Suite
+        - [ ] Muebles en Cocina
+        - [ ] Muebles en Cocineta
+        - [ ] Mueble baño visitas ⛔ hx27yp
 # @Dieter_Reyes
 
     - [ ] Iluminación lineal bajo fogatero [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
@@ -46,13 +44,14 @@
     - [ ] Cableado doble altura (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Cableado Jardines (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Instalación iluminación ⛔ t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-    - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
 # @Gree
 
     - [ ] Instalar equipos split [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/A-C/@Gree\|@Gree]]
 # @Javier_Gallardo
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/@Javier_Gallardo\|@Javier_Gallardo]]
+    - [ ] Desayunador [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/@Javier_Gallardo\|@Javier_Gallardo]]
     - [ ] #Construcción/Carpintería/Madera [[Contactos/Personas/Contratistas/@Javier_Gallardo\|@Javier_Gallardo]]
         - [ ] Instalación de marcos madera
         - [ ] Instalación de puertas madera
@@ -75,7 +74,7 @@
 # @Mario_Echazu
 
     - [ ] Extractor de Churrasquera [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-    - [ ] Plano churrasquera [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]]
+    - [ ] Plano churrasquera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]]
 # @Mi_Piscina
 
     - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
@@ -104,7 +103,7 @@
     - [ ] #Construcción/Albañilería [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Bordes cielo falso baño visita y baño subsuelo
         - [ ] ⁠Limpiar hormigon esferas bajo doble altura y losas doble altura (cielo y piso)
-    - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
 # @Salma_Saavedra
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/@Javier_Gallardo\|@Javier_Gallardo]]
@@ -113,30 +112,33 @@
     - [ ] Perfil en revestimiento fachada [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] #Arquitectura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-        - [ ] Plano churrasquera [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]]
+        - [ ] Plano churrasquera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]]
         - [x] Plano cocina técnica ✅ 2025-09-20
         - [ ] Diseño puertas ingreso y corredizas
-        - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-        - [ ] Empapelado bronce en cielo baño visita [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-        - [ ] Empapelado/pintura doble altura [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-        - [ ] Chapa ingreso [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] Empapelado bronce en cielo baño visita [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Empapelado/pintura doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Chapa ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Portero eléctrico [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Mesón en cocina técnica
-        - [ ] Mobiliario en cocina técnica
         - [ ] Grifería en cocina técnica
         - [ ] Mobiliario en baño visitas
+        - [ ] Desayunador [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/@Javier_Gallardo\|@Javier_Gallardo]]
 # @Sofía_Zapata
 
     - [ ] Mesones de baño [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Empapelado bronce en cielo baño visita [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Empapelado/pintura doble altura [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Chapa ingreso [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] Empapelado bronce en cielo baño visita [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] Empapelado/pintura doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] Chapa ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] Portero eléctrico [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] Desayunador [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/@Javier_Gallardo\|@Javier_Gallardo]]
 # @VidrAlum
 
     - [ ] #Construcción/Carpintería/Aluminio [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
         - [ ] Ventana baño inodoro
         - [ ] Puerta gimnasio
         - [ ] Colocar tapetas y sellado en fachada
-        - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
 
 { .block-language-dataview}
 
