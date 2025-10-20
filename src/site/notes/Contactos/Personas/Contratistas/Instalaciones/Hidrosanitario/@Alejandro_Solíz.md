@@ -10,7 +10,7 @@
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] #Construcción/Instalación/Hidrosanitario [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-        - [ ] Chicotillos para grifería
+        - [ ] Chicotillos para grifería ⛔ hu881x
         - [ ] Instalar Lavandería
         - [ ] Instalar lavamanos servicio
         - [ ] Instalar ducha servicio
