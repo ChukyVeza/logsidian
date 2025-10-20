@@ -19,6 +19,6 @@
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
 # [[Registro/Diario/2025/2025-10/2025-10-20 Monday (43)\|2025-10-20 Monday (43)]]
 
-    - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] ![Pasted image 20251020111154.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111154.png)
+    - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] ![Pasted image 20251020111154.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111154.png)
 
 { .block-language-dataview}
