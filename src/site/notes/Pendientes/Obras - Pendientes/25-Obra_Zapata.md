@@ -18,8 +18,6 @@
         - [ ] Ubicar te  rmotanque área servicio
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-    - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] *21/10/2025*
-        - ![Pasted image 20251020111154.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111154.png)
     - [ ] Se necesita brazo de ducha en Master Suite [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
 # @Assinco
 
@@ -72,6 +70,7 @@
     - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 🆔 vtfiy6 📅 2025-10-27
         - [ ] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
             - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
+    - [ ] Pintura estructuras metálicas [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
 # @Marcelo_Veza
 
     - [ ] Inspeccionar Humedades por Lluvia [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
@@ -138,7 +137,10 @@
     - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Inserción de escalera en piso
             - ![IMG_20251021_120324.jpg|200](/img/user/Registro/Diario/Adjuntos/IMG_20251021_120324.jpg)
-        - [ ] Replanteo de escalera *21/10/2025*
+        - [ ] Replanteo de escalera 🛫 2025-10-21
+    - [ ] Se reviste columna con negro [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Remate de revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+        - ![IMG_20251021_142805.jpg|200](/img/user/Registro/Diario/Adjuntos/IMG_20251021_142805.jpg)
 # @Salma_Saavedra
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]

@@ -3,6 +3,9 @@
 ---
 
 ### #Obra/Zapata 
+# [[Registro/Diario/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
+
+    - [ ] Pintura estructuras metálicas [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
 # [[Registro/Diario/2025/2025-09/2025-09-14 Sunday (37)\|2025-09-14 Sunday (37)]]
 
     - [ ] Iluminación lineal bajo fogatero [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
