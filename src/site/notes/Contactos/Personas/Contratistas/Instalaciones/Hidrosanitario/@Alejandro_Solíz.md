@@ -14,7 +14,7 @@
         - [ ] Instalar Lavandería
         - [ ] Instalar lavamanos servicio
         - [ ] Instalar ducha servicio
-        - [ ] Ubicar termotanque area servicio
+        - [ ] Ubicar te  rmotanque área servicio
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
 # [[Registro/Diario/2025/2025-10/2025-10-20 Monday (43)\|2025-10-20 Monday (43)]]
 

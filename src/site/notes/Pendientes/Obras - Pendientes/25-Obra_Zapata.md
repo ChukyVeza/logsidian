@@ -23,7 +23,7 @@
         - [ ] Instalar Lavandería
         - [ ] Instalar lavamanos servicio
         - [ ] Instalar ducha servicio
-        - [ ] Ubicar termotanque area servicio
+        - [ ] Ubicar te  rmotanque área servicio
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
         - ![Pasted image 20251020111154.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111154.png)
@@ -49,9 +49,14 @@
     - [ ] Cableado Jardines (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Instalación iluminación ⛔ t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+# @Erika_Martinez
+
+    - [ ] #Construcción/Instalación/A-C [[Contactos/Personas/Contratistas/Instalaciones/Gas/@Erika_Martinez\|@Erika_Martinez]]
+        - [ ] Punto termotanque servicio
+        - [ ] Rejilla cocina servicio
 # @Gree
 
-    - [ ] Instalar equipos split [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/A-C/@Gree\|@Gree]]
+    - [ ] Instalar equipos Split [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/A-C/@Gree\|@Gree]]
 # @Javier_Gallardo
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
@@ -62,6 +67,9 @@
 # @Juan_Pablo_Hurtado
 
     - [ ] Cambio en cielo falso en puerta entre cocina y master suite [[Contactos/Personas/Contratistas/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]
+    - [ ] #Construcción/Steel_Framing/Cielo_Falso [[Contactos/Personas/Contratistas/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]
+        - [ ] Apertura para rejilla
+        - ![WhatsApp Image 2025-10-09 at 11.15.16.jpeg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/WhatsApp%20Image%202025-10-09%20at%2011.15.16.jpeg)
 # @LeanCruz
 
     - [ ] Iluminación lineal bajo fogatero [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
