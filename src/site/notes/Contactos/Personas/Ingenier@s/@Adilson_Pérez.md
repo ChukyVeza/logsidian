@@ -11,5 +11,6 @@
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 🆔 vtfiy6 📅 2025-10-20
+        - [ ] *A la espera de cotización [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
 
 { .block-language-dataview}
