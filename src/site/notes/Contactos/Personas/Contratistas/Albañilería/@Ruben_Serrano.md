@@ -6,7 +6,7 @@
 # [[Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
 
     - [ ] Base lavamanos baño visitas se mantiene [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp 📅 2025-10-21
-        - ![WhatsApp Image 2025-10-21 at 07.05.48.jpeg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/WhatsApp%20Image%202025-10-21%20at%2007.05.48.jpeg) ![Pasted image 20251021070652.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021070652.png)
+        - ![WhatsApp Image 2025-10-21 at 07.05.48.jpeg|230](/img/user/Registro/Diario/2025/2025-10/Adjuntos/WhatsApp%20Image%202025-10-21%20at%2007.05.48.jpeg) ![Pasted image 20251021070652.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021070652.png)
     - [ ] Buña en fachada por fisuras [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Impermeabilizar baño de servicio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]

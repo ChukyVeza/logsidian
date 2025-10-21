@@ -76,7 +76,8 @@
         - [ ] *Afinar terminado* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-27
         - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-27
     - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 🆔 vtfiy6 📅 2025-10-20
-        - [ ] *A la espera de cotización [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
+        - [ ] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
+            - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
 # @Marcelo_Veza
 
     - [ ] Inspeccionar Humedades por Lluvia [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
@@ -84,7 +85,8 @@
         - [ ] Punto eléctrico (Pasillo Servicio)
         - [ ] Ingreso principal
         - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 🆔 vtfiy6 📅 2025-10-20
-            - [ ] *A la espera de cotización [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
+            - [ ] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
+                - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
 # @Mario_Echazu
 
     - [ ] Extractor de Churrasquera [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -94,14 +96,15 @@
     - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
 # @Quilosa
 
-    - [ ] *A la espera de cotización [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
+    - [ ] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
+        - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
 # @Rengel
 
     - [ ] Conclusión H°V° [[Contactos/Empresas/Proveedores/Servicios/Varios/@Rengel\|@Rengel]]
 # @Ruben_Serrano
 
     - [ ] Base lavamanos baño visitas se mantiene [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp 📅 2025-10-21
-        - ![WhatsApp Image 2025-10-21 at 07.05.48.jpeg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/WhatsApp%20Image%202025-10-21%20at%2007.05.48.jpeg) ![Pasted image 20251021070652.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021070652.png)
+        - ![WhatsApp Image 2025-10-21 at 07.05.48.jpeg|230](/img/user/Registro/Diario/2025/2025-10/Adjuntos/WhatsApp%20Image%202025-10-21%20at%2007.05.48.jpeg) ![Pasted image 20251021070652.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021070652.png)
     - [ ] Buña en fachada por fisuras [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Impermeabilizar baño de servicio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
