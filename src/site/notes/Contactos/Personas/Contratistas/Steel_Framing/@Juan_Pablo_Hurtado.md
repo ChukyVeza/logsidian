@@ -10,6 +10,6 @@
 
     - [ ] #Construcción/Steel_Framing/Cielo_Falso [[Contactos/Personas/Contratistas/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]
         - [ ] Apertura para rejilla
-        - ![WhatsApp Image 2025-10-09 at 11.15.16.jpeg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/WhatsApp%20Image%202025-10-09%20at%2011.15.16.jpeg)
+            - ![WhatsApp Image 2025-10-09 at 11.15.16.jpeg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/WhatsApp%20Image%202025-10-09%20at%2011.15.16.jpeg)
 
 { .block-language-dataview}
