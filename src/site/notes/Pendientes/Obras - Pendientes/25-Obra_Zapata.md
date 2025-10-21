@@ -6,14 +6,6 @@
 
 >[!abstract]- Por Contratistas
 
-# \-
-
-    - [ ] Oro Filo en Columnas [[@Sin_Asignar\|@Sin_Asignar]]
-    - [ ] Oro filo en fachada [[@Sin_Asignar\|@Sin_Asignar]]
-    - [ ] Seta Cuero inodoro Master [[@Sin_Asignar\|@Sin_Asignar]]
-    - [ ] Seta Cuero Cocina [[@Sin_Asignar\|@Sin_Asignar]]
-    - [ ] Modelo de rejilla pluvial aprobada [[@Sin_Asignar\|@Sin_Asignar]]
-        - ![Pasted image 20251020115559.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115559.png)
 # @Alejandro_Solíz
 
     - [ ] Sala de bombas [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -25,8 +17,10 @@
         - [ ] Instalar ducha servicio
         - [ ] Ubicar te  rmotanque área servicio
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-    - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
+    - [ ] Bajar nivel, tapa de cámara pluvial máximo posible [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] *21/10/2025*
         - ![Pasted image 20251020111154.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111154.png)
+    - [ ] Se necesita brazo de ducha en Master Suite [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
 # @Assinco
 
     - [ ] Instalar central [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/A-C/@Assinco\|@Assinco]]
@@ -43,7 +37,7 @@
         - [ ] *Afinar terminado* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-27
         - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-27
     - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-    - [ ] Acometida Trifásica [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Cablear Acometida Trifásica [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] *21/10/2025*
     - [ ] Tableros Eléctricos (pedido de térmicos) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Cableado doble altura (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Cableado Jardines (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
@@ -94,6 +88,8 @@
 # @Mi_Piscina
 
     - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Revestimiento Sauna [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
+    - [ ] Estufa baño [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
 # @Quilosa
 
     - [ ] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
@@ -139,6 +135,10 @@
         - ![Pasted image 20251020115445.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115445.png)
     - [ ] Remate bajo losa en gimnasio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - ![Pasted image 20251020115412.png|400](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115412.png)
+    - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] Inserción de escalera en piso
+            - ![IMG_20251021_120324.jpg|200](/img/user/Registro/Diario/Adjuntos/IMG_20251021_120324.jpg)
+        - [ ] Replanteo de escalera *21/10/2025*
 # @Salma_Saavedra
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
@@ -155,10 +155,19 @@
         - [ ] Empapelado/pintura doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Chapa ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Portero eléctrico [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
         - [ ] Mesón en cocina técnica
         - [ ] Grifería en cocina técnica
         - [ ] Mobiliario en baño visitas
         - [ ] Desayunador de madera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
+# @Sin_Asignar
+
+    - [ ] Oro Filo en Columnas [[@Sin_Asignar\|@Sin_Asignar]]
+    - [ ] Oro Filo en Fachada [[@Sin_Asignar\|@Sin_Asignar]]
+    - [ ] Seta Cuero inodoro Master [[@Sin_Asignar\|@Sin_Asignar]]
+    - [ ] Seta Cuero Cocina [[@Sin_Asignar\|@Sin_Asignar]]
+    - [ ] Modelo de rejilla pluvial aprobada [[@Sin_Asignar\|@Sin_Asignar]]
+        - ![Pasted image 20251020115559.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115559.png)
 # @Sofía_Zapata
 
     - [ ] Mesones de baño (PA) [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] 🆔 hu881x
@@ -166,17 +175,18 @@
     - [ ] Empapelado/pintura doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Chapa ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Portero eléctrico [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
     - [ ] Desayunador de madera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
 # @VidrAlum
 
     - [ ] #Construcción/Carpintería/Aluminio [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
         - [ ] Ventana baño inodoro
-        - [ ] Puerta gimnasio
+        - [ ] Puerta gimnasio sin marco
         - [ ] Colocar tapetas y sellado en fachada
         - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
     - [ ] #Construcción/Carpintería/Aluminio [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
         - [ ] Paño fijo Sauna
-        - [ ] Puerta ingreso de sauna
+        - [ ] Puerta ingreso de sauna con marco
 
 { .block-language-dataview}
 

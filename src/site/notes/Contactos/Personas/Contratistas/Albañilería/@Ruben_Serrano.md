@@ -3,6 +3,12 @@
 ---
 
 ### #Obra/Zapata 
+# [[Registro/Diario/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
+
+    - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+        - [ ] Inserción de escalera en piso
+            - ![IMG_20251021_120324.jpg|200](/img/user/Registro/Diario/Adjuntos/IMG_20251021_120324.jpg)
+        - [ ] Replanteo de escalera *21/10/2025*
 # [[Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
 
     - [ ] Base lavamanos baño visitas se mantiene [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp 📅 2025-10-21

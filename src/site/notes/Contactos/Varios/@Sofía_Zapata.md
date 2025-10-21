@@ -12,6 +12,7 @@
     - [ ] Empapelado/pintura doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Chapa ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Portero eléctrico [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
     - [ ] Desayunador de madera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
 
 { .block-language-dataview}
