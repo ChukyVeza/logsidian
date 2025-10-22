@@ -14,6 +14,7 @@
 
     - [ ] #Construcción/Carpintería/Aluminio [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
         - [ ] Paño fijo Sauna
+            - [ ] *Detalle desnivel en losa?*[[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Puerta ingreso de sauna con marco
 
 { .block-language-dataview}

@@ -88,7 +88,7 @@
 
     - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Revestimiento Sauna [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
-    - [ ] Estufa baño [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
+    - [ ] Estufa sauna [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
 # @Quilosa
 
     - [ ] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
@@ -138,6 +138,8 @@
         - [ ] Inserción de escalera en piso
             - ![IMG_20251021_120324.jpg|200](/img/user/Registro/Diario/Adjuntos/IMG_20251021_120324.jpg)
         - [ ] Replanteo de escalera 🛫 2025-10-21
+            - *Altura de contrahuellas HC=17.8 cm*
+            - ![Pasted image 20251021210437.png|200](/img/user/Registro/Diario/Adjuntos/Pasted%20image%2020251021210437.png)
     - [ ] Se reviste columna con negro [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Remate de revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - ![IMG_20251021_142805.jpg|200](/img/user/Registro/Diario/Adjuntos/IMG_20251021_142805.jpg)
@@ -162,6 +164,7 @@
         - [ ] Grifería en cocina técnica
         - [ ] Mobiliario en baño visitas
         - [ ] Desayunador de madera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
+    - [ ] *Detalle desnivel en losa?*[[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 # @Sin_Asignar
 
     - [ ] Oro Filo en Columnas [[@Sin_Asignar\|@Sin_Asignar]]
@@ -188,6 +191,7 @@
         - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
     - [ ] #Construcción/Carpintería/Aluminio [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
         - [ ] Paño fijo Sauna
+            - [ ] *Detalle desnivel en losa?*[[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Puerta ingreso de sauna con marco
 
 { .block-language-dataview}

@@ -9,6 +9,8 @@
         - [ ] Inserción de escalera en piso
             - ![IMG_20251021_120324.jpg|200](/img/user/Registro/Diario/Adjuntos/IMG_20251021_120324.jpg)
         - [ ] Replanteo de escalera 🛫 2025-10-21
+            - *Altura de contrahuellas HC=17.8 cm*
+            - ![Pasted image 20251021210437.png|200](/img/user/Registro/Diario/Adjuntos/Pasted%20image%2020251021210437.png)
     - [ ] Se reviste columna con negro [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Remate de revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - ![IMG_20251021_142805.jpg|200](/img/user/Registro/Diario/Adjuntos/IMG_20251021_142805.jpg)
