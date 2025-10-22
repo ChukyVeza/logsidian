@@ -5,7 +5,7 @@
 ### #Obra/Zapata 
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
-    - [ ] #Construcción/Carpintería/Aluminio [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
+    - [ ] #Obra/Zapata  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #Construcción/Carpintería/Aluminio
         - [ ] Ventana baño inodoro
         - [ ] Puerta gimnasio sin marco
         - [ ] Colocar tapetas y sellado en fachada

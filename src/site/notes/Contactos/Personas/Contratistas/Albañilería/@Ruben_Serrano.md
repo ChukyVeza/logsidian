@@ -11,24 +11,24 @@
     - [ ] Impermeabilizar baño de servicio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
-    - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
+    - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería
+        - [ ] Bordes cielo falso baño visita y baño subsuelo
+        - [ ] ⁠Limpiar hormigon esferas bajo doble altura y losas doble altura (cielo y piso)
+    - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Pintura
+        - [ ] Masillado y lijado para pintar PA
+        - [ ] Pintura negra en cielo falso PA
+        - [ ] Pintura negra en esferas de hormigón (previa limpieza de hormigón)
+        - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería/Revestimiento
         - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
         - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
         - [ ] Concluir borde ingreso antes que desportillen los de la piedra 🛫 2025-10-21
         - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
         - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
-        - [ ] ⁠Piso en Escalera
+        - [ ] ⁠Piso en Escalera 📅 2025-10-21 🛫 2025-10-21
         - [ ] Laja en Garaje
         - [ ] Laja en Pasillo Técnico
-    - [ ] #Construcción/Pintura [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Masillado y lijado para pintar PA
-        - [ ] Pintura negra en cielo falso PA
-        - [ ] Pintura negra en esferas de hormigón (previa limpieza de hormigón)
-        - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] #Construcción/Albañilería [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Bordes cielo falso baño visita y baño subsuelo
-        - [ ] ⁠Limpiar hormigon esferas bajo doble altura y losas doble altura (cielo y piso)
-    - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
 # [[Registro/Diario/2025/2025-10/2025-10-20 Monday (43)\|2025-10-20 Monday (43)]]
 
     - [ ] Limpiar losa para colocar cielo falso de madera [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]

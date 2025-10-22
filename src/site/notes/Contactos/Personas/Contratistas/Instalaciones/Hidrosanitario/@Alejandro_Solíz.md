@@ -9,7 +9,6 @@
     - [ ] Extractor de Churrasquera [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
-    - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
     - [ ] #Obra/Zapata [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #Construcción/Instalación/Hidrosanitario
         - [ ] Chicotillos para grifería ⛔ hu881x
         - [ ] Instalar Lavandería
@@ -18,6 +17,7 @@
         - [x] Ubicar termotanque área servicio ✅ 2025-10-21
             - ![Pasted image 20251021220059.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021220059.png)
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]

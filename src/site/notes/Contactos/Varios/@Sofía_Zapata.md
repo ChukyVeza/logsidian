@@ -8,12 +8,12 @@
     - [ ] Mesones de baño (PA) [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] 🆔 hu881x
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
-    - [ ] Empapelado bronce en cielo baño visita [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Empapelado/pintura doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Chapa ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Portero eléctrico [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-    - [ ] Desayunador de madera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
+    - [ ] Empapelado bronce en cielo baño visita [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] Empapelado/pintura doble altura [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] Chapa ingreso [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] Portero eléctrico [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] Desayunador de madera [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] *Se necesita brazo de ducha en Master Suite* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
