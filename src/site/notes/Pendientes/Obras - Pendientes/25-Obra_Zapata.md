@@ -19,7 +19,7 @@
             - ![Pasted image 20251021220059.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021220059.png)
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
+    - [ ] #Obra/Zapata [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #Construcción/Instalación/Hidrosanitario
         - [ ] *Se necesita brazo de ducha en Master Suite* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
 # @Assinco
 
@@ -48,7 +48,7 @@
     - [ ] Energizar sala de bombas [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
 # @Erika_Martinez
 
-    - [ ] #Construcción/Instalación/A-C [[Contactos/Personas/Contratistas/Instalaciones/Gas/@Erika_Martinez\|@Erika_Martinez]]
+    - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Instalaciones/Gas/@Erika_Martinez\|@Erika_Martinez]] #Construcción/Instalación/Gas
         - [ ] Punto termotanque servicio
         - [ ] Rejilla cocina servicio
 # @Gree
@@ -65,7 +65,7 @@
 # @Juan_Pablo_Hurtado
 
     - [ ] Cambio en cielo falso en puerta entre cocina y master suite [[Contactos/Personas/Contratistas/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]
-    - [ ] #Construcción/Steel_Framing/Cielo_Falso [[Contactos/Personas/Contratistas/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]
+    - [ ] #Obra/Zapata [[Contactos/Personas/Contratistas/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]] #Construcción/Steel_Framing/Cielo_Falso
         - [ ] Apertura para rejilla
             - ![WhatsApp Image 2025-10-09 at 11.15.16.jpeg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/WhatsApp%20Image%202025-10-09%20at%2011.15.16.jpeg)
 # @LeanCruz
@@ -89,7 +89,7 @@
 # @Mi_Piscina
 
     - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-    - [ ] [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
+    - [ ] #Obra/Zapata [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] #Construcción/Instalación/Hidrosanitario
         - [ ] Revestimiento Sauna
         - [ ] Calentador Sauna
 # @Quilosa
@@ -141,19 +141,17 @@
         - ![Pasted image 20251020115445.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115445.png)
     - [ ] Remate bajo losa en gimnasio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - ![Pasted image 20251020115412.png|400](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115412.png)
-    - [ ] [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Inserción de escalera en piso
-            - ![IMG_20251021_120324.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_120324.jpg)
-        - [ ] Replanteo de escalera 🛫 2025-10-21
-            - *Altura de contrahuellas HCh=17.8 cm*
-            - ![Pasted image 20251021210437.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021210437.png)
+    - [ ] #Obra/Zapata [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería
+        - [ ] Completar revestimiento en ducha de Master Suite
+            - ![IMG_20251021_142805.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_142805.jpg)
         - [ ] Se reviste columna con negro
             - Sugerencia *JCM*
             - ![IMG_20251021_124451.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_124451.jpg)
-        - [ ] Completar revestimiento en ducha de Master Suite
-            - ![IMG_20251021_142805.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_142805.jpg)
-        - [ ] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-            - [ ] *Se necesita brazo de ducha en Master Suite* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Replanteo de escalera 🛫 2025-10-21
+            - *Altura de contrahuellas HCh=17.8 cm*
+            - ![Pasted image 20251021210437.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021210437.png)
+        - [ ] Inserción de escalera en piso
+            - ![IMG_20251021_120324.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_120324.jpg)
 # @Salma_Saavedra
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
@@ -184,6 +182,7 @@
     - [ ] Seta Cuero Cocina [[@Sin_Asignar\|@Sin_Asignar]]
     - [ ] Modelo de rejilla pluvial aprobada [[@Sin_Asignar\|@Sin_Asignar]]
         - ![Pasted image 20251020115559.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115559.png)
+    - [ ] Escalera marinera para mantenimiento [[@Sin_Asignar\|@Sin_Asignar]]
 # @Sofía_Zapata
 
     - [ ] Mesones de baño (PA) [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] 🆔 hu881x
@@ -201,10 +200,10 @@
         - [ ] Puerta gimnasio sin marco
         - [ ] Colocar tapetas y sellado en fachada
         - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
-    - [ ] #Construcción/Carpintería/Aluminio [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
+    - [ ] #Obra/Zapata [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #Construcción/Carpintería/Aluminio
         - [ ] Paño fijo Sauna
             - [ ] *Detalle desnivel en losa?*[[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-        - [ ] Puerta ingreso de sauna con marco
+        - [ ] Puerta ingreso de sauna *con marco*
 
 { .block-language-dataview}
 

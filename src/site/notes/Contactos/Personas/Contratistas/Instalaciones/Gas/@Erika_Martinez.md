@@ -5,7 +5,7 @@
 ### #Obra/Zapata 
 # [[Registro/Diario/2025/2025-10/2025-10-20 Monday (43)\|2025-10-20 Monday (43)]]
 
-    - [ ] #Construcción/Instalación/A-C [[Contactos/Personas/Contratistas/Instalaciones/Gas/@Erika_Martinez\|@Erika_Martinez]]
+    - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Instalaciones/Gas/@Erika_Martinez\|@Erika_Martinez]] #Construcción/Instalación/Gas
         - [ ] Punto termotanque servicio
         - [ ] Rejilla cocina servicio
 

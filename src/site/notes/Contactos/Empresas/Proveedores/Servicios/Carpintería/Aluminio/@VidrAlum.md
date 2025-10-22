@@ -12,9 +12,9 @@
         - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
 # [[Registro/Diario/2025/2025-10/2025-10-20 Monday (43)\|2025-10-20 Monday (43)]]
 
-    - [ ] #Construcción/Carpintería/Aluminio [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
+    - [ ] #Obra/Zapata [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #Construcción/Carpintería/Aluminio
         - [ ] Paño fijo Sauna
             - [ ] *Detalle desnivel en losa?*[[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
-        - [ ] Puerta ingreso de sauna con marco
+        - [ ] Puerta ingreso de sauna *con marco*
 
 { .block-language-dataview}

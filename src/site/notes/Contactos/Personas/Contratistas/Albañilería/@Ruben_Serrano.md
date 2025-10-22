@@ -47,18 +47,16 @@
         - ![Pasted image 20251020115412.png|400](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115412.png)
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
-    - [ ] [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Inserción de escalera en piso
-            - ![IMG_20251021_120324.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_120324.jpg)
-        - [ ] Replanteo de escalera 🛫 2025-10-21
-            - *Altura de contrahuellas HCh=17.8 cm*
-            - ![Pasted image 20251021210437.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021210437.png)
+    - [ ] #Obra/Zapata [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería
+        - [ ] Completar revestimiento en ducha de Master Suite
+            - ![IMG_20251021_142805.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_142805.jpg)
         - [ ] Se reviste columna con negro
             - Sugerencia *JCM*
             - ![IMG_20251021_124451.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_124451.jpg)
-        - [ ] Completar revestimiento en ducha de Master Suite
-            - ![IMG_20251021_142805.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_142805.jpg)
-        - [ ] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-            - [ ] *Se necesita brazo de ducha en Master Suite* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Replanteo de escalera 🛫 2025-10-21
+            - *Altura de contrahuellas HCh=17.8 cm*
+            - ![Pasted image 20251021210437.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021210437.png)
+        - [ ] Inserción de escalera en piso
+            - ![IMG_20251021_120324.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_120324.jpg)
 
 { .block-language-dataview}
