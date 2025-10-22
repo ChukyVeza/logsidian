@@ -10,7 +10,8 @@
 
     - [ ] Sala de bombas [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
     - [ ] Extractor de Churrasquera [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-    - [ ] #Construcción/Instalación/Hidrosanitario [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
+    - [ ] #Obra/Zapata [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #Construcción/Instalación/Hidrosanitario
         - [ ] Chicotillos para grifería ⛔ hu881x
         - [ ] Instalar Lavandería
         - [ ] Instalar lavamanos servicio
@@ -18,7 +19,6 @@
         - [x] Ubicar termotanque área servicio ✅ 2025-10-21
             - ![Pasted image 20251021220059.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021220059.png)
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-    - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
     - [ ] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
         - [ ] *Se necesita brazo de ducha en Master Suite* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
 # @Assinco
@@ -26,7 +26,7 @@
     - [ ] Instalar central [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/A-C/@Assinco\|@Assinco]]
 # @Dienzo
 
-    - [ ] #Construcción/Carpintería/Melamina [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
+    - [ ] #Obra/Zapata [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] #Construcción/Carpintería/Melamina
         - [ ] Muebles en Master Suite
         - [ ] Muebles en Cocina
         - [ ] Muebles en Cocineta
@@ -36,13 +36,13 @@
     - [ ] Iluminación lineal bajo fogatero [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] *Afinar terminado* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-27
         - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-27
-    - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Cablear Acometida Trifásica [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] *21/10/2025*
     - [ ] Tableros Eléctricos (pedido de térmicos) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Cableado doble altura (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Cableado Jardines (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Instalación iluminación ⛔ t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
 # @Erika_Martinez
 
     - [ ] #Construcción/Instalación/A-C [[Contactos/Personas/Contratistas/Instalaciones/Gas/@Erika_Martinez\|@Erika_Martinez]]
@@ -55,7 +55,7 @@
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
     - [ ] Desayunador de madera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
-    - [ ] #Construcción/Carpintería/Madera [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
+    - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #Construcción/Carpintería/Madera
         - [ ] Instalación de marcos madera
         - [ ] Instalación de puertas madera
 # @Juan_Pablo_Hurtado
@@ -73,14 +73,53 @@
     - [ ] Pintura en estructuras metálicas [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
 # @Marcelo_Veza
 
-    - [ ] Inspeccionar Humedades por Lluvia [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
-        - [ ] Ductos de A/C (PA)
-        - [ ] Punto eléctrico (Pasillo Servicio)
-        - [ ] Ingreso principal
-        - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] 🆔 vtfiy6 📅 2025-10-24
-            - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]* 📅 2025-10-20 ✅ 2025-10-21
-                - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
-            - [ ] *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
+    - [ ] #Obra/Zapata [[Contactos/Personas/Ingenier@s/@Marcelo_Veza\|@Marcelo_Veza]]
+        - [ ] Inspeccionar Humedades por Lluvia
+            - [ ] Ductos de A/C (PA)
+            - [ ] Punto eléctrico (Pasillo Servicio)
+            - [ ] Ingreso principal
+        - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+            - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
+            - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
+            - [ ] Concluir borde ingreso antes que desportillen los de la piedra 🛫 2025-10-21
+            - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
+            - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
+            - [ ] ⁠Piso en Escalera
+            - [ ] Laja en Garaje
+            - [ ] Laja en Pasillo Técnico
+        - [ ] #Construcción/Pintura [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+            - [ ] Masillado y lijado para pintar PA
+            - [ ] Pintura negra en cielo falso PA
+            - [ ] Pintura negra en esferas de hormigón (previa limpieza de hormigón)
+            - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+        - [ ] #Construcción/Albañilería [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+            - [ ] Bordes cielo falso baño visita y baño subsuelo
+            - [ ] ⁠Limpiar hormigon esferas bajo doble altura y losas doble altura (cielo y piso)
+        - [ ] #Construcción/Instalación/Electricidad
+            - [ ] Cablear Acometida Trifásica [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] *21/10/2025*
+            - [ ] Tableros Eléctricos (pedido de térmicos) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+            - [ ] Cableado doble altura (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+            - [ ] Cableado Jardines (pedido de cables) [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+            - [ ] Instalación iluminación ⛔ t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] #Arquitectura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+            - [ ] Plano churrasquera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]]
+            - [x] Plano cocina técnica ✅ 2025-09-20
+            - [ ] Diseño puertas ingreso y corredizas
+            - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+            - [ ] Empapelado bronce en cielo baño visita [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+            - [ ] Empapelado/pintura doble altura [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+            - [ ] Chapa ingreso [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+            - [ ] Portero eléctrico [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+            - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
+            - [ ] Mesón en cocina técnica
+            - [ ] Grifería en cocina técnica
+            - [ ] Mobiliario en baño visitas
+            - [ ] Desayunador de madera [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
+        - [ ] #Construcción/Carpintería/Aluminio [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
+            - [ ] Ventana baño inodoro
+            - [ ] Puerta gimnasio sin marco
+            - [ ] Colocar tapetas y sellado en fachada
+            - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
 # @Mario_Echazu
 
     - [ ] Extractor de Churrasquera [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -93,11 +132,12 @@
         - [ ] Calentador Sauna
 # @Quilosa
 
-    - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] 🆔 vtfiy6 📅 2025-10-24
-        - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]* 📅 2025-10-20 ✅ 2025-10-21
-            - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
-        - [ ] *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
     - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
+    - [ ] #Obra/Zapata [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] #Construcción/Impermeabilización
+        - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] 🆔 vtfiy6 📅 2025-10-24
+            - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]* 📅 2025-10-20 ✅ 2025-10-21
+                - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
+            - [ ] *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
 # @Rengel
 
     - [ ] Conclusión H°V° [[Contactos/Empresas/Proveedores/Servicios/Varios/@Rengel\|@Rengel]]
@@ -110,7 +150,7 @@
     - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
         - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
-        - [ ] Concluir borde ingreso antes que desportillen los de la piedra
+        - [ ] Concluir borde ingreso antes que desportillen los de la piedra 🛫 2025-10-21
         - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
         - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
         - [ ] ⁠Piso en Escalera
