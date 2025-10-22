@@ -9,8 +9,9 @@
         - [ ] Ductos de A/C (PA)
         - [ ] Punto eléctrico (Pasillo Servicio)
         - [ ] Ingreso principal
-        - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 🆔 vtfiy6 📅 2025-10-27
-            - [ ] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]*
+        - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] 🆔 vtfiy6 📅 2025-10-24
+            - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]* ✅ 2025-10-21
                 - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
+                - *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
 
 { .block-language-dataview}
