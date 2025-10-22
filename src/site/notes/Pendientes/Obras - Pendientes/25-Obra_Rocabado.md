@@ -32,6 +32,7 @@
 
     - [ ] #Obra/Rocabado
         - [ ] #Tipo/Material #Construcción/Varios
+            - [ ] **Cemento !!**
             - [ ] malla sombra
             - [ ] 1 rollo hule
             - [ ] 3 pza palas
