@@ -18,7 +18,7 @@
     - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Pintura
         - [ ] Masillado y lijado para pintar PA
         - [ ] Pintura negra en cielo falso PA
-        - [ ] Pintura negra en esferas de hormigón (previa limpieza de hormigón)
+        - [ ] Pintura negra en esferas de hormigón *(previa limpieza de hormigón)*
         - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería/Revestimiento
         - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
@@ -28,7 +28,8 @@
         - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
         - [ ] ⁠Piso en Escalera 📅 2025-10-21 🛫 2025-10-21
         - [ ] Laja en Garaje
-        - [ ] Laja en Pasillo Técnico
+        - [x] Laja en Pasillo Técnico ✅ 2025-10-16
+            - ![Pasted image 20251022080336.png|150](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251022080336.png)
 # [[Registro/Diario/2025/2025-10/2025-10-20 Monday (43)\|2025-10-20 Monday (43)]]
 
     - [ ] Limpiar losa para colocar cielo falso de madera [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
