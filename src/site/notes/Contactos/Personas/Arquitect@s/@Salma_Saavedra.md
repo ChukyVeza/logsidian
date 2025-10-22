@@ -31,5 +31,8 @@
 # [[Registro/Diario/2025/2025-10/2025-10-20 Monday (43)\|2025-10-20 Monday (43)]]
 
     - [ ] *Detalle desnivel en losa?*[[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+# [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
+
+    - [ ] Diseño escalera marinera mantenimiento [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 
 { .block-language-dataview}

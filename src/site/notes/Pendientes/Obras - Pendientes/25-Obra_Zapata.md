@@ -51,6 +51,12 @@
     - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Instalaciones/Gas/@Erika_Martinez\|@Erika_Martinez]] #Construcción/Instalación/Gas
         - [ ] Punto termotanque servicio
         - [ ] Rejilla cocina servicio
+# @Gary
+
+    - [ ] Oro Filo en Columnas [[Contactos/Personas/Contratistas/Especialista/@Gary\|@Gary]]
+    - [ ] Oro Filo en Fachada [[Contactos/Personas/Contratistas/Especialista/@Gary\|@Gary]] 📅 2025-10-20 🛫 2025-10-21
+    - [ ] Seta Cuero inodoro Master [[Contactos/Personas/Contratistas/Especialista/@Gary\|@Gary]]
+    - [ ] Seta Cuero Cocina [[Contactos/Personas/Contratistas/Especialista/@Gary\|@Gary]]
 # @Gree
 
     - [ ] Instalar equipos Split [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/A-C/@Gree\|@Gree]]
@@ -174,15 +180,12 @@
         - [ ] Desayunador de madera [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
     - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] *Detalle desnivel en losa?*[[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] Diseño escalera marinera mantenimiento [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
 # @Sin_Asignar
 
-    - [ ] Oro Filo en Columnas [[@Sin_Asignar\|@Sin_Asignar]]
-    - [ ] Oro Filo en Fachada [[@Sin_Asignar\|@Sin_Asignar]]
-    - [ ] Seta Cuero inodoro Master [[@Sin_Asignar\|@Sin_Asignar]]
-    - [ ] Seta Cuero Cocina [[@Sin_Asignar\|@Sin_Asignar]]
     - [ ] Modelo de rejilla pluvial aprobada [[@Sin_Asignar\|@Sin_Asignar]]
         - ![Pasted image 20251020115559.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115559.png)
-    - [ ] Escalera marinera para mantenimiento [[@Sin_Asignar\|@Sin_Asignar]]
+    - [ ] Fabricación escalera marinera [[@Sin_Asignar\|@Sin_Asignar]]
 # @Sofía_Zapata
 
     - [ ] Mesones de baño (PA) [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] 🆔 hu881x
