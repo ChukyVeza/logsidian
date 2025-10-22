@@ -15,7 +15,8 @@
         - [ ] Instalar Lavandería
         - [ ] Instalar lavamanos servicio
         - [ ] Instalar ducha servicio
-        - [ ] Ubicar te  rmotanque área servicio
+        - [x] Ubicar termotanque área servicio ✅ 2025-10-21
+            - ![Pasted image 20251021220059.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021220059.png)
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
     - [ ] [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -68,6 +69,7 @@
     - [ ] Iluminación lineal bajo fogatero [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] *Afinar terminado* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-27
         - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-27
+    - [ ] *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
     - [ ] Pintura en estructuras metálicas [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
 # @Marcelo_Veza
 
@@ -76,9 +78,9 @@
         - [ ] Punto eléctrico (Pasillo Servicio)
         - [ ] Ingreso principal
         - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] 🆔 vtfiy6 📅 2025-10-24
-            - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]* ✅ 2025-10-21
+            - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]* 📅 2025-10-20 ✅ 2025-10-21
                 - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
-                - *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
+            - [ ] *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
 # @Mario_Echazu
 
     - [ ] Extractor de Churrasquera [[Contactos/Personas/Arquitect@s/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -92,9 +94,10 @@
 # @Quilosa
 
     - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] 🆔 vtfiy6 📅 2025-10-24
-        - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]* ✅ 2025-10-21
+        - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]* 📅 2025-10-20 ✅ 2025-10-21
             - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
-            - *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
+        - [ ] *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
+    - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
 # @Rengel
 
     - [ ] Conclusión H°V° [[Contactos/Empresas/Proveedores/Servicios/Varios/@Rengel\|@Rengel]]
@@ -105,7 +108,7 @@
     - [ ] Buña en fachada por fisuras [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Impermeabilizar baño de servicio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Corregir piso de ducha con impermeabilizante "Quilosa"
+        - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
         - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
         - [ ] Concluir borde ingreso antes que desportillen los de la piedra
         - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6

@@ -12,7 +12,7 @@
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] #Construcción/Albañilería/Revestimiento [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - [ ] Corregir piso de ducha con impermeabilizante "Quilosa"
+        - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
         - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
         - [ ] Concluir borde ingreso antes que desportillen los de la piedra
         - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
