@@ -209,6 +209,8 @@
         - [ ] Paño fijo Sauna
             - [ ] *Detalle desnivel en losa?*[[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
         - [ ] Puerta ingreso de sauna *con marco*
+    - [ ] Muro cortina finaliza está semana [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
+        - [ ] *La próxima semana sería la limpieza de las rieles en puertas para entrega* 📅 2025-10-27
 
 { .block-language-dataview}
 
