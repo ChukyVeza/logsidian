@@ -16,7 +16,7 @@
         - [ ] Instalar lavamanos servicio
         - [ ] Instalar ducha servicio
         - [x] Ubicar termotanque área servicio ✅ 2025-10-21
-            - ![Pasted image 20251021220059.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021220059.png)
+            - ![Pasted image 20251021220059.png|200](/img/user/Adjuntos/Pasted%20image%2020251021220059.png)
         - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] *Se necesita tener todas las griferías en obra* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] #Obra/Zapata [[Contactos/Personas/Contratistas/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #Construcción/Instalación/Hidrosanitario
@@ -39,7 +39,7 @@
     - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #Construcción/Instalación/Electricidad
         - [x] Cablear Acometida Trifásica 🛫 2025-10-20 ✅ 2025-10-21
-            - ![Pasted image 20251021223437.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021223437.png)
+            - ![Pasted image 20251021223437.png|200](/img/user/Adjuntos/Pasted%20image%2020251021223437.png)
         - [ ] Tableros Eléctricos (pedido de térmicos)
         - [ ] Cableado doble altura (pedido de cables)
         - [ ] Cableado Jardines (pedido de cables)
@@ -55,7 +55,7 @@
 
     - [ ] Oro Filo en Columnas [[Contactos/Personas/Contratistas/Especialista/@Gary\|@Gary]]
     - [ ] Oro Filo en Fachada [[Contactos/Personas/Contratistas/Especialista/@Gary\|@Gary]] 📅 2025-10-20 🛫 2025-10-21
-        - ![Pasted image 20251022075917.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251022075917.png)
+        - ![Pasted image 20251022075917.png|250](/img/user/Adjuntos/Pasted%20image%2020251022075917.png)
     - [ ] Seta Cuero inodoro Master [[Contactos/Personas/Contratistas/Especialista/@Gary\|@Gary]]
     - [ ] Seta Cuero Cocina [[Contactos/Personas/Contratistas/Especialista/@Gary\|@Gary]]
 # @Gree
@@ -74,7 +74,7 @@
     - [ ] Cambio en cielo falso en puerta entre cocina y master suite [[Contactos/Personas/Contratistas/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]
     - [ ] #Obra/Zapata [[Contactos/Personas/Contratistas/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]] #Construcción/Steel_Framing/Cielo_Falso
         - [ ] Apertura para rejilla
-            - ![WhatsApp Image 2025-10-09 at 11.15.16.jpeg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/WhatsApp%20Image%202025-10-09%20at%2011.15.16.jpeg)
+            - ![WhatsApp Image 2025-10-09 at 11.15.16.jpeg|200](/img/user/Adjuntos/WhatsApp%20Image%202025-10-09%20at%2011.15.16.jpeg)
 # @LeanCruz
 
     - [ ] Iluminación lineal bajo fogatero [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
@@ -105,7 +105,7 @@
     - [ ] #Obra/Zapata [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] #Construcción/Impermeabilización
         - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] 🆔 vtfiy6 📅 2025-10-24
             - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]* 📅 2025-10-20 ✅ 2025-10-21
-                - ![Pasted image 20251021071908.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021071943.png)
+                - ![Pasted image 20251021071908.png|200](/img/user/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Adjuntos/Pasted%20image%2020251021071943.png)
             - [ ] *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
 # @Rengel
 
@@ -113,7 +113,7 @@
 # @Ruben_Serrano
 
     - [ ] Base lavamanos baño visitas se mantiene [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp 📅 2025-10-21
-        - ![WhatsApp Image 2025-10-21 at 07.05.48.jpeg|230](/img/user/Registro/Diario/2025/2025-10/Adjuntos/WhatsApp%20Image%202025-10-21%20at%2007.05.48.jpeg) ![Pasted image 20251021070652.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021070652.png)
+        - ![WhatsApp Image 2025-10-21 at 07.05.48.jpeg|230](/img/user/Adjuntos/WhatsApp%20Image%202025-10-21%20at%2007.05.48.jpeg) ![Pasted image 20251021070652.png|200](/img/user/Adjuntos/Pasted%20image%2020251021070652.png)
     - [ ] Buña en fachada por fisuras [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Impermeabilizar baño de servicio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Limpieza y cierre de puertas [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
@@ -134,32 +134,32 @@
         - [ ] ⁠Piso en Escalera 📅 2025-10-21 🛫 2025-10-21
         - [ ] Laja en Garaje
         - [x] Laja en Pasillo Técnico ✅ 2025-10-16
-            - ![Pasted image 20251022080336.png|150](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251022080336.png)
+            - ![Pasted image 20251022080336.png|150](/img/user/Adjuntos/Pasted%20image%2020251022080336.png)
     - [ ] Limpiar losa para colocar cielo falso de madera [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020110753.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110753.png)
+        - ![Pasted image 20251020110753.png|200](/img/user/Adjuntos/Pasted%20image%2020251020110753.png)
     - [ ] Remate de peldaño entre garaje y pasillo ingreso [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020110842.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020110842.png)
+        - ![Pasted image 20251020110842.png|200](/img/user/Adjuntos/Pasted%20image%2020251020110842.png)
     - [ ] Rebaje cordón de canal subsuelo [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] (*5cm lado del pasto*)
-        - ![Pasted image 20251020111218.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020111218.png)
+        - ![Pasted image 20251020111218.png|200](/img/user/Adjuntos/Pasted%20image%2020251020111218.png)
     - [ ] Buña entre cambio de materiales [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020115124.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115124.png)
+        - ![Pasted image 20251020115124.png|200](/img/user/Adjuntos/Pasted%20image%2020251020115124.png)
     - [ ] Altura de terreno desde fogatero [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020115507.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115507.png)
+        - ![Pasted image 20251020115507.png|200](/img/user/Adjuntos/Pasted%20image%2020251020115507.png)
     - [ ] Dirección piedra laja [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020115445.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115445.png)
+        - ![Pasted image 20251020115445.png|200](/img/user/Adjuntos/Pasted%20image%2020251020115445.png)
     - [ ] Remate bajo losa en gimnasio [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020115412.png|400](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115412.png)
+        - ![Pasted image 20251020115412.png|400](/img/user/Adjuntos/Pasted%20image%2020251020115412.png)
     - [ ] #Obra/Zapata [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería
         - [ ] Completar revestimiento en ducha de Master Suite
-            - ![IMG_20251021_142805.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_142805.jpg)
+            - ![IMG_20251021_142805.jpg|200](/img/user/Adjuntos/IMG_20251021_142805.jpg)
         - [ ] Se reviste columna con negro
             - Sugerencia *JCM*
-            - ![IMG_20251021_124451.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_124451.jpg)
+            - ![IMG_20251021_124451.jpg|200](/img/user/Adjuntos/IMG_20251021_124451.jpg)
         - [ ] Replanteo de escalera 🛫 2025-10-21
             - *Altura de contrahuellas HCh=17.8 cm*
-            - ![Pasted image 20251021210437.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021210437.png)
+            - ![Pasted image 20251021210437.png|200](/img/user/Adjuntos/Pasted%20image%2020251021210437.png)
         - [ ] Inserción de escalera en piso
-            - ![IMG_20251021_120324.jpg|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/IMG_20251021_120324.jpg)
+            - ![IMG_20251021_120324.jpg|200](/img/user/Adjuntos/IMG_20251021_120324.jpg)
 # @Salma_Saavedra
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]] [[Contactos/Personas/Contratistas/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
@@ -186,7 +186,7 @@
 # @Sin_Asignar
 
     - [ ] Modelo de rejilla pluvial aprobada [[@Sin_Asignar\|@Sin_Asignar]]
-        - ![Pasted image 20251020115559.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251020115559.png)
+        - ![Pasted image 20251020115559.png|200](/img/user/Adjuntos/Pasted%20image%2020251020115559.png)
     - [ ] Fabricación escalera marinera [[@Sin_Asignar\|@Sin_Asignar]]
 # @Sofía_Zapata
 
