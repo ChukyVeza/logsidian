@@ -10,6 +10,10 @@
 
     - [ ] [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]] wa.me/75185755 [Studio Industrial Instagram](https://www.instagram.com/studioindustrialbolivia?utm_source=ig_web_button_share_sheet&igsh=cHc3NG9nYW1xY2Vn)
     - [ ] Cotización [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]]  📅 2025-10-13
+# @VidrAlum
+
+    - [ ] Muro cortina finaliza está semana [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
+        - [ ] *La próxima semana sería la limpieza de las rieles en puertas para entrega* 📅 2025-10-27
 
 { .block-language-dataview}
 
@@ -33,11 +37,13 @@
     - [ ] #Obra/Rocabado #Tipo/Material #Construcción/Varios
         - [ ] **Cemento !!**
         - [ ] malla sombra
-        - [ ] 1 rollo hule
+        - [x] 1 rollo hule 80 micrones 260 bs
+        - [x] Diurex
         - [ ] 3 pza palas
         - [ ] 2 pza carretillas
         - [ ] 2 pza llantas completas
-        - [ ] Bolsas de Yute
+        - [x] 20 Bolsas de Yute
+        - [x] 6 balde pintura
         - [ ] 2 Cabo de Picota
         - [ ] 15 Pzas Madera ochoó 4 m
         - [ ] 15 Pzas Vigas ochoó 2"x4" 4 m (baños y escalera y basurero)
@@ -48,19 +54,21 @@
             - Pedir a *JL_Durán*
         - [ ] 1 pza cuaderno para anotaciones
         - [ ] 6 pza baldes de pintura
-        - [ ] 1 pza escoba
+        - [x] 2 pza escoba
     - [ ] #Obra/Rocabado #Tipo/Herramienta
         - [ ] 1 Pza Amoladora 9"
         - [ ] 1 Pza Taladro
         - [ ] 1 Pza Sierra Manual 7"
-        - [ ] Recoger Andamios  📅 2025-10-23
+        - [x] Recoger Andamios 📅 2025-10-23 ✅ 2025-10-22
             - *Recoger donde* [[Contactos/Personas/Contratistas/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
     - [ ] #Obra/Rocabado #Tipo/Material #Construcción/Instalación/Hidrosanitario
-        - [ ] 3 pza codo PVC ½"
-        - [ ] 3 pza cupla ½"
-        - [ ] 3 pza niple ½"
-        - [ ] 3 pza grifo ½"
-        - [ ] 1 pza unión Patente ½"
+        - [x] 3 pza codo PVC ½"
+        - [x] 3 pza cupla ½"
+        - [x] 3 pza niple ½"
+        - [x] 1 pza grifo ½"
+        - [x] 1 llave de paso
+        - [x] 2 pza unión Patente ½"
+        - [x] 1 caja cinta teflón
     - [ ] #Obra/Rocabado #Tipo/Material #Construcción/Instalación/Electricidad
         - [ ] 1 rollo cable cordón de 2x4mm
         - [ ] 3 pza regletas
@@ -71,6 +79,11 @@
     - [ ] #Obra/Rocabado  #Item
         - [ ] Basurero hecho con calaminas usadas
         - [ ] Baño hecho con calaminas usadas
+# [[Registro/Diario/2025/2025-10/2025-10-22 Wednesday (43)\|2025-10-22 Wednesday (43)]]
+
+    - [ ] #Obra/Rocabado #Item
+        - [ ] Retiro cubierta de jatata 🛫 2025-10-22
+            - ![IMG_20251022_120504.jpg|300](/img/user/Adjuntos/IMG_20251022_120504.jpg)
 
 { .block-language-dataview}
 
