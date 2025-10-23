@@ -6,6 +6,10 @@
 
 >[!abstract]- Por Contratistas
 
+# @Mauro_Vasquez
+
+    - [ ] Retiro cubierta de jatata [[Contactos/Personas/Contratistas/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] 🛫 2025-10-22
+        - ![IMG_20251022_120504.jpg|300](/img/user/Adjuntos/IMG_20251022_120504.jpg)
 # @Studio Industrial
 
     - [ ] [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]] wa.me/75185755 [Studio Industrial Instagram](https://www.instagram.com/studioindustrialbolivia?utm_source=ig_web_button_share_sheet&igsh=cHc3NG9nYW1xY2Vn)
@@ -82,7 +86,7 @@
 # [[Registro/Diario/2025/2025-10/2025-10-22 Wednesday (43)\|2025-10-22 Wednesday (43)]]
 
     - [ ] #Obra/Rocabado #Item
-        - [ ] Retiro cubierta de jatata 🛫 2025-10-22
+        - [ ] Retiro cubierta de jatata [[Contactos/Personas/Contratistas/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] 🛫 2025-10-22
             - ![IMG_20251022_120504.jpg|300](/img/user/Adjuntos/IMG_20251022_120504.jpg)
 
 { .block-language-dataview}
