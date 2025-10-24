@@ -40,12 +40,15 @@
     - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #Construcción/Instalación/Electricidad
         - [x] Cablear Acometida Trifásica 🛫 2025-10-20 ✅ 2025-10-21
             - ![Pasted image 20251021223437.png|200](/img/user/Adjuntos/Pasted%20image%2020251021223437.png)
-        - [ ] Tableros Eléctricos (pedido de térmicos)
-        - [ ] Cableado doble altura (pedido de cables)
-        - [ ] Cableado Jardines (pedido de cables)
+        - [ ] Tableros Eléctricos (*pedido de térmicos*)
+        - [ ] Cableado doble altura (*pedido de cables*)
+        - [ ] Cableado Jardines (*pedido de cables*)
         - [ ] Instalación Iluminación ⛔ t9qlez
     - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Energizar sala de bombas [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+# @Efrain_Callejas
+
+    - [ ] Cotización de [[Contactos/Personas/Contratistas/Metálica/@Efrain_Callejas\|@Efrain_Callejas]] ⏳ 2025-10-27
 # @Erika_Martinez
 
     - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Instalaciones/Gas/@Erika_Martinez\|@Erika_Martinez]] #Construcción/Instalación/Gas
@@ -80,7 +83,6 @@
     - [ ] Iluminación lineal bajo fogatero [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] *Afinar terminado* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-27
         - [ ] *Perfil a colocar* [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-27
-    - [ ] *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
     - [ ] Pintura en estructuras metálicas [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
 # @Marcelo_Veza
 
@@ -101,12 +103,12 @@
         - [ ] Calentador Sauna
 # @Quilosa
 
-    - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
-    - [ ] #Obra/Zapata [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] #Construcción/Impermeabilización
-        - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]] 🆔 vtfiy6 📅 2025-10-24 *25/10/2025*
-            - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]* 📅 2025-10-20 ✅ 2025-10-21
+    - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Servicios/Varios/@Quilosa\|@Quilosa]]
+    - [ ] #Obra/Zapata [[Contactos/Empresas/Proveedores/Servicios/Varios/@Quilosa\|@Quilosa]] #Construcción/Impermeabilización
+        - [ ] Impermeabilizar canal [[Contactos/Empresas/Proveedores/Servicios/Varios/@Quilosa\|@Quilosa]] 🆔 vtfiy6 🛫 2025-10-23 ⏳ 2025-10-24 📅 2025-10-24
+            - [x] *A la espera de cotización (2.35m²) [[Contactos/Empresas/Proveedores/Servicios/Varios/@Quilosa\|@Quilosa]]* 📅 2025-10-20 ✅ 2025-10-21
                 - ![Pasted image 20251021071908.png|200](/img/user/Adjuntos/Pasted%20image%2020251021071908.png) ![Pasted image 20251021071943.png|250](/img/user/Adjuntos/Pasted%20image%2020251021071943.png)
-            - [ ] *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
+            - [x] *Aprobación de presupuesto* [[Contactos/Empresas/Proveedores/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ✅ 2025-10-22
 # @Rengel
 
     - [ ] Conclusión H°V° [[Contactos/Empresas/Proveedores/Servicios/Varios/@Rengel\|@Rengel]]
@@ -122,12 +124,12 @@
         - [ ] Pintura negra en esferas de hormigón *(previa limpieza de hormigón)*
         - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería/Revestimiento
-        - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
+        - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Servicios/Varios/@Quilosa\|@Quilosa]]
         - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
         - [ ] Concluir borde ingreso antes que desportillen los de la piedra 🛫 2025-10-21
         - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
         - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
-        - [ ] ⁠Piso en Escalera 📅 2025-10-21 🛫 2025-10-21
+        - [ ] ⁠Piso en Escalera 🛫 2025-10-21 ⏳ 2025-10-22 📅 2025-10-25
         - [ ] Laja en Garaje
         - [x] Laja en Pasillo Técnico ✅ 2025-10-16
             - ![Pasted image 20251022080336.png|150](/img/user/Adjuntos/Pasted%20image%2020251022080336.png)

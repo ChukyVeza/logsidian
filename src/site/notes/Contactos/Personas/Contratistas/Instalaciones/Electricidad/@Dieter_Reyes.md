@@ -14,9 +14,9 @@
     - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #Construcción/Instalación/Electricidad
         - [x] Cablear Acometida Trifásica 🛫 2025-10-20 ✅ 2025-10-21
             - ![Pasted image 20251021223437.png|200](/img/user/Adjuntos/Pasted%20image%2020251021223437.png)
-        - [ ] Tableros Eléctricos (pedido de térmicos)
-        - [ ] Cableado doble altura (pedido de cables)
-        - [ ] Cableado Jardines (pedido de cables)
+        - [ ] Tableros Eléctricos (*pedido de térmicos*)
+        - [ ] Cableado doble altura (*pedido de cables*)
+        - [ ] Cableado Jardines (*pedido de cables*)
         - [ ] Instalación Iluminación ⛔ t9qlez
     - [ ] Prueba equipos de piscina [[Contactos/Empresas/Proveedores/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]

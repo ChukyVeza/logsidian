@@ -10,8 +10,6 @@
 # \-
 
     - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Pedido #Material
-    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]]
-        - [ ] Cotización [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]]  📅 2025-10-13
     - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Tipo/Material #Construcción/Varios
         - [ ] **Cemento !!**
         - [ ] malla sombra
@@ -67,6 +65,8 @@
     - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Item
         - [ ] Retiro cubierta de jatata [[Contactos/Personas/Contratistas/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] 🛫 2025-10-22
             - ![IMG_20251022_120504.jpg|300](/img/user/Adjuntos/IMG_20251022_120504.jpg)
+    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]]
+        - [ ] Cotización de [[Contactos/Personas/Contratistas/Metálica/@Efrain_Callejas\|@Efrain_Callejas]] ⏳ 2025-10-27
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"Nombre":"Rubén Serrano","Oficio":"Contratista","Contacto":"https://wa.me//59178060812","tags":["Construcción/Estructura/Hormigón"],"dg-publish":true,"permalink":"/contactos/personas/contratistas/albanileria/ruben-serrano/","dgPassFrontmatter":true,"noteIcon":""}
+{"Nombre":"Rubén Serrano","Tipo":"Contratista","Contacto":"https://wa.me//59178060812","tags":["Construcción/Estructura/Hormigón"],"dg-publish":true,"permalink":"/contactos/personas/contratistas/albanileria/ruben-serrano/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### #Obra/Zapata 
@@ -21,12 +21,12 @@
         - [ ] Pintura negra en esferas de hormigón *(previa limpieza de hormigón)*
         - [ ] Color Sand para interior [[Contactos/Personas/Arquitect@s/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería/Revestimiento
-        - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Materiales/@Quilosa\|@Quilosa]]
+        - [ ] Corregir piso de ducha con impermeabilizante [[Contactos/Empresas/Proveedores/Servicios/Varios/@Quilosa\|@Quilosa]]
         - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
         - [ ] Concluir borde ingreso antes que desportillen los de la piedra 🛫 2025-10-21
         - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
         - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
-        - [ ] ⁠Piso en Escalera 📅 2025-10-21 🛫 2025-10-21
+        - [ ] ⁠Piso en Escalera 🛫 2025-10-21 ⏳ 2025-10-22 📅 2025-10-25
         - [ ] Laja en Garaje
         - [x] Laja en Pasillo Técnico ✅ 2025-10-16
             - ![Pasted image 20251022080336.png|150](/img/user/Adjuntos/Pasted%20image%2020251022080336.png)
