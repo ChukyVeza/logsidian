@@ -3,6 +3,9 @@
 ---
 
 
+# [[Registro/Diario/2025-10-24 Friday (43)\|2025-10-24 Friday (43)]]
+
+    - [ ] Caja de piso 1.20x1.20 *para contrahuella* [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]]  📅 2025-10-24
 # [[Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
 
     - [ ] Mesones de baño (PA) [[Contactos/Varios/@Sofía_Zapata\|@Sofía_Zapata]] 🆔 hu881x

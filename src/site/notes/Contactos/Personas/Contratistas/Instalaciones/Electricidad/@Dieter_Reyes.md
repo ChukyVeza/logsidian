@@ -13,7 +13,7 @@
     - [ ] Interruptores  🆔 t9qlez [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] #Obra/Zapata  [[Contactos/Personas/Contratistas/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #Construcción/Instalación/Electricidad
         - [x] Cablear Acometida Trifásica 🛫 2025-10-20 ✅ 2025-10-21
-            - ![Pasted image 20251021223437.png|200](/img/user/Registro/Diario/2025/2025-10/Adjuntos/Pasted%20image%2020251021223437.png)
+            - ![Pasted image 20251021223437.png|200](/img/user/Adjuntos/Pasted%20image%2020251021223437.png)
         - [ ] Tableros Eléctricos (pedido de térmicos)
         - [ ] Cableado doble altura (pedido de cables)
         - [ ] Cableado Jardines (pedido de cables)

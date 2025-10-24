@@ -6,39 +6,13 @@
 
 >[!abstract]- Por Contratistas
 
-# @Mauro_Vasquez
+## 🎯 Tareas Urgentes
+# \-
 
-    - [ ] Retiro cubierta de jatata [[Contactos/Personas/Contratistas/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] 🛫 2025-10-22
-        - ![IMG_20251022_120504.jpg|300](/img/user/Adjuntos/IMG_20251022_120504.jpg)
-# @Studio Industrial
-
-    - [ ] [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]] wa.me/75185755 [Studio Industrial Instagram](https://www.instagram.com/studioindustrialbolivia?utm_source=ig_web_button_share_sheet&igsh=cHc3NG9nYW1xY2Vn)
-    - [ ] Cotización [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]]  📅 2025-10-13
-# @VidrAlum
-
-    - [ ] Muro cortina finaliza está semana [[Contactos/Empresas/Proveedores/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
-        - [ ] *La próxima semana sería la limpieza de las rieles en puertas para entrega* 📅 2025-10-27
-
-{ .block-language-dataview}
-
->[!failure]- Por Fechas
-
-# [[Registro/Diario/2025/2025-10/2025-10-08 Wednesday (41)\|2025-10-08 Wednesday (41)]]
-
-    - [ ] #Obra/Rocabado
-        - [ ] Anticipo
-        - [ ] Pedido de materiales
-        - [ ] Planos de obra
-        - [ ] Plano detalles cubierta metálica
-            - [ ] [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]] wa.me/75185755 [Studio Industrial Instagram](https://www.instagram.com/studioindustrialbolivia?utm_source=ig_web_button_share_sheet&igsh=cHc3NG9nYW1xY2Vn)
-            - [ ] [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Alsevic\|@Alsevic]] wa.me/71001179 [Alsevic Instagram](https://www.instagram.com/alsevic_sc?utm_source=ig_web_button_share_sheet&igsh=MTEwdzl4aXQxcm5laA==)
-# [[Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
-
-    - [ ] #Obra/Rocabado
+    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Pedido #Material
+    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]]
         - [ ] Cotización [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]]  📅 2025-10-13
-# [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
-
-    - [ ] #Obra/Rocabado #Tipo/Material #Construcción/Varios
+    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Tipo/Material #Construcción/Varios
         - [ ] **Cemento !!**
         - [ ] malla sombra
         - [x] 1 rollo hule 80 micrones 260 bs
@@ -59,13 +33,13 @@
         - [ ] 1 pza cuaderno para anotaciones
         - [ ] 6 pza baldes de pintura
         - [x] 2 pza escoba
-    - [ ] #Obra/Rocabado #Tipo/Herramienta
+    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Tipo/Herramienta
         - [ ] 1 Pza Amoladora 9"
         - [ ] 1 Pza Taladro
         - [ ] 1 Pza Sierra Manual 7"
         - [x] Recoger Andamios 📅 2025-10-23 ✅ 2025-10-22
             - *Recoger donde* [[Contactos/Personas/Contratistas/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
-    - [ ] #Obra/Rocabado #Tipo/Material #Construcción/Instalación/Hidrosanitario
+    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Material  #Construcción/Instalación/Hidrosanitario
         - [x] 3 pza codo PVC ½"
         - [x] 3 pza cupla ½"
         - [x] 3 pza niple ½"
@@ -73,21 +47,32 @@
         - [x] 1 llave de paso
         - [x] 2 pza unión Patente ½"
         - [x] 1 caja cinta teflón
-    - [ ] #Obra/Rocabado #Tipo/Material #Construcción/Instalación/Electricidad
+    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Tipo/Material #Construcción/Instalación/Electricidad
         - [ ] 1 rollo cable cordón de 2x4mm
         - [ ] 3 pza regletas
         - [ ] 3 pza clavijas
         - [ ] 1 doc guantes de hilo
         - [ ] 1 doc Gafas
         - [ ] 6 pza chalecos
-    - [ ] #Obra/Rocabado  #Item
+    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]]  #Item
         - [ ] Basurero hecho con calaminas usadas
         - [ ] Baño hecho con calaminas usadas
-# [[Registro/Diario/2025/2025-10/2025-10-22 Wednesday (43)\|2025-10-22 Wednesday (43)]]
-
-    - [ ] #Obra/Rocabado #Item
+    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]]
+        - [ ] Anticipo
+        - [ ] Pedido de materiales
+        - [ ] Planos de obra
+        - [ ] Plano detalles cubierta metálica
+            - [ ] [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]] wa.me/75185755 [Studio Industrial Instagram](https://www.instagram.com/studioindustrialbolivia?utm_source=ig_web_button_share_sheet&igsh=cHc3NG9nYW1xY2Vn)
+            - [ ] [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Alsevic\|@Alsevic]] wa.me/71001179 [Alsevic Instagram](https://www.instagram.com/alsevic_sc?utm_source=ig_web_button_share_sheet&igsh=MTEwdzl4aXQxcm5laA==)
+    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Item
         - [ ] Retiro cubierta de jatata [[Contactos/Personas/Contratistas/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] 🛫 2025-10-22
             - ![IMG_20251022_120504.jpg|300](/img/user/Adjuntos/IMG_20251022_120504.jpg)
 
 { .block-language-dataview}
+
+>[!failure]- Por Fechas
+
+```tasks
+Proyecto = "[[rocabado]]"
+```
 
