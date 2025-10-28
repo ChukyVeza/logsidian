@@ -33,55 +33,50 @@ input[type="checkbox"] {
   padding-left: 0 !important;
 }
 
-/* ===== INDENTACIÓN MEJORADA ===== */
-/* Para listas anidadas en general - ESTO ES CLAVE */
-ul ul, ol ul, ul ol, ol ol {
+/* ===== INDENTACIÓN SUPER AGRESIVA ===== */
+/* Cualquier UL dentro de otro UL */
+ul ul {
   margin-left: 2.5rem !important;
   padding-left: 1.5rem !important;
   border-left: 3px solid #d1d5db !important;
-  margin-top: 0.5rem !important;
-  margin-bottom: 0.5rem !important;
+  display: block !important;
 }
 
-/* Específico para el entorno de Obsidian */
-.markdown-preview-section ul ul,
-.markdown-preview-section ol ul,
-.markdown-preview-section ul ol, 
-.markdown-preview-section ol ol {
+/* Cualquier OL dentro de UL */
+ul ol {
   margin-left: 2.5rem !important;
   padding-left: 1.5rem !important;
   border-left: 3px solid #d1d5db !important;
+  display: block !important;
 }
 
-/* Para el editor de código */
-.cm-s-obsidian ul ul,
-.cm-s-obsidian ol ul,
-.cm-s-obsidian ul ol,
-.cm-s-obsidian ol ol {
+/* Cualquier UL dentro de OL */
+ol ul {
   margin-left: 2.5rem !important;
   padding-left: 1.5rem !important;
   border-left: 3px solid #d1d5db !important;
+  display: block !important;
 }
 
-/* Para cualquier lista dentro del contenido principal */
-.content ul ul,
-.content ol ul,
-.content ul ol,
-.content ol ol {
+/* Cualquier OL dentro de OL */
+ol ol {
   margin-left: 2.5rem !important;
   padding-left: 1.5rem !important;
   border-left: 3px solid #d1d5db !important;
+  display: block !important;
 }
 
-/* Estilos generales para li */
+/* Estilos generales */
 li {
   margin: 0.5em 0 !important;
   line-height: 1.6 !important;
 }
 
-/* Asegurar que las listas tengan posición relativa para los bordes */
-ul, ol {
-  position: relative !important;
+/* Para listas de tercer nivel (más indentación) */
+ul ul ul, ol ul ul, ul ol ul, ol ol ul {
+  margin-left: 2rem !important;
+  padding-left: 1rem !important;
+  border-left: 2px solid #9ca3af !important;
 }
 </style>
   </head>
