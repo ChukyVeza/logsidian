@@ -1,52 +1,53 @@
-/* ===== CHECKBOXES ===== */
+/* ===== CHECKBOXES FORZADOS ===== */
 ul.contains-task-list {
   list-style: none !important;
   padding-left: 0 !important;
 }
 
-input[type="checkbox"] {
-  margin-right: 12px !important;
-  transform: scale(1.3) !important;
-  vertical-align: middle !important;
+li.task-list-item {
+  list-style: none !important;
+  position: relative !important;
+  padding-left: 0 !important;
 }
 
-/* Checkboxes personalizados para markdown-it-task-checkbox */
-.task-list-item input[type="checkbox"] {
-  margin-right: 12px !important;
-  transform: scale(1.3) !important;
+/* Simular checkboxes para markdown puro */
+li.task-list-item:before {
+  content: "☐ ";
+  margin-right: 8px;
+  font-size: 1.1em;
 }
 
-/* ===== INDENTACIÓN ===== */
+li.task-list-item input[type="checkbox"] {
+  margin-right: 8px !important;
+  transform: scale(1.2) !important;
+}
+
+/* Para tareas completadas */
+li.task-list-item:has(input[type="checkbox"]:checked):before {
+  content: "☑ " !important;
+  color: #10b981 !important;
+}
+
+/* ===== INDENTACIÓN MEJORADA ===== */
 .markdown-preview-section ul ul,
-.markdown-preview-section ol ul, 
-.markdown-preview-section ul ol, 
-.markdown-preview-section ol ol {
-  margin-left: 2em !important;
-  padding-left: 1em !important;
-  border-left: 2px solid #e1e5e9 !important;
+.markdown-preview-section ol ul {
+  margin-left: 2rem !important;
+  padding-left: 1rem !important;
+  border-left: 2px solid #e5e7eb !important;
 }
 
-/* Indentación para listas anidadas */
-.cm-s-obsidian ul ul,
-.cm-s-obsidian ol ul,
-.cm-s-obsidian ul ol,
-.cm-s-obsidian ol ol {
-  margin-left: 2em !important;
-  padding-left: 1em !important;
-  border-left: 2px solid #e1e5e9 !important;
+.cm-s-obsidian ul ul {
+  margin-left: 2rem !important;
+  padding-left: 1rem !important;
+  border-left: 2px solid #e5e7eb !important;
 }
 
-/* ===== ESTILOS GENERALES ===== */
-.task-list-item {
-  padding: 4px 0 !important;
-  margin: 0.5em 0 !important;
+/* ===== ESTILOS PARA LISTAS ANIDADAS ===== */
+ul ul, ol ul, ul ol, ol ol {
+  margin-left: 1.5rem !important;
+  opacity: 0.9;
 }
 
-/* Tareas completadas */
-input[type="checkbox"]:checked {
-  filter: hue-rotate(120deg) !important;
-}
-
-.task-list-item-checkbox:checked {
-  filter: hue-rotate(120deg) !important;
+li {
+  margin: 0.3em 0 !important;
 }
