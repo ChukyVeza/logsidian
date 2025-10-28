@@ -1,0 +1,10 @@
+---
+{"Nombre":"Juan Pablo Carreras","Tipo":"Contratista","Contacto":"https://wa.me//59170351807","tags":null,"dg-publish":true,"permalink":"/contacto/persona/contratista/especialista/juan-pablo-carreras/","dgPassFrontmatter":true,"noteIcon":""}
+---
+
+### #Obra/Zapata 
+# [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
+
+    - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
+
+{ .block-language-dataview}

@@ -2,79 +2,169 @@
 {"dg-publish":true,"permalink":"/pendientes/obras-pendientes/25-obra-rocabado/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-# Tareas
 
->[!abstract]- Por Contratistas
+>[!abstract]- Tareas Por Encargados
 
-## 🎯 Tareas Urgentes
-# [[Registro/Diario/2025-10-24 Friday (43)\|2025-10-24 Friday (43)]]
+# @Carolina_Tarabillo
 
-    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Obra/Rocabado
-        - [ ] Cotización de [[Contactos/Personas/Contratistas/Metálica/@Efrain_Callejas\|@Efrain_Callejas]] ⏳ 2025-10-27
-    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Obra/Rocabado #Pedido #Material
-    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Obra/Rocabado #Pedido #Material ![20251024-(Madera).jpg|300](/img/user/Adjuntos/20251024-(Madera).jpg)
-# [[Registro/Diario/2025/2025-10/2025-10-08 Wednesday (41)\|2025-10-08 Wednesday (41)]]
+    - [ ] Nuevo color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
+# @Efrain_Callejas
 
-    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Obra/Rocabado
-        - [x] Anticipo ⏳ 2025-10-13 ✅ 2025-10-23
-        - [ ] Planos de obra
-        - [x] Plano detalles cubierta metálica ✅ 2025-10-24
-            - [x] [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]] ✅ 2025-10-24 wa.me/75185755 [Studio Industrial Instagram](https://www.instagram.com/studioindustrialbolivia?utm_source=ig_web_button_share_sheet&igsh=cHc3NG9nYW1xY2Vn)
-            - [x] [[Contactos/Empresas/Proveedores/Servicios/Estructura/Metálica/@Alsevic\|@Alsevic]] ✅ 2025-10-24 wa.me/71001179 [Alsevic Instagram](https://www.instagram.com/alsevic_sc?utm_source=ig_web_button_share_sheet&igsh=MTEwdzl4aXQxcm5laA==)
-# [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
+    - [ ] [[Contacto/Persona/Contratista/Metálica/@Efrain_Callejas\|@Efrain_Callejas]] #Tipo/Servicio
+        - [ ] Cotización estructura metálica ⏳ 2025-10-27 *Ampliar techo en los laterales*
+# @Marcelo_Veza
 
-    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Tipo/Material #Construcción/Varios
-        - [ ] **Cemento !!**
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
         - [ ] malla sombra
         - [x] 1 rollo hule 80 micrones 260 bs
         - [x] Diurex
-        - [ ] 3 pza palas
+        - [x] 3 pza palas
         - [ ] 2 pza carretillas
-        - [ ] 2 pza llantas completas
+        - [x] 2 pza llantas completas
         - [x] 20 Bolsas de Yute
         - [x] 6 balde pintura
-        - [ ] 2 Cabo de Picota
+        - [x] 2 Cabo de Picota
         - [ ] 1 Caja de Clavos 2½"
         - [ ] 1 Rollo Alambre de Amarre
         - [x] Discos para acero y concreto ✅ 2025-10-23
             - Pedir a *JL_Durán*
         - [x] 6 pza baldes de pintura ✅ 2025-10-22
         - [x] 2 pza escoba
-    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Tipo/Herramienta
+        - [ ] 30 Bolsas de Cemento ⏳ 2025-10-27
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Herramienta
         - [ ] 1 Pza Amoladora 9"
-        - [ ] 1 Pza Taladro
-        - [ ] 1 Pza Sierra Manual 7"
-        - [x] Recoger Andamios 📅 2025-10-23 ✅ 2025-10-22
-            - *Recoger donde* [[Contactos/Personas/Contratistas/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
-    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Material  #Construcción/Instalación/Hidrosanitario
-        - [x] 3 pza codo PVC ½"
-        - [x] 3 pza cupla ½"
-        - [x] 3 pza niple ½"
-        - [x] 1 pza grifo ½"
-        - [x] 1 llave de paso
-        - [x] 2 pza unión Patente ½"
-        - [x] 1 caja cinta teflón
-    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] #Tipo/Material #Construcción/Instalación/Electricidad
+        - [x] 1 Pza Taladro
+        - [x] 1 Pza Sierra Manual 7"
+        - [x] Recoger Andamios 📅 2025-10-23 ✅ 2025-10-23
+            - *Recoger donde* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
         - [ ] 1 rollo cable cordón de 2x4mm
-        - [ ] 3 pza regletas
-        - [ ] 3 pza clavijas
-        - [ ] 1 doc guantes de hilo
-        - [ ] 1 doc Gafas
-        - [ ] 6 pza chalecos
-    - [ ] [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]]  #Item
-        - [ ] Basurero hecho con calaminas usadas
-        - [ ] Baño hecho con calaminas usadas
+        - [ ] 1 inodoro completo
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
+        - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
+        - [ ] Servicio de pozo ciego
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - [ ] Detalle de bases de motores para aires
+        - [ ] Planos Impresos ⏳ 2025-10-27
+        - [x] Retiro de escombros [[Contacto/Persona/Proveedor/@Fernando_Tinta\|@Fernando_Tinta]] ⏳ 2025-10-25 ✅ 2025-10-27
+        - [ ] Recibir piso de [[Contacto/Empresa/Proveedor/Materiales/@Tagomago\|@Tagomago]] ⏳ 2025-10-27
+# @Mauro_Vasquez
+
+    - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
+# @Tagomago
+
+    - [ ] Recibir piso de [[Contacto/Empresa/Proveedor/Materiales/@Tagomago\|@Tagomago]] ⏳ 2025-10-27
 
 { .block-language-dataview}
 
->[!failure]- Por Fechas
+ > [!todo]- Tareas Por Fechas
+
+# [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)#Rocabado\|2025-10-21 Tuesday (43) > Rocabado]]
+
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
+        - [ ] malla sombra
+        - [x] 1 rollo hule 80 micrones 260 bs
+        - [x] Diurex
+        - [x] 3 pza palas
+        - [ ] 2 pza carretillas
+        - [x] 2 pza llantas completas
+        - [x] 20 Bolsas de Yute
+        - [x] 6 balde pintura
+        - [x] 2 Cabo de Picota
+        - [ ] 1 Caja de Clavos 2½"
+        - [ ] 1 Rollo Alambre de Amarre
+        - [x] Discos para acero y concreto ✅ 2025-10-23
+            - Pedir a *JL_Durán*
+        - [x] 6 pza baldes de pintura ✅ 2025-10-22
+        - [x] 2 pza escoba
+        - [ ] 30 Bolsas de Cemento ⏳ 2025-10-27
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Herramienta
+        - [ ] 1 Pza Amoladora 9"
+        - [x] 1 Pza Taladro
+        - [x] 1 Pza Sierra Manual 7"
+        - [x] Recoger Andamios 📅 2025-10-23 ✅ 2025-10-23
+            - *Recoger donde* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
+        - [ ] 1 rollo cable cordón de 2x4mm
+        - [ ] 1 inodoro completo
+# [[Registro/Diario/2025/2025-10/2025-10-24 Friday (43)#Rocabado\|2025-10-24 Friday (43) > Rocabado]]
+
+    - [ ] [[Contacto/Persona/Contratista/Metálica/@Efrain_Callejas\|@Efrain_Callejas]] #Tipo/Servicio
+        - [ ] Cotización estructura metálica ⏳ 2025-10-27 *Ampliar techo en los laterales*
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - [ ] Detalle de bases de motores para aires
+        - [ ] Planos Impresos ⏳ 2025-10-27
+        - [x] Retiro de escombros [[Contacto/Persona/Proveedor/@Fernando_Tinta\|@Fernando_Tinta]] ⏳ 2025-10-25 ✅ 2025-10-27
+        - [ ] Recibir piso de [[Contacto/Empresa/Proveedor/Materiales/@Tagomago\|@Tagomago]] ⏳ 2025-10-27
+# [[Registro/Diario/2025/2025-10/2025-10-25 Saturday (43)#Rocabado\|2025-10-25 Saturday (43) > Rocabado]]
+
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
+        - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
+        - [ ] Servicio de pozo ciego
+# [[Registro/Diario/2025-10-27 Monday (44)#Rocabado\|2025-10-27 Monday (44) > Rocabado]]
+
+    - [ ] Nuevo color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
+    - [ ] 
+
+{ .block-language-dataview}
+
+>[!failure]- Otro query DataviewJS
+>DataviewJS
+	
+	// Configuración: Carpeta donde están las notas diarias
+	const folder = "Registro/Diario";
+	
+	// Obtener todas las páginas de la carpeta
+	const pages = dv.pages(`"${folder}"`);
+	
+	// Recopilar todas las tareas no completadas que contengan "Rocabado"
+	const tasks = [];
+	for (const page of pages) {
+	    for (const list of page.file.lists) {
+	        if (list.task && !list.completed && list.text.includes("Rocabado")) {
+	            tasks.push(list);
+	        }
+	    }
+	}
+	
+	// Extraer enlaces del texto de cada tarea y agrupar
+	const groups = {};
+	for (const task of tasks) {
+	    // Buscar todos los enlaces en el texto (formato [[...\|...]])
+	    const matches = task.text.match(/\[\[([^\]]+)\]\]/g);
+	    if (matches && matches.length > 0) {
+	        // Usar el primer enlace encontrado para agrupar (o todos si prefieres)
+	        const key = matches[0]; // Puedes ajustar esto si quieres múltiples enlaces
+	        if (!groups[key]) {
+	            groups[key] = [];
+	        }
+	        groups[key].push(task);
+	    } else {
+	        // Tareas sin enlaces
+	        const key = "Sin enlace";
+	        if (!groups[key]) {
+	            groups[key] = [];
+	        }
+	        groups[key].push(task);
+	    }
+	}
+	
+	// Mostrar las tareas agrupadas por enlace
+	for (const [key, groupTasks] of Object.entries(groups)) {
+	    dv.header(3, key);
+	    dv.taskList(groupTasks);
+	}
+	```
 
 
-<h3><span><a data-href="Rocabado" href="Rocabado" class="internal-link" target="_blank" rel="noopener nofollow">Rocabado</a></span></h3><div><h4><span><a data-tooltip-position="top" aria-label="Registro/Diario/2025-10-24 Friday (43).md" data-href="Registro/Diario/2025-10-24 Friday (43).md" href="Registro/Diario/2025-10-24 Friday (43).md" class="internal-link" target="_blank" rel="noopener nofollow">2025-10-24 Friday (43)</a></span><span class="dataview small-text">3</span></h4><div class="dataview result-group"><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="Rocabado" href="Rocabado" class="internal-link" target="_blank" rel="noopener nofollow">Rocabado</a> <a href="#Obra/Rocabado" class="tag" target="_blank" rel="noopener nofollow">#Obra/Rocabado</a></span><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>Cotización de <a data-href="@Efrain_Callejas" href="@Efrain_Callejas" class="internal-link" target="_blank" rel="noopener nofollow">@Efrain_Callejas</a> ⏳ 2025-10-27</span></li></ul></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="Rocabado" href="Rocabado" class="internal-link" target="_blank" rel="noopener nofollow">Rocabado</a> <a href="#Obra/Rocabado" class="tag" target="_blank" rel="noopener nofollow">#Obra/Rocabado</a><br>
-<a href="#Pedido" class="tag" target="_blank" rel="noopener nofollow">#Pedido</a> <a href="#Material" class="tag" target="_blank" rel="noopener nofollow">#Material</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="Rocabado" href="Rocabado" class="internal-link" target="_blank" rel="noopener nofollow">Rocabado</a> <a href="#Obra/Rocabado" class="tag" target="_blank" rel="noopener nofollow">#Obra/Rocabado</a><br>
-<a href="#Pedido" class="tag" target="_blank" rel="noopener nofollow">#Pedido</a> <a href="#Material" class="tag" target="_blank" rel="noopener nofollow">#Material</a><br>
-<span width="300" alt="20251024-(Madera).jpg" src="20251024-(Madera).jpg" class="internal-embed">300</span></span></li></ul></div><h4><span><a data-tooltip-position="top" aria-label="Registro/Diario/2025/2025-10/2025-10-08 Wednesday (41).md" data-href="Registro/Diario/2025/2025-10/2025-10-08 Wednesday (41).md" href="Registro/Diario/2025/2025-10/2025-10-08 Wednesday (41).md" class="internal-link" target="_blank" rel="noopener nofollow">2025-10-08 Wednesday (41)</a></span><span class="dataview small-text">1</span></h4><div class="dataview result-group"><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="Rocabado" href="Rocabado" class="internal-link" target="_blank" rel="noopener nofollow">Rocabado</a> <a href="#Obra/Rocabado" class="tag" target="_blank" rel="noopener nofollow">#Obra/Rocabado</a></span><ul class="contains-task-list"><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>Anticipo ⏳ 2025-10-13 ✅ 2025-10-23</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>Planos de obra</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>Plano detalles cubierta metálica ✅ 2025-10-24</span><ul class="contains-task-list"><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="@Studio Industrial" href="@Studio Industrial" class="internal-link" target="_blank" rel="noopener nofollow">@Studio Industrial</a> ✅ 2025-10-24<br>
-wa.me/75185755<br>
-<a data-tooltip-position="top" aria-label="https://www.instagram.com/studioindustrialbolivia?utm_source=ig_web_button_share_sheet&amp;igsh=cHc3NG9nYW1xY2Vn" rel="noopener nofollow" class="external-link" href="https://www.instagram.com/studioindustrialbolivia?utm_source=ig_web_button_share_sheet&amp;igsh=cHc3NG9nYW1xY2Vn" target="_blank">Studio Industrial Instagram</a></span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="@Alsevic" href="@Alsevic" class="internal-link" target="_blank" rel="noopener nofollow">@Alsevic</a> ✅ 2025-10-24<br>
-wa.me/71001179<br>
-<a data-tooltip-position="top" aria-label="https://www.instagram.com/alsevic_sc?utm_source=ig_web_button_share_sheet&amp;igsh=MTEwdzl4aXQxcm5laA==" rel="noopener nofollow" class="external-link" href="https://www.instagram.com/alsevic_sc?utm_source=ig_web_button_share_sheet&amp;igsh=MTEwdzl4aXQxcm5laA==" target="_blank">Alsevic Instagram</a></span></li></ul></li></ul></li></ul></div><h4><span><a data-tooltip-position="top" aria-label="Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43).md" data-href="Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43).md" href="Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43).md" class="internal-link" target="_blank" rel="noopener nofollow">2025-10-21 Tuesday (43)</a></span><span class="dataview small-text">5</span></h4><div class="dataview result-group"><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="Rocabado" href="Rocabado" class="internal-link" target="_blank" rel="noopener nofollow">Rocabado</a> <a href="#Tipo/Material" class="tag" target="_blank" rel="noopener nofollow">#Tipo/Material</a> <a href="#Construcción/Varios" class="tag" target="_blank" rel="noopener nofollow">#Construcción/Varios</a></span><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><strong>Cemento !!</strong></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>malla sombra</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 rollo hule 80 micrones 260 bs</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>Diurex</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>3 pza palas</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>2 pza carretillas</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>2 pza llantas completas</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>20 Bolsas de Yute</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>6 balde pintura</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>2 Cabo de Picota</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 Caja de Clavos 2½"</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 Rollo Alambre de Amarre</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>Discos para acero y concreto ✅ 2025-10-23</span><ul class="contains-task-list"><li class="dataview task-list-basic-item"><span>Pedir a <em>JL_Durán</em></span></li></ul></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>6 pza baldes de pintura ✅ 2025-10-22</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>2 pza escoba</span></li></ul></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="Rocabado" href="Rocabado" class="internal-link" target="_blank" rel="noopener nofollow">Rocabado</a> <a href="#Tipo/Herramienta" class="tag" target="_blank" rel="noopener nofollow">#Tipo/Herramienta</a></span><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 Pza Amoladora 9"</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 Pza Taladro</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 Pza Sierra Manual 7"</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>Recoger Andamios 📅 2025-10-23 ✅ 2025-10-22</span><ul class="contains-task-list"><li class="dataview task-list-basic-item"><span><em>Recoger donde</em> <a data-href="@Mauro_Vasquez" href="@Mauro_Vasquez" class="internal-link" target="_blank" rel="noopener nofollow">@Mauro_Vasquez</a></span></li></ul></li></ul></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="Rocabado" href="Rocabado" class="internal-link" target="_blank" rel="noopener nofollow">Rocabado</a> <a href="#Material" class="tag" target="_blank" rel="noopener nofollow">#Material</a>  <a href="#Construcción/Instalación/Hidrosanitario" class="tag" target="_blank" rel="noopener nofollow">#Construcción/Instalación/Hidrosanitario</a></span><ul class="contains-task-list"><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>3 pza codo PVC ½"</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>3 pza cupla ½"</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>3 pza niple ½"</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 pza grifo ½"</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 llave de paso</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>2 pza unión Patente ½"</span></li><li data-task="x" class="dataview task-list-item is-checked"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 caja cinta teflón</span></li></ul></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="Rocabado" href="Rocabado" class="internal-link" target="_blank" rel="noopener nofollow">Rocabado</a> <a href="#Tipo/Material" class="tag" target="_blank" rel="noopener nofollow">#Tipo/Material</a> <a href="#Construcción/Instalación/Electricidad" class="tag" target="_blank" rel="noopener nofollow">#Construcción/Instalación/Electricidad</a></span><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 rollo cable cordón de 2x4mm</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>3 pza regletas</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>3 pza clavijas</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 doc guantes de hilo</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>1 doc Gafas</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>6 pza chalecos</span></li></ul></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a data-href="Rocabado" href="Rocabado" class="internal-link" target="_blank" rel="noopener nofollow">Rocabado</a>  <a href="#Item" class="tag" target="_blank" rel="noopener nofollow">#Item</a></span><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>Basurero hecho con calaminas usadas</span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span>Baño hecho con calaminas usadas</span></li></ul></li></ul></div></div>
+>[!failure]- Otro query Tasks
+>Tasks
+	
+	not done
+	description includes "@"
+	sort by due
+	group by due
+	limit 20
+
