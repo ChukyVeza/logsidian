@@ -35,7 +35,6 @@
         - [ ] Mueble baño visitas ⛔ hx27yp
 # @Dieter_Reyes
 
-    - [ ] Planilla de avance para [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] ⏳ 2025-10-27
     - [ ] Iluminación lineal bajo fogatero [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] *Afinar terminado* [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-27
         - [ ] *Perfil a colocar* [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-27
