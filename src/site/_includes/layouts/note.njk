@@ -14,46 +14,76 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% endfor %}
     
     <!-- ✅ CSS CORREGIDO - SIN SELECTORES INVALIDOS -->
-    <style>
-    /* ===== CHECKBOXES ===== */
-    input[type="checkbox"] {
-      margin-right: 12px !important;
-      transform: scale(1.5) !important;
-      vertical-align: middle !important;
-    }
+<style>
+/* ===== CHECKBOXES ===== */
+input[type="checkbox"] {
+  margin-right: 12px !important;
+  transform: scale(1.5) !important;
+  vertical-align: middle !important;
+}
 
-    .custom-checkbox-js {
-      margin-right: 12px !important;
-      transform: scale(1.5) !important;
-      vertical-align: middle !important;
-    }
+.custom-checkbox-js {
+  margin-right: 12px !important;
+  transform: scale(1.5) !important;
+  vertical-align: middle !important;
+}
 
-    .task-item-custom-js {
-      list-style: none !important;
-      padding-left: 0 !important;
-    }
+.task-item-custom-js {
+  list-style: none !important;
+  padding-left: 0 !important;
+}
 
-    /* ===== INDENTACIÓN ===== */
-    .cm-s-obsidian ul ul,
-    .cm-s-obsidian ol ul,
-    .markdown-preview-section ul ul,
-    .markdown-preview-section ol ul {
-      margin-left: 2.5rem !important;
-      padding-left: 1.5rem !important;
-      border-left: 3px solid #d1d5db !important;
-    }
+/* ===== INDENTACIÓN MEJORADA ===== */
+/* Para listas anidadas en general - ESTO ES CLAVE */
+ul ul, ol ul, ul ol, ol ol {
+  margin-left: 2.5rem !important;
+  padding-left: 1.5rem !important;
+  border-left: 3px solid #d1d5db !important;
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
 
-    ul ul, ol ul {
-      margin-left: 2rem !important;
-      padding-left: 1rem !important;
-      border-left: 2px solid #e5e7eb !important;
-    }
+/* Específico para el entorno de Obsidian */
+.markdown-preview-section ul ul,
+.markdown-preview-section ol ul,
+.markdown-preview-section ul ol, 
+.markdown-preview-section ol ol {
+  margin-left: 2.5rem !important;
+  padding-left: 1.5rem !important;
+  border-left: 3px solid #d1d5db !important;
+}
 
-    li {
-      margin: 0.5em 0 !important;
-      line-height: 1.6 !important;
-    }
-    </style>
+/* Para el editor de código */
+.cm-s-obsidian ul ul,
+.cm-s-obsidian ol ul,
+.cm-s-obsidian ul ol,
+.cm-s-obsidian ol ol {
+  margin-left: 2.5rem !important;
+  padding-left: 1.5rem !important;
+  border-left: 3px solid #d1d5db !important;
+}
+
+/* Para cualquier lista dentro del contenido principal */
+.content ul ul,
+.content ol ul,
+.content ul ol,
+.content ol ol {
+  margin-left: 2.5rem !important;
+  padding-left: 1.5rem !important;
+  border-left: 3px solid #d1d5db !important;
+}
+
+/* Estilos generales para li */
+li {
+  margin: 0.5em 0 !important;
+  line-height: 1.6 !important;
+}
+
+/* Asegurar que las listas tengan posición relativa para los bordes */
+ul, ol {
+  position: relative !important;
+}
+</style>
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
