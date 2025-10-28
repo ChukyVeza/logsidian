@@ -7,7 +7,7 @@
 
 # @Carolina_Tarabillo
 
-    - [ ] Nuevo color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
+    - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
 # @Efrain_Callejas
 
     - [ ] [[Contacto/Persona/Contratista/Metálica/@Efrain_Callejas\|@Efrain_Callejas]] #Tipo/Servicio
@@ -41,14 +41,14 @@
         - [ ] 1 rollo cable cordón de 2x4mm
         - [ ] 1 inodoro completo
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
-        - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
-        - [ ] Servicio de pozo ciego
-    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Detalle de bases de motores para aires
         - [ ] Planos Impresos ⏳ 2025-10-27
         - [x] Retiro de escombros [[Contacto/Persona/Proveedor/@Fernando_Tinta\|@Fernando_Tinta]] ⏳ 2025-10-25 ✅ 2025-10-27
         - [ ] Recibir piso de [[Contacto/Empresa/Proveedor/Materiales/@Tagomago\|@Tagomago]] ⏳ 2025-10-27
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
+        - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
+        - [ ] Servicio de pozo ciego
 # @Mauro_Vasquez
 
     - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
@@ -105,7 +105,7 @@
         - [ ] Servicio de pozo ciego
 # [[Registro/Diario/2025-10-27 Monday (44)#Rocabado\|2025-10-27 Monday (44) > Rocabado]]
 
-    - [ ] Nuevo color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
+    - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
     - [ ] 
 
 { .block-language-dataview}
