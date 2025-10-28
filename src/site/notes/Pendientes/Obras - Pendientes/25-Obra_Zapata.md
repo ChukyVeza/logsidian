@@ -144,14 +144,13 @@
         - [ ] Calentador Sauna
 # @Quilosa
 
-    - [ ] Finalizar sellado de grietas en cubierta [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] ⏫
     - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
+    - [ ] Finalizar sellado de grietas en cubierta [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] ⏫
 # @Rengel
 
     - [ ] Conclusión H°V° [[Contacto/Empresa/Proveedor/Servicios/Varios/@Rengel\|@Rengel]]
 # @Ruben_Serrano
 
-    - [ ] Nivelar *nuevamente* piso de ingreso [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⏳ 2025-10-27 📅 2025-10-27
     - [ ] Base lavamanos baño visitas se mantiene [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp 📅 2025-10-21
         - ![WhatsApp Image 2025-10-21 at 07.05.48.jpeg|230](/img/user/Adjuntos/WhatsApp%20Image%202025-10-21%20at%2007.05.48.jpeg) ![Pasted image 20251021070652.png|200](/img/user/Adjuntos/Pasted%20image%2020251021070652.png)
     - [ ] Buña en fachada por fisuras [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
@@ -202,6 +201,8 @@
         - [ ] Inserción de escalera en piso
             - ![IMG_20251021_120324.jpg|200](/img/user/Adjuntos/IMG_20251021_120324.jpg)
     - [ ] Corregir borde de piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Nivelar *nuevamente* piso de ingreso [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⏳ 2025-10-27 📅 2025-10-27
+    - [ ] Remate de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
 # @Salma_Saavedra
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
@@ -231,7 +232,6 @@
     - [ ] Fabricación escalera marinera [[@Sin_Asignar\|@Sin_Asignar]]
 # @Sofía_Zapata
 
-    - [ ] 2 m³ Arenilla [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] ⏳ 2025-10-27 📅 2025-10-28
     - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] 🆔 hu881x
     - [ ] Empapelado bronce en cielo baño visita [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Empapelado/pintura doble altura [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
@@ -240,6 +240,7 @@
     - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
     - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] 2 m³ Arenilla [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] ⏳ 2025-10-27 📅 2025-10-28
 # @VidrAlum
 
     - [ ] #Obra/Zapata  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #Construcción/Carpintería/Aluminio
