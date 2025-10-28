@@ -1,149 +1,4 @@
-<!DOCTYPE html>
-<html lang="{{ meta.mainLanguage }}">
-  <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
-    {%include "components/pageheader.njk"%}
-    {% for imp in dynamics.common.head %}
-      {% include imp %}
-    {% endfor %}
-    {% for imp in dynamics.index.head %}
-      {% include imp %}
-    {% endfor %}
-    
-    <!-- ✅ CSS CORREGIDO - SIN SELECTORES INVALIDOS -->
-<style>
-/* ===== CHECKBOXES ===== */
-input[type="checkbox"] {
-  margin-right: 12px !important;
-  transform: scale(1.5) !important;
-  vertical-align: middle !important;
-}
-
-.custom-checkbox-js {
-  margin-right: 12px !important;
-  transform: scale(1.5) !important;
-  vertical-align: middle !important;
-}
-
-.task-item-custom-js {
-  list-style: none !important;
-  padding-left: 0 !important;
-}
-
-/* ===== INDENTACIÓN SUPER AGRESIVA ===== */
-/* Cualquier UL dentro de otro UL */
-ul ul {
-  margin-left: 2.5rem !important;
-  padding-left: 1.5rem !important;
-  border-left: 3px solid #d1d5db !important;
-  display: block !important;
-}
-
-/* Cualquier OL dentro de UL */
-ul ol {
-  margin-left: 2.5rem !important;
-  padding-left: 1.5rem !important;
-  border-left: 3px solid #d1d5db !important;
-  display: block !important;
-}
-
-/* Cualquier UL dentro de OL */
-ol ul {
-  margin-left: 2.5rem !important;
-  padding-left: 1.5rem !important;
-  border-left: 3px solid #d1d5db !important;
-  display: block !important;
-}
-
-/* Cualquier OL dentro de OL */
-ol ol {
-  margin-left: 2.5rem !important;
-  padding-left: 1.5rem !important;
-  border-left: 3px solid #d1d5db !important;
-  display: block !important;
-}
-
-/* Estilos generales */
-li {
-  margin: 0.5em 0 !important;
-  line-height: 1.6 !important;
-}
-
-/* Para listas de tercer nivel (más indentación) */
-ul ul ul, ol ul ul, ul ol ul, ol ol ul {
-  margin-left: 2rem !important;
-  padding-left: 1rem !important;
-  border-left: 2px solid #9ca3af !important;
-}
-</style>
-  </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
-    {%include "components/notegrowthhistory.njk"%}
-    {% if settings.dgShowFileTree !== true %}
-      {%include "components/navbar.njk"%}
-    {%else%}
-      {%include "components/filetree.njk"%}
-    {% endif %}
-    {% if settings.dgEnableSearch === true %}
-      {%include "components/searchContainer.njk"%}
-    {% endif %}
-    <main class="content cm-s-obsidian {{contentClasses}}">
-      <header>
-      {% if settings.dgShowInlineTitle === true %}
-        <h1>{{ noteTitle  }}</h1>
-      {% endif %}
-
-      <div class="header-meta">
-        {% if settings.dgShowTags === true and tags %}
-          <div class="header-tags">
-            {% for tag in tags %}
-              {% if tag != 'gardenEntry' and tag !='note' %}
-                <a class="tag" onclick="toggleTagSearch(this)">
-                  #{{tag}}
-                </a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        {% endif %}
-      </div>
-      {% for imp in dynamics.common.header %}
-        {% include imp %}
-      {% endfor %}
-      {% for imp in dynamics.index.header %}
-        {% include imp %}
-      {% endfor %}
-      </header>
-      {% for imp in dynamics.common.beforeContent %}
-        {% include imp %}
-      {% endfor %}
-      {% for imp in dynamics.index.beforeContent %}
-        {% include imp %}
-      {% endfor %}
-      {{ content | hideDataview | taggify | link | safe}}
-      {% for imp in dynamics.common.afterContent %}
-        {% include imp %}
-      {% endfor %}
-      {% for imp in dynamics.index.afterContent %}
-        {% include imp %}
-      {% endfor %}
-    </main>
-
-    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
-      {%include "components/sidebar.njk" %}
-    {%endif%}
-
-    {% if settings.dgLinkPreview === true %}
-      {%include "components/linkPreview.njk"%}
-    {% endif %}
-    {% for imp in dynamics.common.footer %}
-      {% include imp %}
-    {% endfor %}
-    {% for imp in dynamics.index.footer %}
-      {% include imp %}
-    {% endfor %}
-    {%include "components/lucideIcons.njk"%}
-    
-    <!-- ✅ SOLO UN SCRIPT - EL MEJORADO -->
+    <!-- ✅ SCRIPT MEJORADO CON CONVERSIÓN DE LISTAS -->
     <script>
     // 🚨 CONVERSIÓN AGRESIVA DE CHECKBOXES - VERSIÓN MEJORADA 🚨
     function convertAllCheckboxes() {
@@ -179,20 +34,88 @@ ul ul ul, ol ul ul, ul ol ul, ol ol ul {
       console.log(`✅ Convertidos ${convertedCount} checkboxes`);
     }
 
-    // Ejecutar cuando el DOM esté listo
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', convertAllCheckboxes);
-    } else {
+    // 🚨 CONVERSIÓN DE PÁRRAFOS A LISTAS ANIDADAS 🚨
+    function convertParagraphsToLists() {
+      console.log('🔄 Convirtiendo párrafos con listas a HTML...');
+      
+      const paragraphs = document.querySelectorAll('p');
+      let convertedCount = 0;
+      
+      paragraphs.forEach(paragraph => {
+        const content = paragraph.textContent || paragraph.innerText;
+        
+        // Verificar si el párrafo contiene elementos de lista
+        if (content.includes('- [ ]') || content.includes('- [x]')) {
+          const lines = paragraph.innerHTML.split('<br>');
+          let hasMultipleListItems = false;
+          
+          // Contar cuántas líneas son elementos de lista
+          let listItemCount = 0;
+          lines.forEach(line => {
+            if (line.includes('- [ ]') || line.includes('- [x]')) {
+              listItemCount++;
+            }
+          });
+          
+          // Si hay al menos un elemento de lista, convertimos (puede ser solo uno)
+          if (listItemCount >= 1) {
+            hasMultipleListItems = true;
+          }
+          
+          if (hasMultipleListItems) {
+            const list = document.createElement('ul');
+            list.className = 'converted-task-list';
+            
+            lines.forEach(line => {
+              if (line.trim()) {
+                const listItem = document.createElement('li');
+                listItem.className = 'converted-task-item';
+                
+                // Procesar la línea para mantener el formato original
+                let processedLine = line.trim();
+                
+                // Reemplazar checkboxes en esta línea específica
+                processedLine = processedLine.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
+                processedLine = processedLine.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
+                
+                // Eliminar el guion inicial si existe
+                processedLine = processedLine.replace(/^-\s+/, '');
+                
+                listItem.innerHTML = processedLine;
+                list.appendChild(listItem);
+              }
+            });
+            
+            paragraph.parentNode.replaceChild(list, paragraph);
+            convertedCount++;
+          }
+        }
+      });
+      
+      console.log(`✅ Convertidos ${convertedCount} párrafos a listas`);
+    }
+
+    // 🚨 FUNCIÓN PRINCIPAL DE CONVERSIÓN 🚨
+    function convertAllElements() {
+      convertParagraphsToLists();
       convertAllCheckboxes();
     }
 
-    // También ejecutar después de un delay por si el contenido se carga dinámicamente
-    setTimeout(convertAllCheckboxes, 1000);
-    setTimeout(convertAllCheckboxes, 3000);
+    // Ejecutar cuando el DOM esté listo
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', convertAllElements);
+    } else {
+      convertAllElements();
+    }
+
+    // También ejecutar después de delays por si el contenido se carga dinámicamente
+    setTimeout(convertAllElements, 100);
+    setTimeout(convertAllElements, 1000);
+    setTimeout(convertAllElements, 3000);
 
     // Observar cambios en el DOM para contenido que se cargue después
     const observer = new MutationObserver(function(mutations) {
-      convertAllCheckboxes();
+      convertAllElements();
     });
 
     observer.observe(document.body, {
@@ -201,104 +124,3 @@ ul ul ul, ol ul ul, ul ol ul, ol ol ul {
       characterData: true
     });
     </script>
-	<script>
-// 🚨 CONVERTIR PÁRRAFOS CON LISTAS A LISTAS HTML REALES 🚨
-function convertParagraphsToLists() {
-  console.log('🔄 Convirtiendo párrafos con listas a HTML...');
-  
-  const paragraphs = document.querySelectorAll('p');
-  let convertedCount = 0;
-  
-  paragraphs.forEach(paragraph => {
-    const text = paragraph.textContent || paragraph.innerText;
-    
-    // Verificar si el párrafo contiene elementos de lista con "- [ ]" o "- [x]"
-    if (text.includes('- [ ]') || text.includes('- [x]')) {
-      const lines = paragraph.innerHTML.split('<br>');
-      let hasListItems = false;
-      
-      // Verificar si alguna línea es un item de lista
-      lines.forEach(line => {
-        if (line.includes('- [ ]') || line.includes('- [x]')) {
-          hasListItems = true;
-        }
-      });
-      
-      if (hasListItems) {
-        // Crear nueva lista UL
-        const ul = document.createElement('ul');
-        ul.className = 'converted-task-list';
-        
-        lines.forEach(line => {
-          if (line.trim() && (line.includes('- [ ]') || line.includes('- [x]'))) {
-            const li = document.createElement('li');
-            li.className = 'converted-task-item';
-            li.innerHTML = line.trim().replace(/^-\s+/, '');
-            ul.appendChild(li);
-          }
-        });
-        
-        // Reemplazar el párrafo con la lista
-        paragraph.parentNode.replaceChild(ul, paragraph);
-        convertedCount++;
-      }
-    }
-  });
-  
-  console.log(`✅ Convertidos ${convertedCount} párrafos a listas`);
-  
-  // Aplicar estilos a las nuevas listas
-  applyListStyles();
-}
-
-// Aplicar estilos de indentación a las listas convertidas
-function applyListStyles() {
-  const style = document.createElement('style');
-  style.textContent = `
-    .converted-task-list {
-      list-style: none !important;
-      padding-left: 0 !important;
-      margin: 1em 0 !important;
-    }
-    
-    .converted-task-item {
-      margin: 0.5em 0 !important;
-      padding-left: 0 !important;
-      position: relative !important;
-    }
-    
-    /* Indentación para listas anidadas */
-    .converted-task-list .converted-task-list {
-      margin-left: 2.5rem !important;
-      padding-left: 1.5rem !important;
-      border-left: 3px solid #d1d5db !important;
-    }
-    
-    /* Checkboxes para las listas convertidas */
-    .converted-task-item input[type="checkbox"] {
-      margin-right: 12px !important;
-      transform: scale(1.5) !important;
-      vertical-align: middle !important;
-    }
-  `;
-  
-  // Solo agregar el estilo si no existe
-  if (!document.querySelector('#converted-lists-styles')) {
-    style.id = 'converted-lists-styles';
-    document.head.appendChild(style);
-  }
-}
-
-// Ejecutar la conversión
-document.addEventListener('DOMContentLoaded', convertParagraphsToLists);
-setTimeout(convertParagraphsToLists, 500);
-setTimeout(convertParagraphsToLists, 2000);
-
-// También observar cambios en el DOM
-new MutationObserver(convertParagraphsToLists).observe(document.body, {
-  childList: true, 
-  subtree: true
-});
-</script>
-  </body>
-</html>
