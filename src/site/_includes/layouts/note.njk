@@ -138,5 +138,57 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
+<script>
+// CONVERTIR CHECKBOXES DE TEXTO A HTML
+document.addEventListener('DOMContentLoaded', function() {
+  const taskItems = document.querySelectorAll('li');
+  
+  taskItems.forEach(li => {
+    const text = li.textContent || li.innerText;
+    
+    // Buscar patrones [ ] y [x]
+    if (text.includes('[ ]') || text.includes('[x]')) {
+      // Reemplazar [ ] con checkbox
+      if (text.includes('[ ]')) {
+        li.innerHTML = li.innerHTML.replace('[ ]', '<input type="checkbox" class="custom-checkbox">');
+      }
+      // Reemplazar [x] con checkbox marcado
+      if (text.includes('[x]')) {
+        li.innerHTML = li.innerHTML.replace('[x]', '<input type="checkbox" class="custom-checkbox" checked>');
+      }
+      
+      // Agregar clase para styling
+      li.classList.add('task-item-custom');
+    }
+  });
+});
+</script>
+
+<style>
+/* CSS PARA LOS NUEVOS CHECKBOXES */
+.task-item-custom {
+  list-style: none !important;
+  padding-left: 0 !important;
+}
+
+.custom-checkbox {
+  margin-right: 10px !important;
+  transform: scale(1.3) !important;
+  vertical-align: middle !important;
+}
+
+/* Indentación forzada */
+ul ul, ol ul {
+  margin-left: 2rem !important;
+  padding-left: 1rem !important;
+  border-left: 2px solid #d1d5db !important;
+}
+
+.markdown-preview-section ul ul {
+  margin-left: 2rem !important;
+  padding-left: 1rem !important;
+  border-left: 2px solid #d1d5db !important;
+}
+</style>
   </body>
 </html>
