@@ -201,5 +201,104 @@ ul ul ul, ol ul ul, ul ol ul, ol ol ul {
       characterData: true
     });
     </script>
+	<script>
+// 🚨 CONVERTIR PÁRRAFOS CON LISTAS A LISTAS HTML REALES 🚨
+function convertParagraphsToLists() {
+  console.log('🔄 Convirtiendo párrafos con listas a HTML...');
+  
+  const paragraphs = document.querySelectorAll('p');
+  let convertedCount = 0;
+  
+  paragraphs.forEach(paragraph => {
+    const text = paragraph.textContent || paragraph.innerText;
+    
+    // Verificar si el párrafo contiene elementos de lista con "- [ ]" o "- [x]"
+    if (text.includes('- [ ]') || text.includes('- [x]')) {
+      const lines = paragraph.innerHTML.split('<br>');
+      let hasListItems = false;
+      
+      // Verificar si alguna línea es un item de lista
+      lines.forEach(line => {
+        if (line.includes('- [ ]') || line.includes('- [x]')) {
+          hasListItems = true;
+        }
+      });
+      
+      if (hasListItems) {
+        // Crear nueva lista UL
+        const ul = document.createElement('ul');
+        ul.className = 'converted-task-list';
+        
+        lines.forEach(line => {
+          if (line.trim() && (line.includes('- [ ]') || line.includes('- [x]'))) {
+            const li = document.createElement('li');
+            li.className = 'converted-task-item';
+            li.innerHTML = line.trim().replace(/^-\s+/, '');
+            ul.appendChild(li);
+          }
+        });
+        
+        // Reemplazar el párrafo con la lista
+        paragraph.parentNode.replaceChild(ul, paragraph);
+        convertedCount++;
+      }
+    }
+  });
+  
+  console.log(`✅ Convertidos ${convertedCount} párrafos a listas`);
+  
+  // Aplicar estilos a las nuevas listas
+  applyListStyles();
+}
+
+// Aplicar estilos de indentación a las listas convertidas
+function applyListStyles() {
+  const style = document.createElement('style');
+  style.textContent = `
+    .converted-task-list {
+      list-style: none !important;
+      padding-left: 0 !important;
+      margin: 1em 0 !important;
+    }
+    
+    .converted-task-item {
+      margin: 0.5em 0 !important;
+      padding-left: 0 !important;
+      position: relative !important;
+    }
+    
+    /* Indentación para listas anidadas */
+    .converted-task-list .converted-task-list {
+      margin-left: 2.5rem !important;
+      padding-left: 1.5rem !important;
+      border-left: 3px solid #d1d5db !important;
+    }
+    
+    /* Checkboxes para las listas convertidas */
+    .converted-task-item input[type="checkbox"] {
+      margin-right: 12px !important;
+      transform: scale(1.5) !important;
+      vertical-align: middle !important;
+    }
+  `;
+  
+  // Solo agregar el estilo si no existe
+  if (!document.querySelector('#converted-lists-styles')) {
+    style.id = 'converted-lists-styles';
+    document.head.appendChild(style);
+  }
+}
+
+// Ejecutar la conversión
+document.addEventListener('DOMContentLoaded', convertParagraphsToLists);
+setTimeout(convertParagraphsToLists, 500);
+setTimeout(convertParagraphsToLists, 2000);
+
+// También observar cambios en el DOM
+new MutationObserver(convertParagraphsToLists).observe(document.body, {
+  childList: true, 
+  subtree: true
+});
+</script>
   </body>
 </html>
