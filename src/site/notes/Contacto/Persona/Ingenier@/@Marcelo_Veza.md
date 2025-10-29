@@ -3,6 +3,10 @@
 ---
 
 ### #Obra/Zapata 
+# [[Registro/Diario/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
+
+    - [ ] Cerrar planilla de avance [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ⏳ 2025-11-02
+    - [ ] Cómputo eléctrico [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] ⏳ 2025-11-09
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] #Obra/Zapata [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
@@ -14,20 +18,9 @@
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
         - [ ] malla sombra
-        - [x] 1 rollo hule 80 micrones 260 bs
-        - [x] Diurex
-        - [x] 3 pza palas
         - [ ] 2 pza carretillas
-        - [x] 2 pza llantas completas
-        - [x] 20 Bolsas de Yute
-        - [x] 6 balde pintura
-        - [x] 2 Cabo de Picota
         - [ ] 1 Caja de Clavos 2½"
         - [ ] 1 Rollo Alambre de Amarre
-        - [x] Discos para acero y concreto ✅ 2025-10-23
-            - Pedir a *JL_Durán*
-        - [x] 6 pza baldes de pintura ✅ 2025-10-22
-        - [x] 2 pza escoba
         - [ ] 30 Bolsas de Cemento ⏳ 2025-10-27
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Herramienta
         - [ ] 1 Pza Amoladora 9"

@@ -24,17 +24,6 @@
         - [ ] Pintura negra en cielo falso PA
         - [ ] Pintura negra en esferas de hormigón *(previa limpieza de hormigón)*
         - [ ] Color Sand para interior [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería/Revestimiento
-        - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
-        - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
-        - [ ] Concluir borde ingreso antes que desportillen los de la piedra 🛫 2025-10-21
-        - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
-        - [ ] Revestir borde en fachada de vidrio
-        - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
-        - [ ] ⁠Piso en Escalera 🛫 2025-10-21 ⏳ 2025-10-22 📅 2025-10-25
-        - [ ] Laja en Garaje
-        - [x] Laja en Pasillo Técnico ✅ 2025-10-16
-            - ![Pasted image 20251022080336.png|150](/img/user/Adjuntos/Pasted%20image%2020251022080336.png)
 # [[Registro/Diario/2025/2025-10/2025-10-20 Monday (43)\|2025-10-20 Monday (43)]]
 
     - [ ] Limpiar losa para colocar cielo falso de madera [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]

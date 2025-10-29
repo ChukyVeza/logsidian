@@ -83,6 +83,7 @@
         - [ ] *Afinar terminado* [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-27
         - [ ] *Perfil a colocar* [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-27
     - [ ] Pintura en estructuras metálicas [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]]
+    - [ ] Cerrar planilla de avance [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ⏳ 2025-11-02
 # @Marcelo_Veza
 
     - [ ] #Obra/Zapata [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
@@ -92,6 +93,8 @@
             - [ ] Ingreso principal
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Obra/Zapata #V°B°
         - [ ] V°B° planilla de avance [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Cerrar planilla de avance [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ⏳ 2025-11-02
+    - [ ] Cómputo eléctrico [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] ⏳ 2025-11-09
 # @Mario_Echazu
 
     - [ ] Extractor de Churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -106,7 +109,7 @@
 
     - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
     - [ ] Finalizar sellado de grietas en cubierta [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] ⏫
-    - [ ] Impermeabilización con membrana líquida [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] 🆔 🆔 rqepxt
+    - [ ] Impermeabilización con membrana líquida [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]  🆔 rqepxt 📅 2025-11-17
 # @Rengel
 
     - [ ] Conclusión H°V° [[Contacto/Empresa/Proveedor/Servicios/Varios/@Rengel\|@Rengel]]
@@ -150,17 +153,6 @@
         - [ ] Pintura negra en cielo falso PA
         - [ ] Pintura negra en esferas de hormigón *(previa limpieza de hormigón)*
         - [ ] Color Sand para interior [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería/Revestimiento
-        - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
-        - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
-        - [ ] Concluir borde ingreso antes que desportillen los de la piedra 🛫 2025-10-21
-        - [ ] ⁠Revestir canal piscina para hacer pruebas ⛔ vtfiy6
-        - [ ] Revestir borde en fachada de vidrio
-        - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
-        - [ ] ⁠Piso en Escalera 🛫 2025-10-21 ⏳ 2025-10-22 📅 2025-10-25
-        - [ ] Laja en Garaje
-        - [x] Laja en Pasillo Técnico ✅ 2025-10-16
-            - ![Pasted image 20251022080336.png|150](/img/user/Adjuntos/Pasted%20image%2020251022080336.png)
     - [ ] Corregir borde de piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] Nivelar *nuevamente* piso de ingreso [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⏳ 2025-10-27 📅 2025-10-27
     - [ ] Remate de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
@@ -201,7 +193,6 @@
     - [ ] Portero eléctrico [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
     - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] 2 m³ Arenilla [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] ⏳ 2025-10-27 📅 2025-10-28
 # @VidrAlum
 
     - [ ] #Obra/Zapata [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #Construcción/Carpintería/Aluminio
