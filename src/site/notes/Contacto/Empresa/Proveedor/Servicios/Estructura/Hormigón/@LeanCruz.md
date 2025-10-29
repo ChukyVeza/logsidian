@@ -1,5 +1,5 @@
 ---
-{"Nombre":"LeanCruz","Oficio":"Empresa","Contacto":"[[@Adilson_Pérez]]","tags":["Proveedor/Servicio/Hormigón"],"dg-publish":true,"permalink":"/contacto/empresa/proveedor/servicios/estructura/hormigon/lean-cruz/","dgPassFrontmatter":true,"noteIcon":""}
+{"Nombre":"LeanCruz","Tipo":"Empresa","Contacto":"[[@Adilson_Pérez]]","tags":["Proveedor/Servicio/Hormigón"],"dg-publish":true,"permalink":"/contacto/empresa/proveedor/servicios/estructura/hormigon/lean-cruz/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### #Obra/Zapata 

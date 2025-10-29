@@ -3,6 +3,8 @@
 ---
 
 
+### [[Proyectos/2025/Zapata/Zapata\|Zapata]]
+
 # [[Registro/Diario/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
 
     - [ ] 2 m³ Arenilla [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] ⏳ 2025-10-27 📅 2025-10-28
