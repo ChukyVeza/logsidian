@@ -8,10 +8,12 @@
 # @Carolina_Tarabillo
 
     - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
+    - [ ] Sacar plantas de patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
 # @Efrain_Callejas
 
     - [ ] [[Contacto/Persona/Contratista/Metálica/@Efrain_Callejas\|@Efrain_Callejas]] #Tipo/Servicio
-        - [ ] Cotización estructura metálica ⏳ 2025-10-27 *Ampliar techo en los laterales*
+        - [x] Cotización estructura metálica ⏳ 2025-10-27 ✅ 2025-10-28
+            - *Ampliar techo en los laterales*
 # @Marcelo_Veza
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -38,17 +40,33 @@
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
         - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
         - [ ] Servicio de pozo ciego
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
+        - Material impermeabilización
+    - [ ] **Entrega de obra [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]][[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
 # @Mauro_Vasquez
 
     - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
+    - [ ] Considerar pendiente de patio hacia afuera en patio [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
+    - [ ] **Entrega de obra [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]][[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
+# @Studio Industrial
+
+    - [ ] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]] #Cotización #Tipo/Servicio
+        - [ ] Cotización estructura metálica ⏳ 2025-10-30
 # @Tagomago
 
     - [ ] Recibir piso de [[Contacto/Empresa/Proveedor/Materiales/@Tagomago\|@Tagomago]] ⏳ 2025-10-27
+# Rocabado
+
+    - [ ] **Entrega de obra [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]][[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
 
 { .block-language-dataview}
 
  > [!todo]- Tareas Por Fechas
 
+# [[Registro/Diario/2025-10-27 Monday (44).md#Rocabado\|2025-10-27 Monday (44) > Rocabado]]
+
+    - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
+    - [ ] 
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)#Rocabado\|2025-10-21 Tuesday (43) > Rocabado]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -69,7 +87,8 @@
 # [[Registro/Diario/2025/2025-10/2025-10-24 Friday (43)#Rocabado\|2025-10-24 Friday (43) > Rocabado]]
 
     - [ ] [[Contacto/Persona/Contratista/Metálica/@Efrain_Callejas\|@Efrain_Callejas]] #Tipo/Servicio
-        - [ ] Cotización estructura metálica ⏳ 2025-10-27 *Ampliar techo en los laterales*
+        - [x] Cotización estructura metálica ⏳ 2025-10-27 ✅ 2025-10-28
+            - *Ampliar techo en los laterales*
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Detalle de bases de motores para aires
@@ -81,68 +100,16 @@
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
         - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
         - [ ] Servicio de pozo ciego
-# [[Registro/Diario/2025-10-27 Monday (44)#Rocabado\|2025-10-27 Monday (44) > Rocabado]]
+# [[Registro/Diario/2025/2025-10/2025-10-29 Wednesday (44)#Rocabado\|2025-10-29 Wednesday (44) > Rocabado]]
 
-    - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
-    - [ ] 
+    - [ ] Considerar pendiente de patio hacia afuera en patio [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
+    - [ ] Sacar plantas de patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
+        - Material impermeabilización
+    - [ ] **Entrega de obra [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]][[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
+    - [ ] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]] #Cotización #Tipo/Servicio
+        - [ ] Cotización estructura metálica ⏳ 2025-10-30
 
 { .block-language-dataview}
 
->[!failure]- Otro query DataviewJS
->DataviewJS
-	
-	// Configuración: Carpeta donde están las notas diarias
-	const folder = "Registro/Diario";
-	
-	// Obtener todas las páginas de la carpeta
-	const pages = dv.pages(`"${folder}"`);
-	
-	// Recopilar todas las tareas no completadas que contengan "Rocabado"
-	const tasks = [];
-	for (const page of pages) {
-	    for (const list of page.file.lists) {
-	        if (list.task && !list.completed && list.text.includes("Rocabado")) {
-	            tasks.push(list);
-	        }
-	    }
-	}
-	
-	// Extraer enlaces del texto de cada tarea y agrupar
-	const groups = {};
-	for (const task of tasks) {
-	    // Buscar todos los enlaces en el texto (formato [[...\|...]])
-	    const matches = task.text.match(/\[\[([^\]]+)\]\]/g);
-	    if (matches && matches.length > 0) {
-	        // Usar el primer enlace encontrado para agrupar (o todos si prefieres)
-	        const key = matches[0]; // Puedes ajustar esto si quieres múltiples enlaces
-	        if (!groups[key]) {
-	            groups[key] = [];
-	        }
-	        groups[key].push(task);
-	    } else {
-	        // Tareas sin enlaces
-	        const key = "Sin enlace";
-	        if (!groups[key]) {
-	            groups[key] = [];
-	        }
-	        groups[key].push(task);
-	    }
-	}
-	
-	// Mostrar las tareas agrupadas por enlace
-	for (const [key, groupTasks] of Object.entries(groups)) {
-	    dv.header(3, key);
-	    dv.taskList(groupTasks);
-	}
-	```
-
-
->[!failure]- Otro query Tasks
->Tasks
-	
-	not done
-	description includes "@"
-	sort by due
-	group by due
-	limit 20
 

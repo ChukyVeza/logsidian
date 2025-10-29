@@ -3,10 +3,6 @@
 ---
 
 ### #Obra/Zapata 
-# [[Registro/Diario/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
-
-    - [ ] Cerrar planilla de avance [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ⏳ 2025-11-02
-    - [ ] Cómputo eléctrico [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] ⏳ 2025-11-09
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] #Obra/Zapata [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
@@ -49,5 +45,9 @@
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
         - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
         - [ ] Servicio de pozo ciego
+# [[Registro/Diario/2025/2025-10/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
+
+    - [ ] Cerrar planilla de avance [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ⏳ 2025-11-02
+    - [ ] Cómputo eléctrico [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] ⏳ 2025-11-09
 
 { .block-language-dataview}

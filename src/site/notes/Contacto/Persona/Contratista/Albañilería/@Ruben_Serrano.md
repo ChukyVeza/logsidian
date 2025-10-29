@@ -3,10 +3,6 @@
 ---
 
 ### #Obra/Zapata 
-# [[Registro/Diario/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
-
-    - [ ] Nivelar *nuevamente* piso de ingreso [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⏳ 2025-10-27 📅 2025-10-27
-    - [ ] Remate de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42)\|2025-10-14 Tuesday (42)]]
 
     - [ ] Base lavamanos baño visitas se mantiene [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp 📅 2025-10-21
@@ -56,5 +52,9 @@
 # [[Registro/Diario/2025/2025-10/2025-10-25 Saturday (43)\|2025-10-25 Saturday (43)]]
 
     - [ ] Corregir borde de piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+# [[Registro/Diario/2025/2025-10/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
+
+    - [ ] Nivelar *nuevamente* piso de ingreso [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⏳ 2025-10-27 📅 2025-10-27
+    - [ ] Remate de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
 
 { .block-language-dataview}

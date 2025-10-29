@@ -5,8 +5,11 @@
 
 ### [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]]
 
-# [[Registro/Diario/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
+# [[Registro/Diario/2025/2025-10/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
 
     - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
+# [[Registro/Diario/2025/2025-10/2025-10-29 Wednesday (44)\|2025-10-29 Wednesday (44)]]
+
+    - [ ] Sacar plantas de patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
 
 { .block-language-dataview}
