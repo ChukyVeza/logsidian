@@ -3,7 +3,8 @@
 ---
 
 
-### [[Obra/Zapata\|Obra/Zapata]] 
+### **[[Proyectos/2025/Zapata/Zapata\|Zapata]]** 
+
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] #Obra/Zapata [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
@@ -53,8 +54,9 @@
 
 { .block-language-dataview}
 
+---
+### **[[Proyectos/2025/Rocabado/Rocabado\|Rocabado]]** 
 
-### [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] 
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
