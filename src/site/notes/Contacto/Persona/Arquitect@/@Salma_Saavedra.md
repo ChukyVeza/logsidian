@@ -12,12 +12,13 @@
 
     - [ ] Rejilla de canal subsuelo [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Buña/Zócalo en muro doble altura [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] #Obra/Zapata  [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #Arquitectura
         - [ ] Plano churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]]
         - [x] Plano cocina técnica ✅ 2025-09-20
-        - [ ] Diseño puertas ingreso y corredizas [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
+        - [x] Diseño puertas ingreso y corredizas [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ✅ 2025-10-30
         - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] Empapelado bronce en cielo baño visita [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Empapelado/pintura doble altura [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]

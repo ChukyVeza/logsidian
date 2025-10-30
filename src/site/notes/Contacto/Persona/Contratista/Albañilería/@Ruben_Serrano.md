@@ -13,7 +13,7 @@
 
     - [ ] Limpieza y cierre de puertas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
     - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería
-        - [ ] Bordes cielo falso baño visita y baño subsuelo
+        - [x] Bordes cielo falso baño visita y baño subsuelo ✅ 2025-10-30
         - [ ] ⁠Limpiar hormigon esferas bajo doble altura y losas doble altura (cielo y piso)
     - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Pintura
         - [ ] Masillado y lijado para pintar PA ⏳ 2025-10-20 🛫 2025-10-20
@@ -39,7 +39,7 @@
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] #Obra/Zapata [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería
-        - [ ] Completar revestimiento en ducha de Master Suite
+        - [x] Completar revestimiento en ducha de Master Suite ✅ 2025-10-30
             - ![IMG_20251021_142805.jpg|200](/img/user/Adjuntos/IMG_20251021_142805.jpg)
         - [ ] Se reviste columna con negro
             - Sugerencia *JCM*
