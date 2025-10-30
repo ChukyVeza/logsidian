@@ -112,7 +112,7 @@
 # @Quilosa
 
     - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
-    - [ ] Finalizar sellado de grietas en cubierta [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] ⏫
+    - [ ] Finalizar sellado de grietas en cubierta [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] ⏫ ⏳ 2025-11-01
     - [ ] Impermeabilización con membrana líquida [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]  🆔 rqepxt 📅 2025-11-17
 # @Rengel
 
