@@ -9,6 +9,7 @@
 
     - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
     - [ ] Sacar plantas de patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
+    - [ ] **Peso unitario** del cielo falso ripado [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
 # @Efrain_Callejas
 
     - [ ] [[Contacto/Persona/Contratista/Metálica/@Efrain_Callejas\|@Efrain_Callejas]] #Tipo/Servicio
@@ -38,14 +39,13 @@
         - [x] Retiro de escombros [[Contacto/Persona/Proveedor/@Fernando_Tinta\|@Fernando_Tinta]] ⏳ 2025-10-25 ✅ 2025-10-27
         - [ ] Recibir piso de [[Contacto/Empresa/Proveedor/Materiales/@Tagomago\|@Tagomago]] ⏳ 2025-10-27
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
-        - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
+        - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
         - [ ] Servicio de pozo ciego
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
         - Material impermeabilización
     - [ ] **Entrega de obra [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]][[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
 # @Mauro_Vasquez
 
-    - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
     - [ ] Considerar pendiente de patio hacia afuera en patio [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
     - [ ] **Entrega de obra [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]][[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
 # @Studio Industrial
@@ -63,10 +63,6 @@
 
  > [!todo]- Tareas Por Fechas
 
-# [[Registro/Diario/2025-10-27 Monday (44).md#Rocabado\|2025-10-27 Monday (44) > Rocabado]]
-
-    - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
-    - [ ] 
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)#Rocabado\|2025-10-21 Tuesday (43) > Rocabado]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -98,12 +94,16 @@
 # [[Registro/Diario/2025/2025-10/2025-10-25 Saturday (43)#Rocabado\|2025-10-25 Saturday (43) > Rocabado]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
-        - [ ] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28
+        - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
         - [ ] Servicio de pozo ciego
+# [[Registro/Diario/2025/2025-10/2025-10-27 Monday (44)#Rocabado\|2025-10-27 Monday (44) > Rocabado]]
+
+    - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
 # [[Registro/Diario/2025/2025-10/2025-10-29 Wednesday (44)#Rocabado\|2025-10-29 Wednesday (44) > Rocabado]]
 
     - [ ] Considerar pendiente de patio hacia afuera en patio [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
     - [ ] Sacar plantas de patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
+    - [ ] **Peso unitario** del cielo falso ripado [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
         - Material impermeabilización
     - [ ] **Entrega de obra [[Proyectos/2025/Rocabado/Rocabado\|Rocabado]] 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]][[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]

@@ -11,5 +11,6 @@
 # [[Registro/Diario/2025/2025-10/2025-10-29 Wednesday (44)\|2025-10-29 Wednesday (44)]]
 
     - [ ] Sacar plantas de patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
+    - [ ] **Peso unitario** del cielo falso ripado [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
 
 { .block-language-dataview}
