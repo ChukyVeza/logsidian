@@ -5,6 +5,8 @@
 
 >[!abstract]- Tareas Por Encargados
 
+<p><span><strong>TOTAL:</strong> 15 tareas pendientes con @menciones</span></p>
+
 # @Carolina_Tarabillo
 
     - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼

@@ -6,6 +6,8 @@
 >[!abstract]- Tareas Por Contratistas
 
 
+<p><span><strong>TOTAL:</strong> 73 tareas pendientes con @menciones</span></p>
+
 # @Alejandro_Solíz
 
     - [ ] Sala de bombas [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
