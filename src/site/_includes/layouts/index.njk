@@ -1,32 +1,23 @@
-    <!-- ✅ SCRIPT MEJORADO CON CONVERSIÓN DE LISTAS -->
+<!-- ✅ SCRIPT MEJORADO - ESTRUCTURA ANIDADA CORRECTA -->
     <script>
-    // 🚨 CONVERSIÓN AGRESIVA DE CHECKBOXES - VERSIÓN MEJORADA 🚨
+    // 🚨 CONVERSIÓN MEJORADA CON ANIDACIÓN INTELIGENTE 🚨
     function convertAllCheckboxes() {
       console.log('🔄 Buscando checkboxes para convertir...');
       
-      // Buscar en TODO el documento
       const allElements = document.querySelectorAll('*');
       let convertedCount = 0;
       
       allElements.forEach(element => {
-        // Solo procesar elementos que contengan texto de checkbox y no sean inputs
         if (element.tagName !== 'INPUT' && (element.innerHTML.includes('[ ]') || element.innerHTML.includes('[x]'))) {
           
-          // Reemplazar [ ] con checkbox
           if (element.innerHTML.includes('[ ]')) {
             element.innerHTML = element.innerHTML.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
             convertedCount++;
           }
           
-          // Reemplazar [x] con checkbox marcado
           if (element.innerHTML.includes('[x]')) {
             element.innerHTML = element.innerHTML.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
             convertedCount++;
-          }
-          
-          // Agregar clase para styling
-          if (element.tagName === 'LI') {
-            element.classList.add('task-item-custom-js');
           }
         }
       });
@@ -34,93 +25,202 @@
       console.log(`✅ Convertidos ${convertedCount} checkboxes`);
     }
 
-    // 🚨 CONVERSIÓN DE PÁRRAFOS A LISTAS ANIDADAS 🚨
-    function convertParagraphsToLists() {
-      console.log('🔄 Convirtiendo párrafos con listas a HTML...');
+    // 🚨 CONVERSIÓN DE PÁRRAFOS A ESTRUCTURA DE LISTAS ANIDADAS 🚨
+    function convertParagraphsToNestedLists() {
+      console.log('🔄 Convirtiendo párrafos a estructura anidada...');
       
       const paragraphs = document.querySelectorAll('p');
       let convertedCount = 0;
       
       paragraphs.forEach(paragraph => {
-        const content = paragraph.textContent || paragraph.innerText;
+        const content = paragraph.innerHTML;
         
-        // Verificar si el párrafo contiene elementos de lista
-        if (content.includes('- [ ]') || content.includes('- [x]')) {
-          const lines = paragraph.innerHTML.split('<br>');
-          let hasMultipleListItems = false;
+        if ((content.includes('- [ ]') || content.includes('- [x]')) && content.includes('<br>')) {
+          const lines = content.split('<br>');
+          const listStack = [];
+          let rootList = null;
+          let currentList = null;
+          let lastIndentLevel = 0;
           
-          // Contar cuántas líneas son elementos de lista
-          let listItemCount = 0;
-          lines.forEach(line => {
-            if (line.includes('- [ ]') || line.includes('- [x]')) {
-              listItemCount++;
+          lines.forEach((line, index) => {
+            if (line.trim()) {
+              // Calcular nivel de indentación
+              const indentSpaces = (line.match(/^(\s*)/) || [''])[0].length;
+              const indentLevel = Math.floor(indentSpaces / 2);
+              
+              // Crear elemento de lista
+              const listItem = document.createElement('li');
+              listItem.className = 'converted-task-item';
+              
+              // Procesar contenido de la línea
+              let cleanLine = line.trim();
+              cleanLine = cleanLine.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
+              cleanLine = cleanLine.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
+              cleanLine = cleanLine.replace(/^-\s+/, '');
+              
+              listItem.innerHTML = cleanLine;
+              
+              // Manejar cambios de nivel
+              if (indentLevel > lastIndentLevel) {
+                // Crear nueva lista anidada
+                const nestedList = document.createElement('ul');
+                nestedList.className = 'converted-task-list';
+                
+                if (currentList && currentList.lastElementChild) {
+                  currentList.lastElementChild.appendChild(nestedList);
+                  listStack.push(currentList);
+                  currentList = nestedList;
+                }
+              } else if (indentLevel < lastIndentLevel) {
+                // Regresar niveles
+                const levelsToPop = lastIndentLevel - indentLevel;
+                for (let i = 0; i < levelsToPop && listStack.length > 0; i++) {
+                  currentList = listStack.pop();
+                }
+              }
+              
+              // Inicializar lista raíz si es necesario
+              if (!rootList) {
+                rootList = document.createElement('ul');
+                rootList.className = 'converted-task-list';
+                currentList = rootList;
+              }
+              
+              // Agregar item a la lista actual
+              if (currentList) {
+                currentList.appendChild(listItem);
+              }
+              
+              lastIndentLevel = indentLevel;
             }
           });
           
-          // Si hay al menos un elemento de lista, convertimos (puede ser solo uno)
-          if (listItemCount >= 1) {
-            hasMultipleListItems = true;
-          }
-          
-          if (hasMultipleListItems) {
-            const list = document.createElement('ul');
-            list.className = 'converted-task-list';
-            
-            lines.forEach(line => {
-              if (line.trim()) {
-                const listItem = document.createElement('li');
-                listItem.className = 'converted-task-item';
-                
-                // Procesar la línea para mantener el formato original
-                let processedLine = line.trim();
-                
-                // Reemplazar checkboxes en esta línea específica
-                processedLine = processedLine.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
-                processedLine = processedLine.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
-                
-                // Eliminar el guion inicial si existe
-                processedLine = processedLine.replace(/^-\s+/, '');
-                
-                listItem.innerHTML = processedLine;
-                list.appendChild(listItem);
-              }
-            });
-            
-            paragraph.parentNode.replaceChild(list, paragraph);
+          // Reemplazar párrafo con la estructura creada
+          if (rootList) {
+            const container = document.createElement('div');
+            container.className = 'nested-list-container';
+            container.appendChild(rootList);
+            paragraph.parentNode.replaceChild(container, paragraph);
             convertedCount++;
           }
         }
       });
       
-      console.log(`✅ Convertidos ${convertedCount} párrafos a listas`);
+      console.log(`✅ Convertidos ${convertedCount} párrafos a listas anidadas`);
     }
 
-    // 🚨 FUNCIÓN PRINCIPAL DE CONVERSIÓN 🚨
+    // 🚨 CONVERSIÓN DE ESTRUCTURA PLANA EXISTENTE 🚨
+    function convertFlatListsToNested() {
+      console.log('🔄 Mejorando listas planas existentes...');
+      
+      // Buscar párrafos que contengan múltiples items de lista
+      const paragraphs = document.querySelectorAll('p');
+      paragraphs.forEach(paragraph => {
+        const htmlContent = paragraph.innerHTML;
+        
+        if ((htmlContent.includes('- [ ]') || htmlContent.includes('- [x]')) && 
+            htmlContent.split('<br>').length > 1) {
+          
+          const lines = htmlContent.split('<br>');
+          const list = document.createElement('ul');
+          list.className = 'converted-task-list';
+          
+          lines.forEach(line => {
+            if (line.trim()) {
+              const listItem = document.createElement('li');
+              listItem.className = 'converted-task-item';
+              
+              let processedLine = line.trim();
+              processedLine = processedLine.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
+              processedLine = processedLine.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
+              processedLine = processedLine.replace(/^-\s+/, '');
+              
+              listItem.innerHTML = processedLine;
+              list.appendChild(listItem);
+            }
+          });
+          
+          paragraph.parentNode.replaceChild(list, paragraph);
+        }
+      });
+    }
+
+    // 🚨 MEJORA DE ESTRUCTURAS EXISTENTES 🚨
+    function enhanceExistingStructures() {
+      console.log('🔄 Mejorando estructuras existentes...');
+      
+      // Aplicar clases a listas existentes
+      const existingLists = document.querySelectorAll('ul, ol');
+      existingLists.forEach(list => {
+        if (!list.classList.contains('converted-task-list')) {
+          list.classList.add('converted-task-list');
+        }
+        
+        // Aplicar clases a items existentes
+        const listItems = list.querySelectorAll('li');
+        listItems.forEach(item => {
+          if (!item.classList.contains('converted-task-item')) {
+            item.classList.add('converted-task-item');
+          }
+        });
+      });
+    }
+
+    // 🚨 FUNCIÓN PRINCIPAL MEJORADA 🚨
     function convertAllElements() {
-      convertParagraphsToLists();
+      console.log('=== INICIANDO CONVERSIÓN COMPLETA ===');
+      convertFlatListsToNested();
+      convertParagraphsToNestedLists();
       convertAllCheckboxes();
+      enhanceExistingStructures();
+      console.log('=== CONVERSIÓN COMPLETADA ===');
     }
 
-    // Ejecutar cuando el DOM esté listo
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', convertAllElements);
-    } else {
-      convertAllElements();
+    // 🚨 INICIALIZACIÓN ROBUSTA 🚨
+    function initializeConversion() {
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', convertAllElements);
+      } else {
+        convertAllElements();
+      }
+      
+      // Múltiples intentos para contenido dinámico
+      const delays = [50, 100, 300, 500, 1000, 2000];
+      delays.forEach(delay => {
+        setTimeout(convertAllElements, delay);
+      });
     }
 
-    // También ejecutar después de delays por si el contenido se carga dinámicamente
-    setTimeout(convertAllElements, 100);
-    setTimeout(convertAllElements, 1000);
-    setTimeout(convertAllElements, 3000);
+    // 🚨 OBSERVADOR DE CAMBIOS EN EL DOM 🚨
+    function setupMutationObserver() {
+      const observer = new MutationObserver(function(mutations) {
+        let shouldConvert = false;
+        
+        mutations.forEach(mutation => {
+          if (mutation.type === 'childList' && mutation.addedNodes.length > 0) {
+            shouldConvert = true;
+          } else if (mutation.type === 'characterData') {
+            shouldConvert = true;
+          }
+        });
+        
+        if (shouldConvert) {
+          setTimeout(convertAllElements, 100);
+        }
+      });
+      
+      observer.observe(document.body, {
+        childList: true,
+        subtree: true,
+        characterData: true
+      });
+    }
 
-    // Observar cambios en el DOM para contenido que se cargue después
-    const observer = new MutationObserver(function(mutations) {
-      convertAllElements();
-    });
+    // 🚨 EJECUCIÓN PRINCIPAL 🚨
+    initializeConversion();
+    setupMutationObserver();
 
-    observer.observe(document.body, {
-      childList: true,
-      subtree: true,
-      characterData: true
-    });
+    // Exportar funciones para debugging
+    window.convertAllElements = convertAllElements;
+    console.log('✅ Script de conversión cargado correctamente');
     </script>
