@@ -3,23 +3,68 @@
 ---
 
 
->[!abstract]- Tareas Por Contratistas
+
+<p><span><strong>TOTAL:</strong> 77 tareas pendientes con @menciones</span></p>
 
 
-<p><span><strong>TOTAL:</strong> 75 tareas pendientes con @menciones</span></p>
+>[!note]- Trareas urgentes para traslado
+>blue
+
+- Zonas que se necesitan habilitar:
+	- Master Suite
+		- Dormitorio
+		- Baño
+		- Vestidor
+	- Área servicio
+		- Dormitorio
+		- Cocineta
+		- Despensa
+		- Patio
+	- Piscina
+- Tareas adicionales
+	- Impermeabilización
+	- 
+
+Alejandro
+	Mesones
+	Grifería
+	Sopapas
+	Sifones
+	Termotanques
+	Gas
+	Perforación para griferías
+	
 
 # @Alejandro_Solíz
 
-    - [ ] Sala de bombas [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
+    - [ ] Sala de bombas [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+    - [ ] Chicotillos para grifería ⛔ hu881x [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+    - [ ] Instalar Lavandería [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+    - [ ] Instalar artefactos en baño de servicio [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+
+{ .block-language-dataview}
+
+<h3><span>→ @Alejandro_Solíz</span></h3><p><span>[ ] Sala de bombas <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span>[ ] Chicotillos para grifería ⛔ hu881x <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span>[ ] Instalar Lavandería <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span>[ ] Instalar artefactos en baño de servicio <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span></span></p>
+
+
+
+
+
+
+>[!abstract]- Tareas Por Contratistas
+
+
+<p><span><strong>TOTAL:</strong> 77 tareas pendientes con @menciones</span></p>
+
+# @Alejandro_Solíz
+
+    - [ ] Sala de bombas [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
     - [ ] Extractor de Churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-    - [ ] #Obra/Zapata [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #Construcción/Instalación/Hidrosanitario
-        - [ ] Chicotillos para grifería ⛔ hu881x
-        - [ ] Instalar Lavandería
-        - [ ] Instalar lavamanos servicio
-        - [ ] Instalar ducha servicio
-        - [x] Ubicar termotanque área servicio ✅ 2025-10-21
-        - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-        - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] Chicotillos para grifería ⛔ hu881x [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+    - [ ] Instalar Lavandería [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+    - [ ] Instalar artefactos en baño de servicio [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+    - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] #Obra/Zapata [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #Construcción/Instalación/Hidrosanitario
         - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Cámara rebalse en desagüe pluvial [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
@@ -46,7 +91,7 @@
         - [ ] Cableado doble altura (*pedido de cables*)
         - [ ] Cableado Jardines (*pedido de cables*)
         - [ ] Instalación Iluminación ⛔ t9qlez
-    - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Energizar sala de bombas [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] V°B° planilla de avance [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #Pedido #Tipo/Material #Construcción/Instalación/Electricidad
@@ -122,7 +167,7 @@
     - [ ] Extractor de Churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
 # @Mi_Piscina
 
-    - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] #Obra/Zapata [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] #Construcción/Instalación/Hidrosanitario
         - [ ] Revestimiento Sauna *con madera*
         - [ ] Calentador Sauna
@@ -134,6 +179,13 @@
 # @Rengel
 
     - [ ] Conclusión H°V° [[Contacto/Empresa/Proveedor/Servicios/Varios/@Rengel\|@Rengel]]
+        - [ ] #Obra/Zapata #Construcción/Instalación/Hidrosanitario
+            - [ ] Chicotillos para grifería ⛔ hu881x [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+            - [ ] Instalar Lavandería [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+            - [ ] Instalar artefactos en baño de servicio [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+            - [x] Ubicar termotanque área servicio [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] ✅ 2025-10-21
+            - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+            - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
 # @Ruben_Serrano
 
     - [ ] Base lavamanos baño visitas se mantiene [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp 📅 2025-10-21
@@ -214,7 +266,7 @@
     - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Portero eléctrico [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
-    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
 # @VidrAlum
 
