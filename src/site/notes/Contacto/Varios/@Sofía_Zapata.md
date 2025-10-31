@@ -15,9 +15,9 @@
     - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Portero eléctrico [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
-    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
-    - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
 
 { .block-language-dataview}

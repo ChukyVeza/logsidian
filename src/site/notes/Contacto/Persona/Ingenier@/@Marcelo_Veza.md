@@ -8,25 +8,13 @@
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] #Obra/Zapata [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-        - [ ] Inspeccionar Humedades por Lluvia
-            - [ ] Ductos de A/C (PA)
-            - [ ] Punto eléctrico (Pasillo Servicio)
-            - [ ] Ingreso principal
-        - [ ] #Obra/Zapata  [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #Arquitectura
-            - [x] Plano churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] ✅ 2025-10-30
-            - [x] Plano cocina técnica ✅ 2025-09-20
-            - [x] Diseño puertas ingreso y corredizas [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ✅ 2025-10-30
-            - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-            - [ ] Empapelado bronce en cielo baño visita [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-            - [ ] Empapelado/pintura doble altura [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-            - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-            - [ ] Portero eléctrico [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-            - [x] Mesón en cocina técnica ✅ 2025-10-21
-                - *Mesón se mantiene de 0.65 m*
-            - [ ] Grifería en cocina técnica
-            - [ ] Mobiliario en baño visitas
-            - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
-    - [ ] Instalar equipos de Master Suite [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⏳ 2025-11-03
+        - [x] Inspeccionar Humedades por Lluvia ✅ 2025-10-31
+            - [x] Ductos de A/C (PA) ✅ 2025-10-27
+                - *Ingreso por losa - Nuevamente sellará* [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
+            - [x] Punto eléctrico (Pasillo Servicio) ✅ 2025-10-27
+                - *Falta sellar fisuras en losa* [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
+            - [x] Ingreso principal ✅ 2025-10-27
+                - *Modificar pendiente en porcelanato* [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios

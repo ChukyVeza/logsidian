@@ -10,7 +10,9 @@
 
     - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
     - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #Construcción/Carpintería/Madera
-        - [ ] Instalación de marcos madera ⏳ 2025-11-03
-        - [ ] Instalación de puertas madera
+        - [ ] Instalación de marcos madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03 #urgente
+            - *Marco puerta ingreso principal*
+        - [ ] Instalación de puertas madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03  #urgente
+            - *Ingreso Principal*
 
 { .block-language-dataview}

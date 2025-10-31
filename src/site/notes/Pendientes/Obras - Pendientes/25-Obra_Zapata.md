@@ -4,7 +4,7 @@
 
 
 
-<p><span><strong>TOTAL:</strong> 77 tareas pendientes con @menciones</span></p>
+<p><span><strong>TOTAL:</strong> 82 tareas pendientes con @menciones</span></p>
 
 
 >[!note]- Trareas urgentes para traslado
@@ -35,16 +35,44 @@ Alejandro
 	Perforación para griferías
 	
 
+<p><span><strong>TOTAL:</strong> 13 tareas pendientes con @mención de <a href="#urgente" class="tag" target="_blank" rel="noopener nofollow">#urgente</a></span></p>
+
 # @Alejandro_Solíz
 
     - [ ] Sala de bombas [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
     - [ ] Chicotillos para grifería ⛔ hu881x [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
     - [ ] Instalar Lavandería [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
     - [ ] Instalar artefactos en baño de servicio [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
+# @Dienzo
+
+    - [ ] Muebles en Master Suite [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] #urgente
+    - [ ] Muebles en Cocineta [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] #urgente
+# @Dieter_Reyes
+
+    - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
+        - *Placas de las zonas a ocupar*
+    - [ ] Tableros Eléctricos [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
+        - *Pedido de térmicos faltantes*
+    - [ ] Instalación Iluminación [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] ⛔ t9qlez #urgente
+        - *Se necesitan las pantallas en obra*
+# @Gree
+
+    - [ ] Instalar equipos Split [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⛔ rqepxt #urgente
+        - [ ] *Equipos de Master Suite*  [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⏳ 2025-11-03
+# @Javier_Gallardo
+
+    - [ ] Instalación de marcos madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03 #urgente
+        - *Marco puerta ingreso principal*
+    - [ ] Instalación de puertas madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03  #urgente
+        - *Ingreso Principal*
+# @Sofía_Zapata
+
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
 
 { .block-language-dataview}
 
-<h3><span>→ @Alejandro_Solíz</span></h3><p><span>[ ] Sala de bombas <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span>[ ] Chicotillos para grifería ⛔ hu881x <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span>[ ] Instalar Lavandería <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span>[ ] Instalar artefactos en baño de servicio <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span></span></p>
+<h3><span>→ @Alejandro_Solíz</span></h3><p><span>[ ] Sala de bombas <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span>[ ] Chicotillos para grifería ⛔ hu881x <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span>[ ] Instalar Lavandería <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span>[ ] Instalar artefactos en baño de servicio <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a></span></p><p><span>[ ] <em>Se necesita tener todas las griferías en obra</em> <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a> <a data-href="@Sofía_Zapata" href="@Sofía_Zapata" class="internal-link" target="_blank" rel="noopener nofollow">@Sofía_Zapata</a></span></p><p><span></span></p><h3><span>→ @Dienzo</span></h3><p><span>[ ] Muebles en Master Suite <a data-href="@Dienzo" href="@Dienzo" class="internal-link" target="_blank" rel="noopener nofollow">@Dienzo</a></span></p><p><span>[ ] Muebles en Cocineta <a data-href="@Dienzo" href="@Dienzo" class="internal-link" target="_blank" rel="noopener nofollow">@Dienzo</a></span></p><p><span></span></p><h3><span>→ @Dieter_Reyes</span></h3><p><span>[ ] Interruptores  🆔 t9qlez <a data-href="@Dieter_Reyes" href="@Dieter_Reyes" class="internal-link" target="_blank" rel="noopener nofollow">@Dieter_Reyes</a></span></p><p><span>[ ] Tableros Eléctricos <a data-href="@Dieter_Reyes" href="@Dieter_Reyes" class="internal-link" target="_blank" rel="noopener nofollow">@Dieter_Reyes</a></span></p><p><span>[ ] Instalación Iluminación <a data-href="@Dieter_Reyes" href="@Dieter_Reyes" class="internal-link" target="_blank" rel="noopener nofollow">@Dieter_Reyes</a> ⛔ t9qlez</span></p><p><span></span></p><h3><span>→ @Gree</span></h3><p><span>[ ] Instalar equipos Split <a data-href="@Gree" href="@Gree" class="internal-link" target="_blank" rel="noopener nofollow">@Gree</a> ⛔ rqepxt</span></p><p><span></span></p><h3><span>→ @Javier_Gallardo</span></h3><p><span>[ ] Instalación de marcos madera <a data-href="@Javier_Gallardo" href="@Javier_Gallardo" class="internal-link" target="_blank" rel="noopener nofollow">@Javier_Gallardo</a> ⏳ 2025-11-03</span></p><p><span>[ ] Instalación de puertas madera <a data-href="@Javier_Gallardo" href="@Javier_Gallardo" class="internal-link" target="_blank" rel="noopener nofollow">@Javier_Gallardo</a> ⏳ 2025-11-03</span></p><p><span></span></p><h3><span>→ @Sofía_Zapata</span></h3><p><span>[ ] <em>Se necesita tener todas las griferías en obra</em> <a data-href="@Alejandro_Solíz" href="@Alejandro_Solíz" class="internal-link" target="_blank" rel="noopener nofollow">@Alejandro_Solíz</a> <a data-href="@Sofía_Zapata" href="@Sofía_Zapata" class="internal-link" target="_blank" rel="noopener nofollow">@Sofía_Zapata</a></span></p><p><span></span></p>
 
 
 
@@ -54,7 +82,7 @@ Alejandro
 >[!abstract]- Tareas Por Contratistas
 
 
-<p><span><strong>TOTAL:</strong> 77 tareas pendientes con @menciones</span></p>
+<p><span><strong>TOTAL:</strong> 82 tareas pendientes con @menciones</span></p>
 
 # @Alejandro_Solíz
 
@@ -64,33 +92,34 @@ Alejandro
     - [ ] Instalar Lavandería [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
     - [ ] Instalar artefactos en baño de servicio [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
     - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] #Obra/Zapata [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #Construcción/Instalación/Hidrosanitario
-        - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
+    - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Cámara rebalse en desagüe pluvial [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
 # @Assinco
 
     - [ ] Instalar central [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Assinco\|@Assinco]] ⛔ rqepxt
 # @Dienzo
 
-    - [ ] #Obra/Zapata [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] #Construcción/Carpintería/Melamina
-        - [ ] Muebles en Master Suite
-        - [ ] Muebles en Cocina
-        - [ ] Muebles en Cocineta
-        - [ ] Mueble baño visitas ⛔ hx27yp
+    - [ ] Muebles en Master Suite [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] #urgente
+    - [ ] Muebles en Cocina [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
+    - [ ] Muebles en Cocineta [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] #urgente
+    - [ ] Mueble baño visitas [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] ⛔ hx27yp
 # @Dieter_Reyes
 
     - [ ] Iluminación lineal bajo fogatero [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
         - [ ] *Afinar terminado* [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-27
         - [ ] *Perfil a colocar* [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-27
-    - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
+        - *Placas de las zonas a ocupar*
     - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #Construcción/Instalación/Electricidad
         - [x] Cablear Acometida Trifásica 🛫 2025-10-20 ✅ 2025-10-21
             - ![Pasted image 20251021223437.png|200](/img/user/Adjuntos/Pasted%20image%2020251021223437.png)
-        - [ ] Tableros Eléctricos (*pedido de térmicos*)
+        - [ ] Tableros Eléctricos [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
+            - *Pedido de térmicos faltantes*
         - [ ] Cableado doble altura (*pedido de cables*)
         - [ ] Cableado Jardines (*pedido de cables*)
-        - [ ] Instalación Iluminación ⛔ t9qlez
+        - [ ] Instalación Iluminación [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] ⛔ t9qlez #urgente
+            - *Se necesitan las pantallas en obra*
     - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Energizar sala de bombas [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] V°B° planilla de avance [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
@@ -111,15 +140,17 @@ Alejandro
     - [ ] Seta Cuero Cocina [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]]
 # @Gree
 
-    - [ ] Instalar equipos Split [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⛔ rqepxt
-        - [ ] Instalar equipos de Master Suite [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⏳ 2025-11-03
+    - [ ] Instalar equipos Split [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⛔ rqepxt #urgente
+        - [ ] *Equipos de Master Suite*  [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⏳ 2025-11-03
 # @Javier_Gallardo
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
     - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
     - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #Construcción/Carpintería/Madera
-        - [ ] Instalación de marcos madera ⏳ 2025-11-03
-        - [ ] Instalación de puertas madera
+        - [ ] Instalación de marcos madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03 #urgente
+            - *Marco puerta ingreso principal*
+        - [ ] Instalación de puertas madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03  #urgente
+            - *Ingreso Principal*
 # @Juan_Pablo_Hurtado
 
     - [ ] Cambio en cielo falso en puerta entre cocina y master suite [[Contacto/Persona/Contratista/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]
@@ -138,25 +169,13 @@ Alejandro
 # @Marcelo_Veza
 
     - [ ] #Obra/Zapata [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-        - [ ] Inspeccionar Humedades por Lluvia
-            - [ ] Ductos de A/C (PA)
-            - [ ] Punto eléctrico (Pasillo Servicio)
-            - [ ] Ingreso principal
-        - [ ] #Obra/Zapata  [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #Arquitectura
-            - [x] Plano churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] ✅ 2025-10-30
-            - [x] Plano cocina técnica ✅ 2025-09-20
-            - [x] Diseño puertas ingreso y corredizas [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ✅ 2025-10-30
-            - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-            - [ ] Empapelado bronce en cielo baño visita [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-            - [ ] Empapelado/pintura doble altura [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-            - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-            - [ ] Portero eléctrico [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-            - [x] Mesón en cocina técnica ✅ 2025-10-21
-                - *Mesón se mantiene de 0.65 m*
-            - [ ] Grifería en cocina técnica
-            - [ ] Mobiliario en baño visitas
-            - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
-    - [ ] Instalar equipos de Master Suite [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⏳ 2025-11-03
+        - [x] Inspeccionar Humedades por Lluvia ✅ 2025-10-31
+            - [x] Ductos de A/C (PA) ✅ 2025-10-27
+                - *Ingreso por losa - Nuevamente sellará* [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
+            - [x] Punto eléctrico (Pasillo Servicio) ✅ 2025-10-27
+                - *Falta sellar fisuras en losa* [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
+            - [x] Ingreso principal ✅ 2025-10-27
+                - *Modificar pendiente en porcelanato* [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Obra/Zapata #V°B°
         - [ ] V°B° planilla de avance [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] Cerrar planilla de avance [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ⏳ 2025-11-02
@@ -176,16 +195,6 @@ Alejandro
     - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
     - [ ] Finalizar sellado de grietas en cubierta [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] ⏫ ⏳ 2025-11-01
     - [ ] Impermeabilización con membrana líquida [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]  🆔 rqepxt 📅 2025-11-17
-# @Rengel
-
-    - [ ] Conclusión H°V° [[Contacto/Empresa/Proveedor/Servicios/Varios/@Rengel\|@Rengel]]
-        - [ ] #Obra/Zapata #Construcción/Instalación/Hidrosanitario
-            - [ ] Chicotillos para grifería ⛔ hu881x [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
-            - [ ] Instalar Lavandería [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
-            - [ ] Instalar artefactos en baño de servicio [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
-            - [x] Ubicar termotanque área servicio [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] ✅ 2025-10-21
-            - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-            - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
 # @Ruben_Serrano
 
     - [ ] Base lavamanos baño visitas se mantiene [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp 📅 2025-10-21
@@ -241,7 +250,8 @@ Alejandro
         - [x] Plano churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] ✅ 2025-10-30
         - [x] Plano cocina técnica ✅ 2025-09-20
         - [x] Diseño puertas ingreso y corredizas [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ✅ 2025-10-30
-        - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+        - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
+            - *Placas de las zonas a ocupar*
         - [ ] Empapelado bronce en cielo baño visita [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Empapelado/pintura doble altura [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
@@ -266,8 +276,8 @@ Alejandro
     - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Portero eléctrico [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
     - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
-    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
+    - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
 # @VidrAlum
 
     - [ ] #Obra/Zapata [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #Construcción/Carpintería/Aluminio
