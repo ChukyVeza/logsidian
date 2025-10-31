@@ -4,10 +4,5 @@
 
 ### Rocabado 
 
-# \-
-
-    - [ ] [[Contacto/Persona/Contratista/Metálica/@Efrain_Callejas\|@Efrain_Callejas]] #Tipo/Servicio
-        - [x] Cotización estructura metálica ⏳ 2025-10-27 ✅ 2025-10-28
-            - *Ampliar techo en los laterales*
 
 { .block-language-dataview}

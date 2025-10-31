@@ -16,7 +16,7 @@
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] #Obra/Zapata  [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #Arquitectura
-        - [ ] Plano churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]]
+        - [x] Plano churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] ✅ 2025-10-30
         - [x] Plano cocina técnica ✅ 2025-09-20
         - [x] Diseño puertas ingreso y corredizas [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ✅ 2025-10-30
         - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]

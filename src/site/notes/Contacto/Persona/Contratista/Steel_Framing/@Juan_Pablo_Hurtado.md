@@ -3,6 +3,10 @@
 ---
 
 ### #Obra/Zapata 
+# [[Registro/Diario/2025-10-30 Thursday (44)\|2025-10-30 Thursday (44)]]
+
+    - [ ] Buña de cielo falso en cocineta [[Contacto/Persona/Contratista/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]
+        - ![IMG_20251030_135521.jpg|300](/img/user/Adjuntos/IMG_20251030_135521.jpg)
 # [[Registro/Diario/2025/2025-10/2025-10-17 Friday (42)\|2025-10-17 Friday (42)]]
 
     - [ ] Cambio en cielo falso en puerta entre cocina y master suite [[Contacto/Persona/Contratista/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]

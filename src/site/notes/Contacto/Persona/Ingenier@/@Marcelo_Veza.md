@@ -12,6 +12,21 @@
             - [ ] Ductos de A/C (PA)
             - [ ] Punto eléctrico (Pasillo Servicio)
             - [ ] Ingreso principal
+        - [ ] #Obra/Zapata  [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #Arquitectura
+            - [x] Plano churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] ✅ 2025-10-30
+            - [x] Plano cocina técnica ✅ 2025-09-20
+            - [x] Diseño puertas ingreso y corredizas [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ✅ 2025-10-30
+            - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+            - [ ] Empapelado bronce en cielo baño visita [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+            - [ ] Empapelado/pintura doble altura [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+            - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+            - [ ] Portero eléctrico [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+            - [x] Mesón en cocina técnica ✅ 2025-10-21
+                - *Mesón se mantiene de 0.65 m*
+            - [ ] Grifería en cocina técnica
+            - [ ] Mobiliario en baño visitas
+            - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
+    - [ ] Instalar equipos de Master Suite [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⏳ 2025-11-03
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -47,6 +62,8 @@
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
         - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
         - [ ] Servicio de pozo ciego ⏳ 2025-10-30
+            - *Pozo ciego 1.20m (1,000.00 Bs/m)*
+            - *Cámara séptica 1.20m x 1.50m  (1,000.00 Bs/m)*
 # [[Registro/Diario/2025/2025-10/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
 
     - [ ] Cerrar planilla de avance [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ⏳ 2025-11-02
@@ -87,6 +104,8 @@
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
         - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
         - [ ] Servicio de pozo ciego ⏳ 2025-10-30
+            - *Pozo ciego 1.20m (1,000.00 Bs/m)*
+            - *Cámara séptica 1.20m x 1.50m  (1,000.00 Bs/m)*
 # [[Registro/Diario/2025/2025-10/2025-10-29 Wednesday (44)\|2025-10-29 Wednesday (44)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
