@@ -9,7 +9,8 @@
         - *Conseguir más piedra o se corrige revoque*
     - [ ] Oro Filo en Fachada [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]]  ⏳ 2025-10-20 🛫 2025-10-21 📅 2025-10-27
         - *Faltan cortes pequeños*
-    - [ ] Seta Cuero inodoro Master [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]]
+    - [ ] Seta Cuero inodoro Master [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]] ⏳ 2025-11-03 #urgente
+    - [ ] Seta Cuero ducha Master [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]] ⏳ 2025-11-03  #urgente
     - [ ] Seta Cuero Cocina [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]]
 
 { .block-language-dataview}

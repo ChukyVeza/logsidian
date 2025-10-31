@@ -6,7 +6,7 @@
 # [[Registro/Diario/2025/2025-10/2025-10-20 Monday (43)\|2025-10-20 Monday (43)]]
 
     - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Instalaciones/Gas/@Erika_Martinez\|@Erika_Martinez]] #Construcción/Instalación/Gas
-        - [ ] Punto termotanque servicio ⏳ 2025-10-27
-        - [ ] Proveer rejilla en cocina servicio ⏳ 2025-10-27
+        - [ ] Punto termotanque servicio ⏳ 2025-10-27 #urgente
+        - [ ] Proveer rejilla en cocina servicio ⏳ 2025-10-27 #urgente
 
 { .block-language-dataview}

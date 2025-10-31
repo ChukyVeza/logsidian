@@ -5,16 +5,6 @@
 
 ### **[[Proyectos/2025/Zapata/Zapata\|Zapata]]** 
 
-# [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
-
-    - [ ] #Obra/Zapata [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-        - [x] Inspeccionar Humedades por Lluvia ✅ 2025-10-31
-            - [x] Ductos de A/C (PA) ✅ 2025-10-27
-                - *Ingreso por losa - Nuevamente sellará* [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
-            - [x] Punto eléctrico (Pasillo Servicio) ✅ 2025-10-27
-                - *Falta sellar fisuras en losa* [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
-            - [x] Ingreso principal ✅ 2025-10-27
-                - *Modificar pendiente en porcelanato* [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios

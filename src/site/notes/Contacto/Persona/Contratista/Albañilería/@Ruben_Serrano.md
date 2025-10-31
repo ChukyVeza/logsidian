@@ -7,8 +7,7 @@
 
     - [ ] Base lavamanos baño visitas se mantiene [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp 📅 2025-10-21
         - ![WhatsApp Image 2025-10-21 at 07.05.48.jpeg|230](/img/user/Adjuntos/WhatsApp%20Image%202025-10-21%20at%2007.05.48.jpeg) ![Pasted image 20251021070652.png|200](/img/user/Adjuntos/Pasted%20image%2020251021070652.png)
-    - [ ] Buña en fachada por fisuras [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-    - [ ] Impermeabilizar baño de servicio [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Buña en fachada por fisuras [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] Limpieza y cierre de puertas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
@@ -20,6 +19,18 @@
         - [ ] Pintura negra en cielo falso PA
         - [ ] Pintura negra en esferas de hormigón *(previa limpieza de hormigón)*
         - [ ] Color Sand para interior [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería/Revestimiento
+        - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] #urgente
+        - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
+        - [x] Concluir borde ingreso antes que desportillen los de la piedra 🛫 2025-10-21 ✅ 2025-10-29
+        - [ ] ⁠Revestir canal piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⛔ vtfiy6 #urgente
+        - [ ] Corregir borde piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
+        - [ ] Revestir borde en fachada de vidrio
+        - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
+        - [x] ⁠Piso en Escalera 🛫 2025-10-21 ⏳ 2025-10-22 📅 2025-10-25 ✅ 2025-10-29
+        - [ ] Laja en Garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⏳ 2025-10-30 📅 2025-11-03 #urgente
+        - [x] Laja en Pasillo Técnico ✅ 2025-10-16
+            - ![Pasted image 20251022080336.png|150](/img/user/Adjuntos/Pasted%20image%2020251022080336.png)
 # [[Registro/Diario/2025/2025-10/2025-10-20 Monday (43)\|2025-10-20 Monday (43)]]
 
     - [ ] Limpiar losa para colocar cielo falso de madera [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
@@ -32,8 +43,6 @@
         - ![Pasted image 20251020115124.png|200](/img/user/Adjuntos/Pasted%20image%2020251020115124.png)
     - [ ] Altura de terreno desde fogatero [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - ![Pasted image 20251020115507.png|200](/img/user/Adjuntos/Pasted%20image%2020251020115507.png)
-    - [ ] Dirección piedra laja [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020115445.png|200](/img/user/Adjuntos/Pasted%20image%2020251020115445.png)
     - [ ] Remate bajo losa en gimnasio [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
         - ![Pasted image 20251020115412.png|400](/img/user/Adjuntos/Pasted%20image%2020251020115412.png)
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
@@ -54,7 +63,7 @@
     - [ ] Corregir borde de piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
 # [[Registro/Diario/2025/2025-10/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
 
-    - [ ] Nivelar *nuevamente* piso de ingreso [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⏳ 2025-10-27 📅 2025-10-27
-    - [ ] Remate de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
+    - [ ] Remate de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
+        - ![QokLFANoDjYGHk357|200x200](https://photos.app.goo.gl/QokLFANoDjYGHk357)
 
 { .block-language-dataview}
