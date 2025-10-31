@@ -20,6 +20,10 @@ Zonas que se necesitan habilitar:
 
 <p><span><strong>TOTAL:</strong> 33 tareas pendientes con @mención de <a href="#urgente" class="tag" target="_blank" rel="noopener nofollow">#urgente</a></span></p>
 
+>[!note]- Trareas urgentes por encargado
+>blue
+
+
 # @Alejandro_Solíz
 
     - [ ] Chicotillos para grifería ⛔ hu881x [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
