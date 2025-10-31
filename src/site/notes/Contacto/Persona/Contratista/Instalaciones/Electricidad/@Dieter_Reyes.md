@@ -15,18 +15,14 @@
     - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #Construcción/Instalación/Electricidad
         - [x] Cablear Acometida Trifásica 🛫 2025-10-20 ✅ 2025-10-21
             - ![Pasted image 20251021223437.png|200](/img/user/Adjuntos/Pasted%20image%2020251021223437.png)
-        - [ ] Tableros Eléctricos [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
+        - [x] Tableros Eléctricos [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente ✅ 2025-10-31
             - *Pedido de térmicos faltantes*
         - [ ] Cableado doble altura (*pedido de cables*)
         - [ ] Cableado Jardines (*pedido de cables*)
         - [ ] Instalación Iluminación [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] ⛔ t9qlez #urgente
             - *Se necesitan las pantallas en obra*
-    - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-# [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
-
-    - [ ] Energizar sala de bombas [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-# [[Registro/Diario/2025/2025-10/2025-10-25 Saturday (43)\|2025-10-25 Saturday (43)]]
-
-    - [ ] V°B° planilla de avance [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
+    - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
+        - *Cablear acometida en sala de bombas*
+        - *Cablear bomba sumergible*
 
 { .block-language-dataview}

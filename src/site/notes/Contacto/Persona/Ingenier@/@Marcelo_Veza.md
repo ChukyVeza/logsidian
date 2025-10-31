@@ -45,8 +45,6 @@
             - *Averiguar con [[Contacto/Persona/Contratista/Albañilería/@Carlos_Durán\|@Carlos_Durán]] dónde está*
 # [[Registro/Diario/2025/2025-10/2025-10-25 Saturday (43)\|2025-10-25 Saturday (43)]]
 
-    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Obra/Zapata #V°B°
-        - [ ] V°B° planilla de avance [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
         - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
         - [ ] Servicio de pozo ciego ⏳ 2025-10-30
