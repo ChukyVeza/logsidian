@@ -3,39 +3,22 @@
 ---
 
 
-
-<p><span><strong>TOTAL:</strong> 78 tareas pendientes con @menciones</span></p>
-
-
 >[!note]- Trareas urgentes para traslado
 >blue
 
 - Zonas que se necesitan habilitar:
-	- Master Suite
-		- Dormitorio
-		- Baño
-		- Vestidor
-	- Área servicio
-		- Dormitorio
-		- Cocineta
-		- Despensa
-		- Patio
-	- Piscina
-- Tareas adicionales
-	- Impermeabilización
-	- 
+	- **Master Suite**
+		- *Dormitorio*
+		- *Baño*
+		- *Vestidor*
+	- **Área servicio**
+		- *Dormitorio*
+		- *Cocineta*
+		- *Despensa*
+		- *Patio*
+	- *Piscina*
 
-Alejandro
-	Mesones
-	Grifería
-	Sopapas
-	Sifones
-	Termotanques
-	Gas
-	Perforación para griferías
-	
-
-<p><span><strong>TOTAL:</strong> 26 tareas pendientes con @mención de <a href="#urgente" class="tag" target="_blank" rel="noopener nofollow">#urgente</a></span></p>
+<p><span><strong>TOTAL:</strong> 33 tareas pendientes con @mención de <a href="#urgente" class="tag" target="_blank" rel="noopener nofollow">#urgente</a></span></p>
 
 # @Alejandro_Solíz
 
@@ -46,6 +29,14 @@ Alejandro
         - *Cablear acometida en sala de bombas*
         - *Cablear bomba sumergible*
     - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
+    - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
+    - [ ] Para poder instalar griferías [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+        - *Sopapas*
+        - *Sifones*
+        - *Perforación de mesones para grifería*
+    - [ ] Instalar termotanques [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
+        - *Master*
+        - *Servicio*
 # @Dienzo
 
     - [ ] Muebles en Master Suite [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] #urgente
@@ -85,8 +76,8 @@ Alejandro
         - *Estructuras metálicas de Master*
 # @Marcelo_Veza
 
-    - [ ] Rejilla de hormigón en garaje [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #urgente
-        - *Huella o completo ??* [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
+    - [ ] Rejilla de hormigón en garaje [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #urgente
+        - *Huella o completo ??*
 # @Mi_Piscina
 
     - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
@@ -100,252 +91,66 @@ Alejandro
 # @Ruben_Serrano
 
     - [ ] Buña en fachada por fisuras [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
+    - [ ] Limpieza y cierre de puertas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #urgente
     - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] #urgente
     - [ ] ⁠Revestir canal piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⛔ vtfiy6 #urgente
     - [ ] Corregir borde piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
     - [ ] Laja en Garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⏳ 2025-10-30 📅 2025-11-03 #urgente
     - [ ] Remate de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
-        - ![QokLFANoDjYGHk357|200x200](https://photos.app.goo.gl/QokLFANoDjYGHk357)
+        - *Para que luego  pueda impermeabilizar* [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
+        - ![IMG_20251027_111741.jpg|300](/img/user/Adjuntos/IMG_20251027_111741.jpg)
 # @Salma_Saavedra
 
     - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
         - *Colocar riel de puertas en master*
+    - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x #urgente
+    - [ ] Rejilla de hormigón en garaje [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #urgente
+        - *Huella o completo ??*
 # @Sofía_Zapata
 
+    - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x #urgente
+    - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
     - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
+    - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
+    - [ ] Impermeabilización exterior en muros con Recuplast [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
+# @VidrAlum
+
+    - [ ] Limpieza y cierre de puertas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #urgente
 
 { .block-language-dataview}
 
 ---
 >[!abstract]- Tareas Por Contratistas
 
+<p><span><strong>TOTAL:</strong> 81 tareas pendientes con @menciones</span></p>
 
-<p><span><strong>TOTAL:</strong> 78 tareas pendientes con @menciones</span></p>
-
-# @Alejandro_Solíz
-
-    - [ ] Sala de bombas [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-    - [ ] Extractor de Churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-    - [ ] Chicotillos para grifería ⛔ hu881x [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
-    - [ ] Instalar Lavandería [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
-    - [ ] Instalar artefactos en baño de servicio [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] #urgente
-    - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
-        - *Cablear acometida en sala de bombas*
-        - *Cablear bomba sumergible*
-    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
-    - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Cámara rebalse en desagüe pluvial [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-# @Assinco
-
-    - [ ] Instalar central [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Assinco\|@Assinco]] ⛔ rqepxt
-# @Dienzo
-
-    - [ ] Muebles en Master Suite [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] #urgente
-    - [ ] Muebles en Cocina [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]]
-    - [ ] Muebles en Cocineta [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] #urgente
-    - [ ] Mueble baño visitas [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Melamina/@Dienzo\|@Dienzo]] ⛔ hx27yp
-# @Dieter_Reyes
-
-    - [ ] Iluminación lineal bajo fogatero [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-        - [ ] *Afinar terminado* [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-27
-        - [ ] *Perfil a colocar* [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-27
-    - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
-        - *Placas de las zonas a ocupar*
-    - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #Construcción/Instalación/Electricidad
-        - [x] Cablear Acometida Trifásica 🛫 2025-10-20 ✅ 2025-10-21
-            - ![Pasted image 20251021223437.png|200](/img/user/Adjuntos/Pasted%20image%2020251021223437.png)
-        - [x] Tableros Eléctricos [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente ✅ 2025-10-31
-            - *Pedido de térmicos faltantes*
-        - [ ] Cableado doble altura (*pedido de cables*)
-        - [ ] Cableado Jardines (*pedido de cables*)
-        - [ ] Instalación Iluminación [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] ⛔ t9qlez #urgente
-            - *Se necesitan las pantallas en obra*
-    - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
-        - *Cablear acometida en sala de bombas*
-        - *Cablear bomba sumergible*
-# @Erika_Martinez
-
-    - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Instalaciones/Gas/@Erika_Martinez\|@Erika_Martinez]] #Construcción/Instalación/Gas
-        - [ ] Punto termotanque servicio ⏳ 2025-10-27 #urgente
-        - [ ] Proveer rejilla en cocina servicio ⏳ 2025-10-27 #urgente
-# @Gary
-
-    - [ ] Oro Filo en Columnas [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]] ⏳ 2025-10-25  🛫 2025-10-25
-        - *Conseguir más piedra o se corrige revoque*
-    - [ ] Oro Filo en Fachada [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]]  ⏳ 2025-10-20 🛫 2025-10-21 📅 2025-10-27
-        - *Faltan cortes pequeños*
-    - [ ] Seta Cuero inodoro Master [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]] ⏳ 2025-11-03 #urgente
-    - [ ] Seta Cuero ducha Master [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]] ⏳ 2025-11-03  #urgente
-    - [ ] Seta Cuero Cocina [[Contacto/Persona/Contratista/Especialista/@Gary\|@Gary]]
-# @Gree
-
-    - [ ] Instalar equipos Split [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⛔ rqepxt #urgente
-        - [ ] *Equipos de Master Suite*  [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⏳ 2025-11-03
-# @Javier_Gallardo
-
-    - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
-        - *Colocar riel de puertas en master*
-    - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
-    - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #Construcción/Carpintería/Madera
-        - [ ] Instalación de marcos madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03 #urgente
-            - *Marco puerta ingreso principal*
-        - [ ] Instalación de puertas madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03  #urgente
-            - *Ingreso Principal*
-# @Juan_Pablo_Hurtado
-
-    - [ ] Cambio en cielo falso en puerta entre cocina y master suite [[Contacto/Persona/Contratista/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]]
-    - [ ] #Obra/Zapata [[Contacto/Persona/Contratista/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]] #Construcción/Steel_Framing/Cielo_Falso
-        - [ ] Abertura para rejilla
-            - ![WhatsApp Image 2025-10-09 at 11.15.16.jpeg|200](/img/user/Adjuntos/WhatsApp%20Image%202025-10-09%20at%2011.15.16.jpeg)
-    - [ ] Buña de cielo falso en cocineta [[Contacto/Persona/Contratista/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]] #urgente
-        - ![IMG_20251030_135521.jpg|300](/img/user/Adjuntos/IMG_20251030_135521.jpg)
-# @LeanCruz
-
-    - [ ] Iluminación lineal bajo fogatero [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]]
-        - [ ] *Afinar terminado* [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] 📅 2025-10-27
-        - [ ] *Perfil a colocar* [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] 📅 2025-10-27
-    - [ ] Pintura en estructuras metálicas [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] #urgente
-        - *Estructuras metálicas de Master*
-    - [ ] Cerrar planilla de avance [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ⏳ 2025-11-02
-# @Marcelo_Veza
-
-    - [ ] Cerrar planilla de avance [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ⏳ 2025-11-02
-    - [ ] Cómputo eléctrico [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] ⏳ 2025-11-09
-    - [ ] Rejilla de hormigón en garaje [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #urgente
-        - *Huella o completo ??* [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-# @Mario_Echazu
-
-    - [ ] Extractor de Churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] *No se puede colocar ducto en pase de losa* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]]
-# @Mi_Piscina
-
-    - [ ] Prueba equipos de piscina [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
-        - *Cablear acometida en sala de bombas*
-        - *Cablear bomba sumergible*
-    - [ ] #Obra/Zapata [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]] #Construcción/Instalación/Hidrosanitario
-        - [ ] Revestimiento Sauna *con madera*
-        - [ ] Calentador Sauna
-# @Quilosa
-
-    - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] #urgente
-    - [ ] Finalizar sellado de grietas en cubierta [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] ⏫ ⏳ 2025-11-01 #urgente
-    - [ ] Impermeabilización con membrana líquida [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]  🆔 rqepxt 📅 2025-11-17 #urgente
-# @Ruben_Serrano
-
-    - [ ] Base lavamanos baño visitas se mantiene [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] 🆔 hx27yp 📅 2025-10-21
-        - ![WhatsApp Image 2025-10-21 at 07.05.48.jpeg|230](/img/user/Adjuntos/WhatsApp%20Image%202025-10-21%20at%2007.05.48.jpeg) ![Pasted image 20251021070652.png|200](/img/user/Adjuntos/Pasted%20image%2020251021070652.png)
-    - [ ] Buña en fachada por fisuras [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
-    - [ ] Limpiar losa para colocar cielo falso de madera [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020110753.png|200](/img/user/Adjuntos/Pasted%20image%2020251020110753.png)
-    - [ ] Remate de peldaño entre garaje y pasillo ingreso [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020110842.png|200](/img/user/Adjuntos/Pasted%20image%2020251020110842.png)
-    - [ ] Rebaje cordón de canal subsuelo [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] (*5cm lado del pasto*)
-        - ![Pasted image 20251020111218.png|200](/img/user/Adjuntos/Pasted%20image%2020251020111218.png)
-    - [ ] Buña entre cambio de materiales [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020115124.png|200](/img/user/Adjuntos/Pasted%20image%2020251020115124.png)
-    - [ ] Altura de terreno desde fogatero [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020115507.png|200](/img/user/Adjuntos/Pasted%20image%2020251020115507.png)
-    - [ ] Remate bajo losa en gimnasio [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-        - ![Pasted image 20251020115412.png|400](/img/user/Adjuntos/Pasted%20image%2020251020115412.png)
-    - [ ] Limpieza y cierre de puertas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
-    - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería
-        - [x] Bordes cielo falso baño visita y baño subsuelo ✅ 2025-10-30
-        - [ ] ⁠Limpiar hormigon esferas bajo doble altura y losas doble altura (cielo y piso)
-    - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Pintura
-        - [ ] Masillado y lijado para pintar PA ⏳ 2025-10-20 🛫 2025-10-20
-        - [ ] Pintura negra en cielo falso PA
-        - [ ] Pintura negra en esferas de hormigón *(previa limpieza de hormigón)*
-        - [ ] Color Sand para interior [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería/Revestimiento
-        - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] #urgente
-        - [x] Corregir piso ingreso iluminacion (lunes entra revestimiento piedra sinterizada) ✅ 2025-10-17
-        - [x] Concluir borde ingreso antes que desportillen los de la piedra 🛫 2025-10-21 ✅ 2025-10-29
-        - [ ] ⁠Revestir canal piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⛔ vtfiy6 #urgente
-        - [ ] Corregir borde piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
-        - [ ] Revestir borde en fachada de vidrio
-        - [x] Laja en Pasillo Subsuelo ✅ 2025-10-17
-        - [x] ⁠Piso en Escalera 🛫 2025-10-21 ⏳ 2025-10-22 📅 2025-10-25 ✅ 2025-10-29
-        - [ ] Laja en Garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⏳ 2025-10-30 📅 2025-11-03 #urgente
-        - [x] Laja en Pasillo Técnico ✅ 2025-10-16
-            - ![Pasted image 20251022080336.png|150](/img/user/Adjuntos/Pasted%20image%2020251022080336.png)
-    - [ ] #Obra/Zapata [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería
-        - [x] Completar revestimiento en ducha de Master Suite ✅ 2025-10-30
-            - ![IMG_20251021_142805.jpg|200](/img/user/Adjuntos/IMG_20251021_142805.jpg)
-        - [ ] Se reviste columna con negro
-            - Sugerencia *JCM*
-            - ![IMG_20251021_124451.jpg|200](/img/user/Adjuntos/IMG_20251021_124451.jpg)
-        - [x] Replanteo de escalera 🛫 2025-10-21 ✅ 2025-10-22
-            - *Altura de contrahuellas HCh=17.8 cm*
-            - ![Pasted image 20251021210437.png|200](/img/user/Adjuntos/Pasted%20image%2020251021210437.png)
-        - [ ] Inserción de escalera en piso
-            - ![IMG_20251021_120324.jpg|200](/img/user/Adjuntos/IMG_20251021_120324.jpg)
-    - [ ] Corregir borde de piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-    - [ ] Remate de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
-        - ![QokLFANoDjYGHk357|200x200](https://photos.app.goo.gl/QokLFANoDjYGHk357)
-    - [ ] Retiro de calaminas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]
-# @Salma_Saavedra
-
-    - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
-        - *Colocar riel de puertas en master*
-    - [ ] Rejilla de canal subsuelo [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] Buña/Zócalo en muro doble altura [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x
-    - [ ] *Detalle desnivel en losa?*[[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] #Obra/Zapata  [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #Arquitectura
-        - [x] Plano churrasquera [[Contacto/Persona/Arquitect@/@Mario_Echazu\|@Mario_Echazu]] ✅ 2025-10-30
-        - [x] Plano cocina técnica ✅ 2025-09-20
-        - [x] Diseño puertas ingreso y corredizas [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ✅ 2025-10-30
-        - [ ] Interruptores  🆔 t9qlez [[Contacto/Persona/Contratista/Instalaciones/Electricidad/@Dieter_Reyes\|@Dieter_Reyes]] #urgente
-            - *Placas de las zonas a ocupar*
-        - [ ] Empapelado bronce en cielo baño visita [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-        - [ ] Empapelado/pintura doble altura [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-        - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-        - [ ] Portero eléctrico [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-        - [x] Mesón en cocina técnica ✅ 2025-10-21
-            - *Mesón se mantiene de 0.65 m*
-        - [ ] Grifería en cocina técnica
-        - [ ] Mobiliario en baño visitas
-        - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
-    - [ ] Color Sand para interior [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] Diseño escalera marinera mantenimiento [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-# @Sin_Asignar
-
-    - [ ] Modelo de rejilla pluvial aprobada [[@Sin_Asignar\|@Sin_Asignar]]
-        - ![Pasted image 20251020115559.png|200](/img/user/Adjuntos/Pasted%20image%2020251020115559.png)
-    - [ ] Fabricación escalera marinera [[@Sin_Asignar\|@Sin_Asignar]]
-# @Sofía_Zapata
-
-    - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x
-    - [ ] Empapelado bronce en cielo baño visita [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Empapelado/pintura doble altura [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Portero eléctrico [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-    - [ ] Desayunador de madera [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]]
-    - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
-    - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-# @VidrAlum
-
-    - [ ] #Obra/Zapata [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #Construcción/Carpintería/Aluminio
-        - [ ] Paño fijo Sauna
-            - [ ] *Detalle desnivel en losa?*[[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-        - [ ] Puerta ingreso de sauna *con marco*
-    - [ ] #Obra/Zapata  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #Construcción/Carpintería/Aluminio
-        - [x] Ventana baño inodoro ✅ 2025-10-25
-        - [ ] Puerta gimnasio sin marco
-        - [x] Colocar tapetas y sellado en fachada ✅ 2025-10-25
-        - [ ] Limpieza y cierre de puertas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
-
-{ .block-language-dataview}
-
-
+>[!abstract]- Todas las Tareas Por Contratistas
+// =============================================
+// **Funcional 100%**
+//QUERY: BUSCADOR DE MENCIONES EN TAREAS ROCABADO
+// Propósito: Localizar tareas pendientes con @menciones 
+// en la sección específica de Zapata del diario
+// =============================================
+// Buscar tareas en todo el vault//
+TASK
+// Especificar la carpeta donde buscar - en este caso el diario//
+FROM "Registro/Diario"
+// Filtrar: solo tareas en la sección "Zapata" que no están completadas//
+WHERE meta(section).subpath = "Zapata" AND !completed
+// Expandir los enlaces salientes de cada tarea para poder analizarlos//
+FLATTEN outlinks as link
+// Filtrar solo tareas que contienen el carácter "@" en su texto//
+WHERE contains(text, "@")
+// Agrupar los resultados por el nombre del archivo de destino del enlace//
+GROUP BY link.file.name
+// Ordenar alfabéticamente por el nombre del archivo//
+SORT link.file.name asc
 
 >[!failure]- Tareas Por Fechas
-
-```
 task
 from "Registro/Diario"   
 sort file.name
 where contains(tags, "#Obra/Zapata") and !completed
 group by file.link 
-```
 
 >[!success]- Tareas Completados

@@ -13,7 +13,7 @@
 
     - [ ] Rejilla de canal subsuelo [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
     - [ ] Buña/Zócalo en muro doble altura [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
-    - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x
+    - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x #urgente
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
     - [ ] #Obra/Zapata  [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #Arquitectura
@@ -24,7 +24,7 @@
             - *Placas de las zonas a ocupar*
         - [ ] Empapelado bronce en cielo baño visita [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
         - [ ] Empapelado/pintura doble altura [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
-        - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
+        - [ ] Chapa ingreso [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
         - [ ] Portero eléctrico [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]]
         - [x] Mesón en cocina técnica ✅ 2025-10-21
             - *Mesón se mantiene de 0.65 m*
@@ -38,5 +38,9 @@
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] Diseño escalera marinera mantenimiento [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]]
+# [[Registro/Diario/2025/2025-10/2025-10-30 Thursday (44)\|2025-10-30 Thursday (44)]]
+
+    - [ ] Rejilla de hormigón en garaje [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #urgente
+        - *Huella o completo ??*
 
 { .block-language-dataview}

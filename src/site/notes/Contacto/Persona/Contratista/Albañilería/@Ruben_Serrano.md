@@ -10,7 +10,7 @@
     - [ ] Buña en fachada por fisuras [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
 # [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
 
-    - [ ] Limpieza y cierre de puertas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]]
+    - [ ] Limpieza y cierre de puertas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #urgente
     - [ ] #Obra/Zapata  [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #Construcción/Albañilería
         - [x] Bordes cielo falso baño visita y baño subsuelo ✅ 2025-10-30
         - [ ] ⁠Limpiar hormigon esferas bajo doble altura y losas doble altura (cielo y piso)
@@ -64,6 +64,7 @@
 # [[Registro/Diario/2025/2025-10/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
 
     - [ ] Remate de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
-        - ![QokLFANoDjYGHk357|200x200](https://photos.app.goo.gl/QokLFANoDjYGHk357)
+        - *Para que luego  pueda impermeabilizar* [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
+        - ![IMG_20251027_111741.jpg|300](/img/user/Adjuntos/IMG_20251027_111741.jpg)
 
 { .block-language-dataview}

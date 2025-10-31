@@ -30,9 +30,6 @@
         - [ ] Planos Impresos ⏳ 2025-10-27
         - [x] Retiro de escombros [[Contacto/Persona/Proveedor/@Fernando_Tinta\|@Fernando_Tinta]] ⏳ 2025-10-25 ✅ 2025-10-27
         - [ ] Recibir piso de [[Contacto/Empresa/Proveedor/Materiales/@Tagomago\|@Tagomago]] ⏳ 2025-10-27
-    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Tipo/Herramienta
-        - [ ] Mezcladora pequeña
-            - *Averiguar con [[Contacto/Persona/Contratista/Albañilería/@Carlos_Durán\|@Carlos_Durán]] dónde está*
 # [[Registro/Diario/2025/2025-10/2025-10-25 Saturday (43)\|2025-10-25 Saturday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
@@ -40,10 +37,11 @@
         - [ ] Servicio de pozo ciego ⏳ 2025-10-30
             - *Pozo ciego 1.20m (1,000.00 Bs/m)*
             - *Cámara séptica 1.20m x 1.50m  (1,000.00 Bs/m)*
-# [[Registro/Diario/2025/2025-10/2025-10-27 Monday (44)\|2025-10-27 Monday (44)]]
+# [[Registro/Diario/2025/2025-10/2025-10-29 Wednesday (44)\|2025-10-29 Wednesday (44)]]
 
-    - [ ] Cerrar planilla de avance [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Hormigón/@LeanCruz\|@LeanCruz]] ⏳ 2025-11-02
-    - [ ] Cómputo eléctrico [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] ⏳ 2025-11-09
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
+        - Material impermeabilización
+    - [ ] **Entrega de obra 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
 
 { .block-language-dataview}
 

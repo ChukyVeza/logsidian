@@ -63,12 +63,6 @@
 
  > [!todo]- Tareas Por Fechas
 
-# [[Registro/Diario/2025-10-30 Thursday (44).md#Rocabado\|2025-10-30 Thursday (44) > Rocabado]]
-
-    - [ ] Verificar pendiente de piso en patio [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
-    - [ ] Adicionar puntos eléctricos [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
-    - [ ] Punto de proyector bajo estructura metálica [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
-    - [ ] Mover muebles [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] 
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)#Rocabado\|2025-10-21 Tuesday (43) > Rocabado]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -114,6 +108,12 @@
     - [ ] **Entrega de obra 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
     - [ ] [[Contacto/Empresa/Proveedor/Servicios/Estructura/Metálica/@Studio Industrial\|@Studio Industrial]] #Cotización #Tipo/Servicio
         - [ ] Cotización estructura metálica ⏳ 2025-10-30
+# [[Registro/Diario/2025/2025-10/2025-10-30 Thursday (44)#Rocabado\|2025-10-30 Thursday (44) > Rocabado]]
+
+    - [ ] Verificar pendiente de piso en patio [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
+    - [ ] Adicionar puntos eléctricos [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
+    - [ ] Punto de proyector bajo estructura metálica [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
+    - [ ] Mover muebles [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] 
 
 { .block-language-dataview}
 
