@@ -7,15 +7,18 @@
 >blue
 
 Zonas que se necesitan habilitar:
+
 **Master Suite**
 - *Dormitorio*
 - *Baño*
 - *Vestidor*
+
 **Área servicio**
 - *Dormitorio*
 - *Patio*
 - *Despensa*
 - *Cocineta*
+
 **Piscina**
 
 <p><span><strong>TOTAL:</strong> 33 tareas pendientes con @mención de <a href="#urgente" class="tag" target="_blank" rel="noopener nofollow">#urgente</a></span></p>
