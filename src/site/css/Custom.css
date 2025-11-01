@@ -1,100 +1,51 @@
 /* ===== CHECKBOXES FORZADOS ===== */
-ul.contains-task-list {
-  list-style: none !important;
-  padding-left: 0 !important;
-}
-
-li.task-list-item {
-  list-style: none !important;
-  position: relative !important;
-  padding-left: 0 !important;
-}
-
-/* Simular checkboxes para markdown puro */
-li.task-list-item:before {
-  content: "☐ ";
-  margin-right: 8px;
-  font-size: 1.1em;
-}
-
-li.task-list-item input[type="checkbox"] {
-  margin-right: 8px !important;
-  transform: scale(1.2) !important;
-}
-
-/* Para tareas completadas */
-li.task-list-item:has(input[type="checkbox"]:checked):before {
-  content: "☑ " !important;
-  color: #10b981 !important;
-}
-
-/* ===== ESTRUCTURA DE LISTAS MEJORADA ===== */
-/* Listas principales */
-.cm-s-obsidian ul, 
-.cm-s-obsidian ol {
-  margin-left: 0 !important;
-  padding-left: 1.5rem !important;
-  list-style-position: outside !important;
-}
-
-/* Niveles de anidación progresiva */
-.cm-s-obsidian ul ul, 
-.cm-s-obsidian ol ul, 
-.cm-s-obsidian ul ol, 
-.cm-s-obsidian ol ol {
-  margin-left: 0 !important;
-  padding-left: 2rem !important;
-  border-left: 2px solid #4b5563 !important;
-  margin-top: 0.25em !important;
-  margin-bottom: 0.25em !important;
-}
-
-.cm-s-obsidian ul ul ul, 
-.cm-s-obsidian ol ul ul, 
-.cm-s-obsidian ul ol ul, 
-.cm-s-obsidian ol ol ul {
-  margin-left: 0 !important;
-  padding-left: 2rem !important;
-  border-left: 1px solid #6b7280 !important;
-}
-
-/* Items de lista */
-.cm-s-obsidian li {
-  margin: 0.4em 0 !important;
-  line-height: 1.5 !important;
-  position: relative !important;
-}
-
-/* Checkboxes mejorados */
-.cm-s-obsidian input[type="checkbox"] {
-  margin-right: 8px !important;
-  transform: scale(1.2) !important;
+.task-checkbox {
+  margin-right: 12px !important;
+  transform: scale(1.5) !important;
   vertical-align: middle !important;
 }
 
-/* Estilos específicos para listas de tareas */
-.cm-s-obsidian ul.contains-task-list {
-  padding-left: 0.5rem !important;
+/* ===== ESTRUCTURA DE LISTAS ANIDADAS ===== */
+.nested-task-container {
+  margin: 1em 0 !important;
 }
 
-.cm-s-obsidian li.task-list-item {
-  padding-left: 0.5rem !important;
+.task-list-root {
   list-style: none !important;
+  padding-left: 1rem !important;
 }
 
-/* Indentación visual para diferentes niveles */
-.cm-s-obsidian li.task-list-item > ul.contains-task-list {
-  margin-left: 1rem !important;
-  padding-left: 1.5rem !important;
-  border-left: 2px solid #374151 !important;
+.task-list-item {
+  margin: 0.5em 0 !important;
+  padding: 0.3em 0.5em !important;
+  line-height: 1.6 !important;
+  position: relative !important;
 }
 
-/* ===== ESTILOS PARA LISTAS ANIDADAS ===== */
-ul ul, ol ul, ul ol, ol ol {
-  margin-left: 1.5rem !important;
-  opacity: 0.9;
+/* Indentación visual para sublistas */
+.task-sublist {
+  list-style: none !important;
+  padding-left: 2rem !important;
+  margin: 0.5em 0 !important;
+  border-left: 3px solid #d1d5db !important;
 }
 
-li {
-  margin: 0.3em 0 !important;
+.task-sublist .task-sublist {
+  padding-left: 2rem !important;
+  border-left: 2px solid #9ca3af !important;
+}
+
+/* Mejoras visuales */
+.task-list-item:hover {
+  background-color: rgba(255, 255, 255, 0.02) !important;
+}
+
+/* Compatibilidad con contenido existente */
+.contains-task-list {
+  list-style: none !important;
+  padding-left: 1rem !important;
+}
+
+.task-list-item {
+  list-style: none !important;
 }

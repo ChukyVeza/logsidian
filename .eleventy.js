@@ -23,7 +23,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
     urlPath: "/img/optimized",
   };
 
-  // generate images, while this is async we don't wait
+  // generate images, while this is async we don’t wait
   Image(src, options);
   let metadata = Image.statsSync(src, options);
   return metadata;
@@ -101,12 +101,10 @@ module.exports = function (eleventyConfig) {
     breaks: true,
     html: true,
     linkify: true,
-    typographer: true,  // ← AGREGADO
   })
     .use(require("markdown-it-anchor"), {
       slugify: headerToId,
     })
-    .use(require("markdown-it-deflist"))  // ← AGREGADO
     .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
     .use(function (md) {
@@ -276,27 +274,19 @@ module.exports = function (eleventyConfig) {
     return date && date.toISOString();
   });
 
-  // MODIFICADO: Filtro link mejorado para preservar estructura
   eleventyConfig.addFilter("link", function (str) {
-    if (!str) return str;
-    
-    // Preservar estructura de listas durante el procesamiento de links
-    const lines = str.split('\n');
-    const processedLines = lines.map(line => {
-      if (line.includes('[[') && line.includes(']]')) {
-        return line.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
-          //Check if it is an embedded excalidraw drawing or mathjax javascript
-          if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
-            return match;
-          }
-          const [fileLink, linkTitle] = p1.split("|");
-          return getAnchorLink(fileLink, linkTitle);
-        });
-      }
-      return line;
-    });
-    
-    return processedLines.join('\n');
+    return (
+      str &&
+      str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
+        //Check if it is an embedded excalidraw drawing or mathjax javascript
+        if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
+          return match;
+        }
+        const [fileLink, linkTitle] = p1.split("|");
+
+        return getAnchorLink(fileLink, linkTitle);
+      })
+    );
   });
 
   eleventyConfig.addFilter("taggify", function (str) {
@@ -419,28 +409,6 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
-  // NUEVO: Transformación para corregir listas anidadas
-  eleventyConfig.addTransform("fix-nested-lists", function (str) {
-    const parsed = parse(str);
-    
-    // Corregir estructura de listas anidadas
-    parsed.querySelectorAll('.cm-s-obsidian ul, .cm-s-obsidian ol').forEach(list => {
-      // Asegurar que las listas tengan la clase correcta
-      if (list.querySelector('input[type="checkbox"]')) {
-        list.classList.add('contains-task-list');
-      }
-      
-      // Corregir indentación de items
-      list.querySelectorAll('li').forEach(li => {
-        if (li.querySelector('input[type="checkbox"]')) {
-          li.classList.add('task-list-item');
-        }
-      });
-    });
-    
-    return str && parsed.innerHTML;
-  });
-
   function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
     imageTag.tagName = "picture";
     let html = `<source
@@ -532,6 +500,88 @@ module.exports = function (eleventyConfig) {
     }
     return str && parsed.innerHTML;
   });
+
+// 🚨 TRANSFORMADOR CRÍTICO: CONVERTIR PÁRRAFOS CON LISTAS A ESTRUCTURA HTML
+eleventyConfig.addTransform("markdown-lists-to-html", function (str) {
+  if (!str) return str;
+  
+  const parsed = parse(str);
+  const elements = parsed.querySelectorAll('p, div');
+  
+  elements.forEach(element => {
+    const htmlContent = element.innerHTML;
+    const textContent = element.textContent || element.innerText;
+    
+    // Detectar si es una lista de tareas con múltiples items
+    if ((htmlContent.includes('- [ ]') || htmlContent.includes('- [x]')) && 
+        htmlContent.includes('<br>')) {
+      
+      const lines = htmlContent.split('<br>');
+      
+      // Crear estructura de lista
+      const listContainer = document.createElement('div');
+      listContainer.className = 'nested-task-container';
+      
+      let currentList = document.createElement('ul');
+      currentList.className = 'task-list-root';
+      listContainer.appendChild(currentList);
+      
+      const listStack = [currentList];
+      let lastIndentLevel = 0;
+      
+      lines.forEach(line => {
+        if (line.trim()) {
+          // Calcular nivel de indentación
+          const indentSpaces = (line.match(/^(\s*)/) || [''])[0].length;
+          const indentLevel = Math.floor(indentSpaces / 2);
+          
+          // Crear item de lista
+          const listItem = document.createElement('li');
+          listItem.className = 'task-list-item';
+          
+          // Procesar contenido manteniendo formato
+          let processedContent = line.trim();
+          
+          // Convertir checkboxes
+          processedContent = processedContent.replace(/\[ \]/g, 
+            '<input type="checkbox" class="task-checkbox">');
+          processedContent = processedContent.replace(/\[x\]/g, 
+            '<input type="checkbox" class="task-checkbox" checked>');
+          
+          // Remover el guion inicial
+          processedContent = processedContent.replace(/^-\s+/, '');
+          
+          listItem.innerHTML = processedContent;
+          
+          // Manejar anidación
+          if (indentLevel > lastIndentLevel) {
+            // Crear sublista
+            const subList = document.createElement('ul');
+            subList.className = 'task-sublist';
+            listStack[listStack.length - 1].lastElementChild?.appendChild(subList);
+            listStack.push(subList);
+            currentList = subList;
+          } else if (indentLevel < lastIndentLevel) {
+            // Regresar nivel
+            const levelsToPop = lastIndentLevel - indentLevel;
+            for (let i = 0; i < levelsToPop && listStack.length > 1; i++) {
+              listStack.pop();
+            }
+            currentList = listStack[listStack.length - 1];
+          }
+          
+          currentList.appendChild(listItem);
+          lastIndentLevel = indentLevel;
+        }
+      });
+      
+      // Reemplazar el elemento original
+      element.replaceWith(listContainer);
+    }
+  });
+  
+  return parsed.innerHTML;
+});
 
   eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
     if (
