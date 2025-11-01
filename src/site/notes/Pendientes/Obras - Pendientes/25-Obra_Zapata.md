@@ -93,7 +93,7 @@ Zonas que se necesitan habilitar:
 # @Quilosa
 
     - [ ] Corregir piso de ducha con impermeabilizante [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] #urgente
-    - [ ] Finalizar sellado de grietas en cubierta [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] ⏫ ⏳ 2025-11-01 #urgente
+    - [ ] Finalizar sellado de grietas en cubierta [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]] ⏫ ⏳ 2025-11-01 🛫 2025-11-01 #urgente
     - [ ] Impermeabilización con membrana líquida [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]  🆔 rqepxt 📅 2025-11-17 #urgente
 # @Ruben_Serrano
 
