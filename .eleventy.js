@@ -501,6 +501,88 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
+// 🚨 TRANSFORMADOR CRÍTICO: CONVERTIR PÁRRAFOS CON LISTAS A ESTRUCTURA HTML
+eleventyConfig.addTransform("markdown-lists-to-html", function (str) {
+  if (!str) return str;
+  
+  const parsed = parse(str);
+  const elements = parsed.querySelectorAll('p, div');
+  
+  elements.forEach(element => {
+    const htmlContent = element.innerHTML;
+    const textContent = element.textContent || element.innerText;
+    
+    // Detectar si es una lista de tareas con múltiples items
+    if ((htmlContent.includes('- [ ]') || htmlContent.includes('- [x]')) && 
+        htmlContent.includes('<br>')) {
+      
+      const lines = htmlContent.split('<br>');
+      
+      // Crear estructura de lista
+      const listContainer = document.createElement('div');
+      listContainer.className = 'nested-task-container';
+      
+      let currentList = document.createElement('ul');
+      currentList.className = 'task-list-root';
+      listContainer.appendChild(currentList);
+      
+      const listStack = [currentList];
+      let lastIndentLevel = 0;
+      
+      lines.forEach(line => {
+        if (line.trim()) {
+          // Calcular nivel de indentación
+          const indentSpaces = (line.match(/^(\s*)/) || [''])[0].length;
+          const indentLevel = Math.floor(indentSpaces / 2);
+          
+          // Crear item de lista
+          const listItem = document.createElement('li');
+          listItem.className = 'task-list-item';
+          
+          // Procesar contenido manteniendo formato
+          let processedContent = line.trim();
+          
+          // Convertir checkboxes
+          processedContent = processedContent.replace(/\[ \]/g, 
+            '<input type="checkbox" class="task-checkbox">');
+          processedContent = processedContent.replace(/\[x\]/g, 
+            '<input type="checkbox" class="task-checkbox" checked>');
+          
+          // Remover el guion inicial
+          processedContent = processedContent.replace(/^-\s+/, '');
+          
+          listItem.innerHTML = processedContent;
+          
+          // Manejar anidación
+          if (indentLevel > lastIndentLevel) {
+            // Crear sublista
+            const subList = document.createElement('ul');
+            subList.className = 'task-sublist';
+            listStack[listStack.length - 1].lastElementChild?.appendChild(subList);
+            listStack.push(subList);
+            currentList = subList;
+          } else if (indentLevel < lastIndentLevel) {
+            // Regresar nivel
+            const levelsToPop = lastIndentLevel - indentLevel;
+            for (let i = 0; i < levelsToPop && listStack.length > 1; i++) {
+              listStack.pop();
+            }
+            currentList = listStack[listStack.length - 1];
+          }
+          
+          currentList.appendChild(listItem);
+          lastIndentLevel = indentLevel;
+        }
+      });
+      
+      // Reemplazar el elemento original
+      element.replaceWith(listContainer);
+    }
+  });
+  
+  return parsed.innerHTML;
+});
+
   eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
     if (
       (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&

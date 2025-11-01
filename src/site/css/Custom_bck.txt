@@ -1,0 +1,53 @@
+/* ===== CHECKBOXES FORZADOS ===== */
+ul.contains-task-list {
+  list-style: none !important;
+  padding-left: 0 !important;
+}
+
+li.task-list-item {
+  list-style: none !important;
+  position: relative !important;
+  padding-left: 0 !important;
+}
+
+/* Simular checkboxes para markdown puro */
+li.task-list-item:before {
+  content: "☐ ";
+  margin-right: 8px;
+  font-size: 1.1em;
+}
+
+li.task-list-item input[type="checkbox"] {
+  margin-right: 8px !important;
+  transform: scale(1.2) !important;
+}
+
+/* Para tareas completadas */
+li.task-list-item:has(input[type="checkbox"]:checked):before {
+  content: "☑ " !important;
+  color: #10b981 !important;
+}
+
+/* ===== INDENTACIÓN MEJORADA ===== */
+.markdown-preview-section ul ul,
+.markdown-preview-section ol ul {
+  margin-left: 2rem !important;
+  padding-left: 1rem !important;
+  border-left: 2px solid #e5e7eb !important;
+}
+
+.cm-s-obsidian ul ul {
+  margin-left: 2rem !important;
+  padding-left: 1rem !important;
+  border-left: 2px solid #e5e7eb !important;
+}
+
+/* ===== ESTILOS PARA LISTAS ANIDADAS ===== */
+ul ul, ol ul, ul ol, ol ol {
+  margin-left: 1.5rem !important;
+  opacity: 0.9;
+}
+
+li {
+  margin: 0.3em 0 !important;
+}

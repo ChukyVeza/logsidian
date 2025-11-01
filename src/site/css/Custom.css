@@ -1,53 +1,51 @@
 /* ===== CHECKBOXES FORZADOS ===== */
-ul.contains-task-list {
-  list-style: none !important;
-  padding-left: 0 !important;
+.task-checkbox {
+  margin-right: 12px !important;
+  transform: scale(1.5) !important;
+  vertical-align: middle !important;
 }
 
-li.task-list-item {
+/* ===== ESTRUCTURA DE LISTAS ANIDADAS ===== */
+.nested-task-container {
+  margin: 1em 0 !important;
+}
+
+.task-list-root {
   list-style: none !important;
+  padding-left: 1rem !important;
+}
+
+.task-list-item {
+  margin: 0.5em 0 !important;
+  padding: 0.3em 0.5em !important;
+  line-height: 1.6 !important;
   position: relative !important;
-  padding-left: 0 !important;
 }
 
-/* Simular checkboxes para markdown puro */
-li.task-list-item:before {
-  content: "☐ ";
-  margin-right: 8px;
-  font-size: 1.1em;
+/* Indentación visual para sublistas */
+.task-sublist {
+  list-style: none !important;
+  padding-left: 2rem !important;
+  margin: 0.5em 0 !important;
+  border-left: 3px solid #d1d5db !important;
 }
 
-li.task-list-item input[type="checkbox"] {
-  margin-right: 8px !important;
-  transform: scale(1.2) !important;
+.task-sublist .task-sublist {
+  padding-left: 2rem !important;
+  border-left: 2px solid #9ca3af !important;
 }
 
-/* Para tareas completadas */
-li.task-list-item:has(input[type="checkbox"]:checked):before {
-  content: "☑ " !important;
-  color: #10b981 !important;
+/* Mejoras visuales */
+.task-list-item:hover {
+  background-color: rgba(255, 255, 255, 0.02) !important;
 }
 
-/* ===== INDENTACIÓN MEJORADA ===== */
-.markdown-preview-section ul ul,
-.markdown-preview-section ol ul {
-  margin-left: 2rem !important;
+/* Compatibilidad con contenido existente */
+.contains-task-list {
+  list-style: none !important;
   padding-left: 1rem !important;
-  border-left: 2px solid #e5e7eb !important;
 }
 
-.cm-s-obsidian ul ul {
-  margin-left: 2rem !important;
-  padding-left: 1rem !important;
-  border-left: 2px solid #e5e7eb !important;
-}
-
-/* ===== ESTILOS PARA LISTAS ANIDADAS ===== */
-ul ul, ol ul, ul ol, ol ol {
-  margin-left: 1.5rem !important;
-  opacity: 0.9;
-}
-
-li {
-  margin: 0.3em 0 !important;
+.task-list-item {
+  list-style: none !important;
 }
