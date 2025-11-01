@@ -1,0 +1,126 @@
+    <!-- ✅ SCRIPT MEJORADO CON CONVERSIÓN DE LISTAS -->
+    <script>
+    // 🚨 CONVERSIÓN AGRESIVA DE CHECKBOXES - VERSIÓN MEJORADA 🚨
+    function convertAllCheckboxes() {
+      console.log('🔄 Buscando checkboxes para convertir...');
+      
+      // Buscar en TODO el documento
+      const allElements = document.querySelectorAll('*');
+      let convertedCount = 0;
+      
+      allElements.forEach(element => {
+        // Solo procesar elementos que contengan texto de checkbox y no sean inputs
+        if (element.tagName !== 'INPUT' && (element.innerHTML.includes('[ ]') || element.innerHTML.includes('[x]'))) {
+          
+          // Reemplazar [ ] con checkbox
+          if (element.innerHTML.includes('[ ]')) {
+            element.innerHTML = element.innerHTML.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
+            convertedCount++;
+          }
+          
+          // Reemplazar [x] con checkbox marcado
+          if (element.innerHTML.includes('[x]')) {
+            element.innerHTML = element.innerHTML.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
+            convertedCount++;
+          }
+          
+          // Agregar clase para styling
+          if (element.tagName === 'LI') {
+            element.classList.add('task-item-custom-js');
+          }
+        }
+      });
+      
+      console.log(`✅ Convertidos ${convertedCount} checkboxes`);
+    }
+
+    // 🚨 CONVERSIÓN DE PÁRRAFOS A LISTAS ANIDADAS 🚨
+    function convertParagraphsToLists() {
+      console.log('🔄 Convirtiendo párrafos con listas a HTML...');
+      
+      const paragraphs = document.querySelectorAll('p');
+      let convertedCount = 0;
+      
+      paragraphs.forEach(paragraph => {
+        const content = paragraph.textContent || paragraph.innerText;
+        
+        // Verificar si el párrafo contiene elementos de lista
+        if (content.includes('- [ ]') || content.includes('- [x]')) {
+          const lines = paragraph.innerHTML.split('<br>');
+          let hasMultipleListItems = false;
+          
+          // Contar cuántas líneas son elementos de lista
+          let listItemCount = 0;
+          lines.forEach(line => {
+            if (line.includes('- [ ]') || line.includes('- [x]')) {
+              listItemCount++;
+            }
+          });
+          
+          // Si hay al menos un elemento de lista, convertimos (puede ser solo uno)
+          if (listItemCount >= 1) {
+            hasMultipleListItems = true;
+          }
+          
+          if (hasMultipleListItems) {
+            const list = document.createElement('ul');
+            list.className = 'converted-task-list';
+            
+            lines.forEach(line => {
+              if (line.trim()) {
+                const listItem = document.createElement('li');
+                listItem.className = 'converted-task-item';
+                
+                // Procesar la línea para mantener el formato original
+                let processedLine = line.trim();
+                
+                // Reemplazar checkboxes en esta línea específica
+                processedLine = processedLine.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
+                processedLine = processedLine.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
+                
+                // Eliminar el guion inicial si existe
+                processedLine = processedLine.replace(/^-\s+/, '');
+                
+                listItem.innerHTML = processedLine;
+                list.appendChild(listItem);
+              }
+            });
+            
+            paragraph.parentNode.replaceChild(list, paragraph);
+            convertedCount++;
+          }
+        }
+      });
+      
+      console.log(`✅ Convertidos ${convertedCount} párrafos a listas`);
+    }
+
+    // 🚨 FUNCIÓN PRINCIPAL DE CONVERSIÓN 🚨
+    function convertAllElements() {
+      convertParagraphsToLists();
+      convertAllCheckboxes();
+    }
+
+    // Ejecutar cuando el DOM esté listo
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', convertAllElements);
+    } else {
+      convertAllElements();
+    }
+
+    // También ejecutar después de delays por si el contenido se carga dinámicamente
+    setTimeout(convertAllElements, 100);
+    setTimeout(convertAllElements, 1000);
+    setTimeout(convertAllElements, 3000);
+
+    // Observar cambios en el DOM para contenido que se cargue después
+    const observer = new MutationObserver(function(mutations) {
+      convertAllElements();
+    });
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true,
+      characterData: true
+    });
+    </script>

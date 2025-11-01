@@ -1,0 +1,317 @@
+---
+permalink: "notes/{{ page.fileSlug | slugify }}/"
+---
+<!DOCTYPE html>
+<html lang="{{ meta.mainLanguage }}">
+  <head>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+    {%include "components/pageheader.njk"%}
+    {% for imp in dynamics.common.head %}
+      {% include imp %}
+    {% endfor %}
+    {% for imp in dynamics.notes.head %}
+      {% include imp %}
+    {% endfor %}
+    
+    <!-- ✅ CSS CORREGIDO - SIN SELECTORES INVALIDOS -->
+<style>
+/* ===== CHECKBOXES ===== */
+input[type="checkbox"] {
+  margin-right: 12px !important;
+  transform: scale(1.5) !important;
+  vertical-align: middle !important;
+}
+
+.custom-checkbox-js {
+  margin-right: 12px !important;
+  transform: scale(1.5) !important;
+  vertical-align: middle !important;
+}
+
+.task-item-custom-js {
+  list-style: none !important;
+  padding-left: 0 !important;
+}
+
+/* ===== INDENTACIÓN SUPER AGRESIVA ===== */
+/* Cualquier UL dentro de otro UL */
+ul ul {
+  margin-left: 2.5rem !important;
+  padding-left: 1.5rem !important;
+  border-left: 3px solid #d1d5db !important;
+  display: block !important;
+}
+
+/* Cualquier OL dentro de UL */
+ul ol {
+  margin-left: 2.5rem !important;
+  padding-left: 1.5rem !important;
+  border-left: 3px solid #d1d5db !important;
+  display: block !important;
+}
+
+/* Cualquier UL dentro de OL */
+ol ul {
+  margin-left: 2.5rem !important;
+  padding-left: 1.5rem !important;
+  border-left: 3px solid #d1d5db !important;
+  display: block !important;
+}
+
+/* Cualquier OL dentro de OL */
+ol ol {
+  margin-left: 2.5rem !important;
+  padding-left: 1.5rem !important;
+  border-left: 3px solid #d1d5db !important;
+  display: block !important;
+}
+
+/* Estilos generales */
+li {
+  margin: 0.5em 0 !important;
+  line-height: 1.6 !important;
+}
+
+/* Para listas de tercer nivel (más indentación) */
+ul ul ul, ol ul ul, ul ol ul, ol ol ul {
+  margin-left: 2rem !important;
+  padding-left: 1rem !important;
+  border-left: 2px solid #9ca3af !important;
+}
+
+/* ===== ESTILOS PARA LISTAS CONVERTIDAS ===== */
+.converted-task-list {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin: 1em 0 !important;
+}
+
+.converted-task-item {
+  margin: 0.5em 0 !important;
+  padding-left: 0 !important;
+  position: relative !important;
+}
+
+/* Indentación para listas anidadas convertidas */
+.converted-task-list .converted-task-list {
+  margin-left: 2.5rem !important;
+  padding-left: 1.5rem !important;
+  border-left: 3px solid #d1d5db !important;
+}
+
+/* Checkboxes para las listas convertidas */
+.converted-task-item input[type="checkbox"] {
+  margin-right: 12px !important;
+  transform: scale(1.5) !important;
+  vertical-align: middle !important;
+}
+</style>
+  </head>
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+    {%include "components/notegrowthhistory.njk"%}
+    
+    {% if settings.dgShowFileTree !== true %}
+      {%include "components/navbar.njk"%}
+    {%else%}
+      {%include "components/filetree.njk"%}
+    {% endif %}
+
+    {% if settings.dgEnableSearch === true %}
+      {%include "components/searchContainer.njk"%}
+    {% endif %}
+
+    <main class="content cm-s-obsidian {{contentClasses}}">
+      <header>
+        {% if settings.dgShowInlineTitle === true %}
+          <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
+        {% endif %}
+        <div class="header-meta">
+          {% if settings.dgShowTags === true and tags %}
+            <div class="header-tags">
+              {% for tag in tags %}
+                {% if tag != 'gardenEntry' and tag !='note' %}
+                  <a class="tag" onclick="toggleTagSearch(this)">
+                    #{{tag}}
+                  </a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+          {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
+          <div class="timestamps">
+            {%- if meta.timestampSettings.showCreated and created -%}
+            <div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
+            {%- endif -%}
+            {%- if meta.timestampSettings.showUpdated and updated -%}
+            <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
+            {%- endif -%}
+          </div>
+          {%- endif -%}
+        </div>
+      {% for imp in dynamics.common.header %}
+        {% include imp %}
+      {% endfor %}
+      {% for imp in dynamics.notes.header %}
+        {% include imp %}
+      {% endfor %}
+      </header>
+      {% for imp in dynamics.common.beforeContent %}
+        {% include imp %}
+      {% endfor %}
+      {% for imp in dynamics.notes.beforeContent %}
+        {% include imp %}
+      {% endfor %}
+      {{ content | hideDataview | taggify | link | safe}}
+      {% for imp in dynamics.common.afterContent %}
+        {% include imp %}
+      {% endfor %}
+      {% for imp in dynamics.notes.afterContent %}
+        {% include imp %}
+      {% endfor %}
+    </main>
+
+    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
+      {%include "components/sidebar.njk"%}
+    {% endif %}
+
+    {% if settings.dgLinkPreview === true %}
+      {%include "components/linkPreview.njk"%}
+    {% endif %}
+    {% include "components/references.njk" %}
+    {% include "components/timestamps.njk" %}
+    {% for imp in dynamics.common.footer %}
+      {% include imp %}
+    {% endfor %}
+    {% for imp in dynamics.notes.footer %}
+      {% include imp %}
+    {% endfor %}
+    {%include "components/lucideIcons.njk"%}
+    
+    <!-- ✅ SCRIPT MEJORADO CON CONVERSIÓN DE LISTAS -->
+    <script>
+    // 🚨 CONVERSIÓN AGRESIVA DE CHECKBOXES - VERSIÓN MEJORADA 🚨
+    function convertAllCheckboxes() {
+      console.log('🔄 Buscando checkboxes para convertir...');
+      
+      // Buscar en TODO el documento
+      const allElements = document.querySelectorAll('*');
+      let convertedCount = 0;
+      
+      allElements.forEach(element => {
+        // Solo procesar elementos que contengan texto de checkbox y no sean inputs
+        if (element.tagName !== 'INPUT' && (element.innerHTML.includes('[ ]') || element.innerHTML.includes('[x]'))) {
+          
+          // Reemplazar [ ] con checkbox
+          if (element.innerHTML.includes('[ ]')) {
+            element.innerHTML = element.innerHTML.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
+            convertedCount++;
+          }
+          
+          // Reemplazar [x] con checkbox marcado
+          if (element.innerHTML.includes('[x]')) {
+            element.innerHTML = element.innerHTML.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
+            convertedCount++;
+          }
+          
+          // Agregar clase para styling
+          if (element.tagName === 'LI') {
+            element.classList.add('task-item-custom-js');
+          }
+        }
+      });
+      
+      console.log(`✅ Convertidos ${convertedCount} checkboxes`);
+    }
+
+    // 🚨 CONVERSIÓN DE PÁRRAFOS A LISTAS ANIDADAS 🚨
+    function convertParagraphsToLists() {
+      console.log('🔄 Convirtiendo párrafos con listas a HTML...');
+      
+      const paragraphs = document.querySelectorAll('p');
+      let convertedCount = 0;
+      
+      paragraphs.forEach(paragraph => {
+        const content = paragraph.textContent || paragraph.innerText;
+        
+        // Verificar si el párrafo contiene elementos de lista
+        if (content.includes('- [ ]') || content.includes('- [x]')) {
+          const lines = paragraph.innerHTML.split('<br>');
+          let hasMultipleListItems = false;
+          
+          // Contar cuántas líneas son elementos de lista
+          let listItemCount = 0;
+          lines.forEach(line => {
+            if (line.includes('- [ ]') || line.includes('- [x]')) {
+              listItemCount++;
+            }
+          });
+          
+          // Si hay al menos un elemento de lista, convertimos (puede ser solo uno)
+          if (listItemCount >= 1) {
+            hasMultipleListItems = true;
+          }
+          
+          if (hasMultipleListItems) {
+            const list = document.createElement('ul');
+            list.className = 'converted-task-list';
+            
+            lines.forEach(line => {
+              if (line.trim()) {
+                const listItem = document.createElement('li');
+                listItem.className = 'converted-task-item';
+                
+                // Procesar la línea para mantener el formato original
+                let processedLine = line.trim();
+                
+                // Reemplazar checkboxes en esta línea específica
+                processedLine = processedLine.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
+                processedLine = processedLine.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
+                
+                // Eliminar el guion inicial si existe
+                processedLine = processedLine.replace(/^-\s+/, '');
+                
+                listItem.innerHTML = processedLine;
+                list.appendChild(listItem);
+              }
+            });
+            
+            paragraph.parentNode.replaceChild(list, paragraph);
+            convertedCount++;
+          }
+        }
+      });
+      
+      console.log(`✅ Convertidos ${convertedCount} párrafos a listas`);
+    }
+
+    // 🚨 FUNCIÓN PRINCIPAL DE CONVERSIÓN 🚨
+    function convertAllElements() {
+      convertParagraphsToLists();
+      convertAllCheckboxes();
+    }
+
+    // Ejecutar cuando el DOM esté listo
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', convertAllElements);
+    } else {
+      convertAllElements();
+    }
+
+    // También ejecutar después de delays por si el contenido se carga dinámicamente
+    setTimeout(convertAllElements, 100);
+    setTimeout(convertAllElements, 1000);
+    setTimeout(convertAllElements, 3000);
+
+    // Observar cambios en el DOM para contenido que se cargue después
+    const observer = new MutationObserver(function(mutations) {
+      convertAllElements();
+    });
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true,
+      characterData: true
+    });
+    </script>
+  </body>
+</html>

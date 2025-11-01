@@ -13,103 +13,125 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
     
-    <!-- ✅ CSS MEJORADO - ESTRUCTURA REAL DE LISTAS -->
+    <!-- ✅ CSS MEJORADO - ESTRUCTURA ANIDADA CORRECTA -->
 <style>
-/* ===== CHECKBOXES ===== */
-input[type="checkbox"].task-checkbox {
+/* ===== CHECKBOXES MEJORADOS ===== */
+input[type="checkbox"] {
   margin-right: 12px !important;
   transform: scale(1.5) !important;
   vertical-align: middle !important;
   cursor: pointer !important;
 }
 
-/* ===== ESTRUCTURA DE LISTAS ANIDADAS ===== */
-.nested-task-container {
-  width: 100% !important;
-  margin: 1em 0 !important;
+.custom-checkbox-js {
+  margin-right: 12px !important;
+  transform: scale(1.5) !important;
+  vertical-align: middle !important;
+  cursor: pointer !important;
 }
 
-/* Lista raíz */
-.task-list-root {
+/* ===== ESTRUCTURA DE LISTAS MEJORADA ===== */
+/* Listas principales */
+ul, ol {
+  margin-left: 0 !important;
+  padding-left: 1.5rem !important;
   list-style: none !important;
-  padding-left: 1rem !important;
-  margin: 0 !important;
 }
 
-/* Items de lista */
-.task-list-item {
-  margin: 0.5em 0 !important;
-  padding: 0.3em 0.5em !important;
-  line-height: 1.6 !important;
-  position: relative !important;
-  border-radius: 4px !important;
-  transition: background-color 0.2s ease !important;
-}
-
-.task-list-item:hover {
-  background-color: rgba(255, 255, 255, 0.03) !important;
-}
-
-/* Sublistas - NIVEL 1 */
-.task-sublist {
-  list-style: none !important;
-  padding-left: 2rem !important;
-  margin: 0.5em 0 !important;
+/* Primer nivel de anidación */
+ul ul, ol ul, ul ol, ol ol {
+  margin-left: 0 !important;
+  padding-left: 2.5rem !important;
   border-left: 3px solid #d1d5db !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
 }
 
-/* Sublistas - NIVEL 2 */
-.task-sublist .task-sublist {
-  padding-left: 2rem !important;
+/* Segundo nivel de anidación */
+ul ul ul, ol ul ul, ul ol ul, ol ol ul,
+ul ul ol, ol ul ol, ul ol ol, ol ol ol {
+  margin-left: 0 !important;
+  padding-left: 2.5rem !important;
   border-left: 2px solid #9ca3af !important;
 }
 
-/* Sublistas - NIVEL 3 */
-.task-sublist .task-sublist .task-sublist {
-  padding-left: 1.5rem !important;
+/* Tercer nivel de anidación y más */
+ul ul ul ul, ol ul ul ul, ul ol ul ul, ol ol ul ul,
+ul ul ol ul, ol ul ol ul, ul ol ol ul, ol ol ol ul {
+  margin-left: 0 !important;
+  padding-left: 2rem !important;
   border-left: 1px solid #6b7280 !important;
 }
 
-/* Estilos para contenido dentro de listas */
-.task-list-item em {
+/* Estilos generales para items */
+li {
+  margin: 0.5em 0 !important;
+  line-height: 1.6 !important;
+  position: relative !important;
+  padding-left: 0.5rem !important;
+}
+
+/* Listas convertidas */
+.converted-task-list {
+  list-style: none !important;
+  padding-left: 1.5rem !important;
+  margin: 1em 0 !important;
+}
+
+.converted-task-item {
+  margin: 0.5em 0 !important;
+  padding-left: 0 !important;
+  position: relative !important;
+}
+
+/* Contenedor para listas anidadas */
+.nested-list-container {
+  width: 100% !important;
+}
+
+/* Mejoras visuales para mejor legibilidad */
+.converted-task-list {
+  background: transparent !important;
+  border-radius: 4px !important;
+}
+
+.converted-task-item {
+  transition: background-color 0.2s ease !important;
+}
+
+.converted-task-item:hover {
+  background-color: rgba(255, 255, 255, 0.02) !important;
+}
+
+/* Estilos para elementos de texto dentro de listas */
+.converted-task-item em {
   color: #9ca3af !important;
   font-style: italic !important;
 }
 
-.task-list-item strong {
+.converted-task-item strong {
   color: #f3f4f6 !important;
   font-weight: 600 !important;
 }
 
-/* Mejorar visualización de enlaces y tags */
-.task-list-item .internal-link {
+/* Mejora para enlaces internos */
+.internal-link {
   color: #60a5fa !important;
   text-decoration: none !important;
 }
 
-.task-list-item .internal-link:hover {
+.internal-link:hover {
   text-decoration: underline !important;
 }
 
-.task-list-item .tag {
+/* Tags mejorados */
+.tag {
   background: #374151 !important;
   color: #d1d5db !important;
   padding: 2px 8px !important;
   border-radius: 12px !important;
   font-size: 0.75rem !important;
   margin-right: 4px !important;
-}
-
-/* Estilos para imágenes dentro de listas */
-.task-list-item picture {
-  display: block !important;
-  margin: 0.5em 0 !important;
-}
-
-.task-list-item img {
-  max-width: 100% !important;
-  height: auto !important;
-  border-radius: 4px !important;
 }
 </style>
   </head>
@@ -193,11 +215,36 @@ input[type="checkbox"].task-checkbox {
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
     
-    <!-- ✅ SCRIPT SIMPLIFICADO PARA CASOS EXTREMOS -->
+    <!-- ✅ SCRIPT COMPLETAMENTE MEJORADO - ESTRUCTURA ANIDADA CORRECTA -->
     <script>
-    // 🚨 SOLUCIÓN DE EMERGENCIA PARA LISTAS PLANAS
-    function emergencyListConversion() {
-      console.log('🚨 Aplicando conversión de emergencia...');
+    // 🚨 CONVERSIÓN MEJORADA CON ANIDACIÓN INTELIGENTE 🚨
+    function convertAllCheckboxes() {
+      console.log('🔄 Buscando checkboxes para convertir...');
+      
+      const allElements = document.querySelectorAll('*');
+      let convertedCount = 0;
+      
+      allElements.forEach(element => {
+        if (element.tagName !== 'INPUT' && (element.innerHTML.includes('[ ]') || element.innerHTML.includes('[x]'))) {
+          
+          if (element.innerHTML.includes('[ ]')) {
+            element.innerHTML = element.innerHTML.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
+            convertedCount++;
+          }
+          
+          if (element.innerHTML.includes('[x]')) {
+            element.innerHTML = element.innerHTML.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
+            convertedCount++;
+          }
+        }
+      });
+      
+      console.log(`✅ Convertidos ${convertedCount} checkboxes`);
+    }
+
+    // 🚨 CONVERSIÓN DE PÁRRAFOS A ESTRUCTURA DE LISTAS ANIDADAS 🚨
+    function convertParagraphsToNestedLists() {
+      console.log('🔄 Convirtiendo párrafos a estructura anidada...');
       
       const paragraphs = document.querySelectorAll('p');
       let convertedCount = 0;
@@ -205,61 +252,194 @@ input[type="checkbox"].task-checkbox {
       paragraphs.forEach(paragraph => {
         const content = paragraph.innerHTML;
         
-        // Solo procesar párrafos que contengan listas de tareas
         if ((content.includes('- [ ]') || content.includes('- [x]')) && content.includes('<br>')) {
-          const lines = content.split('<br>').filter(line => line.trim());
+          const lines = content.split('<br>');
+          const listStack = [];
+          let rootList = null;
+          let currentList = null;
+          let lastIndentLevel = 0;
           
-          if (lines.length > 0) {
-            // Crear contenedor de lista
-            const container = document.createElement('div');
-            container.className = 'nested-task-container';
-            
-            // Crear lista
-            const list = document.createElement('ul');
-            list.className = 'task-list-root';
-            
-            lines.forEach(line => {
-              if (line.trim()) {
-                const listItem = document.createElement('li');
-                listItem.className = 'task-list-item';
+          lines.forEach((line, index) => {
+            if (line.trim()) {
+              // Calcular nivel de indentación
+              const indentSpaces = (line.match(/^(\s*)/) || [''])[0].length;
+              const indentLevel = Math.floor(indentSpaces / 2);
+              
+              // Crear elemento de lista
+              const listItem = document.createElement('li');
+              listItem.className = 'converted-task-item';
+              
+              // Procesar contenido de la línea
+              let cleanLine = line.trim();
+              cleanLine = cleanLine.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
+              cleanLine = cleanLine.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
+              cleanLine = cleanLine.replace(/^-\s+/, '');
+              
+              listItem.innerHTML = cleanLine;
+              
+              // Manejar cambios de nivel
+              if (indentLevel > lastIndentLevel) {
+                // Crear nueva lista anidada
+                const nestedList = document.createElement('ul');
+                nestedList.className = 'converted-task-list';
                 
-                // Procesar línea manteniendo formato
-                let processedLine = line.trim();
-                
-                // Convertir checkboxes
-                processedLine = processedLine.replace(/\[ \]/g, 
-                  '<input type="checkbox" class="task-checkbox">');
-                processedLine = processedLine.replace(/\[x\]/g, 
-                  '<input type="checkbox" class="task-checkbox" checked>');
-                
-                // Remover guion
-                processedLine = processedLine.replace(/^-\s+/, '');
-                
-                listItem.innerHTML = processedLine;
-                list.appendChild(listItem);
+                if (currentList && currentList.lastElementChild) {
+                  currentList.lastElementChild.appendChild(nestedList);
+                  listStack.push(currentList);
+                  currentList = nestedList;
+                }
+              } else if (indentLevel < lastIndentLevel) {
+                // Regresar niveles
+                const levelsToPop = lastIndentLevel - indentLevel;
+                for (let i = 0; i < levelsToPop && listStack.length > 0; i++) {
+                  currentList = listStack.pop();
+                }
               }
-            });
-            
-            container.appendChild(list);
+              
+              // Inicializar lista raíz si es necesario
+              if (!rootList) {
+                rootList = document.createElement('ul');
+                rootList.className = 'converted-task-list';
+                currentList = rootList;
+              }
+              
+              // Agregar item a la lista actual
+              if (currentList) {
+                currentList.appendChild(listItem);
+              }
+              
+              lastIndentLevel = indentLevel;
+            }
+          });
+          
+          // Reemplazar párrafo con la estructura creada
+          if (rootList) {
+            const container = document.createElement('div');
+            container.className = 'nested-list-container';
+            container.appendChild(rootList);
             paragraph.parentNode.replaceChild(container, paragraph);
             convertedCount++;
           }
         }
       });
       
-      console.log(`✅ Convertidos ${convertedCount} párrafos a listas`);
+      console.log(`✅ Convertidos ${convertedCount} párrafos a listas anidadas`);
     }
-    
-    // Ejecutar cuando el DOM esté listo
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', emergencyListConversion);
-    } else {
-      emergencyListConversion();
+
+    // 🚨 CONVERSIÓN DE ESTRUCTURA PLANA EXISTENTE 🚨
+    function convertFlatListsToNested() {
+      console.log('🔄 Mejorando listas planas existentes...');
+      
+      // Buscar párrafos que contengan múltiples items de lista
+      const paragraphs = document.querySelectorAll('p');
+      paragraphs.forEach(paragraph => {
+        const htmlContent = paragraph.innerHTML;
+        
+        if ((htmlContent.includes('- [ ]') || htmlContent.includes('- [x]')) && 
+            htmlContent.split('<br>').length > 1) {
+          
+          const lines = htmlContent.split('<br>');
+          const list = document.createElement('ul');
+          list.className = 'converted-task-list';
+          
+          lines.forEach(line => {
+            if (line.trim()) {
+              const listItem = document.createElement('li');
+              listItem.className = 'converted-task-item';
+              
+              let processedLine = line.trim();
+              processedLine = processedLine.replace(/\[ \]/g, '<input type="checkbox" class="custom-checkbox-js">');
+              processedLine = processedLine.replace(/\[x\]/g, '<input type="checkbox" class="custom-checkbox-js" checked>');
+              processedLine = processedLine.replace(/^-\s+/, '');
+              
+              listItem.innerHTML = processedLine;
+              list.appendChild(listItem);
+            }
+          });
+          
+          paragraph.parentNode.replaceChild(list, paragraph);
+        }
+      });
     }
-    
-    // Reintentos
-    setTimeout(emergencyListConversion, 100);
-    setTimeout(emergencyListConversion, 500);
+
+    // 🚨 MEJORA DE ESTRUCTURAS EXISTENTES 🚨
+    function enhanceExistingStructures() {
+      console.log('🔄 Mejorando estructuras existentes...');
+      
+      // Aplicar clases a listas existentes
+      const existingLists = document.querySelectorAll('ul, ol');
+      existingLists.forEach(list => {
+        if (!list.classList.contains('converted-task-list')) {
+          list.classList.add('converted-task-list');
+        }
+        
+        // Aplicar clases a items existentes
+        const listItems = list.querySelectorAll('li');
+        listItems.forEach(item => {
+          if (!item.classList.contains('converted-task-item')) {
+            item.classList.add('converted-task-item');
+          }
+        });
+      });
+    }
+
+    // 🚨 FUNCIÓN PRINCIPAL MEJORADA 🚨
+    function convertAllElements() {
+      console.log('=== INICIANDO CONVERSIÓN COMPLETA ===');
+      convertFlatListsToNested();
+      convertParagraphsToNestedLists();
+      convertAllCheckboxes();
+      enhanceExistingStructures();
+      console.log('=== CONVERSIÓN COMPLETADA ===');
+    }
+
+    // 🚨 INICIALIZACIÓN ROBUSTA 🚨
+    function initializeConversion() {
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', convertAllElements);
+      } else {
+        convertAllElements();
+      }
+      
+      // Múltiples intentos para contenido dinámico
+      const delays = [50, 100, 300, 500, 1000, 2000];
+      delays.forEach(delay => {
+        setTimeout(convertAllElements, delay);
+      });
+    }
+
+    // 🚨 OBSERVADOR DE CAMBIOS EN EL DOM 🚨
+    function setupMutationObserver() {
+      const observer = new MutationObserver(function(mutations) {
+        let shouldConvert = false;
+        
+        mutations.forEach(mutation => {
+          if (mutation.type === 'childList' && mutation.addedNodes.length > 0) {
+            shouldConvert = true;
+          } else if (mutation.type === 'characterData') {
+            shouldConvert = true;
+          }
+        });
+        
+        if (shouldConvert) {
+          setTimeout(convertAllElements, 100);
+        }
+      });
+      
+      observer.observe(document.body, {
+        childList: true,
+        subtree: true,
+        characterData: true
+      });
+    }
+
+    // 🚨 EJECUCIÓN PRINCIPAL 🚨
+    initializeConversion();
+    setupMutationObserver();
+
+    // Exportar funciones para debugging
+    window.convertAllElements = convertAllElements;
+    console.log('✅ Script de conversión cargado correctamente');
     </script>
   </body>
 </html>
