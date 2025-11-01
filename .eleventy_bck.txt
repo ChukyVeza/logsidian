@@ -101,10 +101,12 @@ module.exports = function (eleventyConfig) {
     breaks: true,
     html: true,
     linkify: true,
+    typographer: true,
   })
     .use(require("markdown-it-anchor"), {
       slugify: headerToId,
     })
+    .use(require("markdown-it-deflist"))
     .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
     .use(function (md) {
