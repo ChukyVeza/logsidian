@@ -8,7 +8,7 @@
 
 Zonas que se necesitan habilitar:
 **Master Suite**
-- *Dormitorio
+- *Dormitorio*
 - *Baño*
 - *Vestidor*
 **Área servicio**
@@ -64,12 +64,12 @@ Zonas que se necesitan habilitar:
         - [ ] *Equipos de Master Suite*  [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⏳ 2025-11-03
 # @Javier_Gallardo
 
-    - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
-        - *Colocar riel de puertas en master*
     - [ ] Instalación de marcos madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03 #urgente
         - *Marco puerta ingreso principal*
     - [ ] Instalación de puertas madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03  #urgente
         - *Ingreso Principal*
+    - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
+        - *Colocar riel de puertas en master*
 # @Juan_Pablo_Hurtado
 
     - [ ] Buña de cielo falso en cocineta [[Contacto/Persona/Contratista/Steel_Framing/@Juan_Pablo_Hurtado\|@Juan_Pablo_Hurtado]] #urgente
@@ -105,11 +105,11 @@ Zonas que se necesitan habilitar:
         - ![IMG_20251027_111741.jpg|300](/img/user/Adjuntos/IMG_20251027_111741.jpg)
 # @Salma_Saavedra
 
-    - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
-        - *Colocar riel de puertas en master*
     - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x #urgente
     - [ ] Rejilla de hormigón en garaje [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #urgente
         - *Huella o completo ??*
+    - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
+        - *Colocar riel de puertas en master*
 # @Sofía_Zapata
 
     - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x #urgente
