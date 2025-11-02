@@ -103,7 +103,7 @@ Zonas que se necesitan habilitar:
     - [ ] ⁠Revestir canal piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⛔ vtfiy6 #urgente
     - [ ] Corregir borde piscina [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
     - [ ] Laja en Garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] ⏳ 2025-10-30 📅 2025-11-03 #urgente
-    - [ ] Remate de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
+    - [ ] Remate borde de carpeta en losa de garaje [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente
         - *Para que luego  pueda impermeabilizar* [[Contacto/Empresa/Proveedor/Servicios/Varios/@Quilosa\|@Quilosa]]
         - ![IMG_20251027_111741.jpg|300](/img/user/Adjuntos/IMG_20251027_111741.jpg)
 # @Salma_Saavedra
