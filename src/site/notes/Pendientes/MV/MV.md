@@ -3,7 +3,7 @@
 ---
 
 
-<p><span><strong>TOTAL:</strong> 7 tareas pendientes con @menciones</span></p>
+<p><span><strong>TOTAL:</strong> 11 tareas pendientes con @menciones</span></p>
 
 >[!abstract]- Tareas Por Encargado
 
@@ -20,6 +20,10 @@
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Tipo/Herramienta
         - [ ] Mezcladora pequeña
             - *Averiguar con [[Contacto/Persona/Contratista/Albañilería/@Carlos_Durán\|@Carlos_Durán]] dónde está*
+    - [ ] Pagar internet viva [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] Cobra a Olivia y María Julia [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] Comprar champú para baño [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] Comprar champú para baño [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
 # Baja de Patente por Inactividad
 
     - [ ] Formulario para recategorización de patente de trámite [[Varios/GAMSC/Trámites/Baja de Patente por Inactividad\|Baja de Patente por Inactividad]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]

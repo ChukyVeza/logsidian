@@ -32,16 +32,16 @@
         - [ ] 1 rollo cable cordón de 2x4mm
         - [ ] 1 inodoro completo
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
+        - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
+        - [ ] Servicio de pozo ciego ⏳ 2025-10-30
+            - *Pozo ciego 1.20m (1,000.00 Bs/m)*
+            - *Cámara séptica 1.20m x 1.50m  (1,000.00 Bs/m)*
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Detalle de bases de motores para aires
         - [ ] Planos Impresos ⏳ 2025-10-27
         - [x] Retiro de escombros [[Contacto/Persona/Proveedor/@Fernando_Tinta\|@Fernando_Tinta]] ⏳ 2025-10-25 ✅ 2025-10-27
         - [ ] Recibir piso de [[Contacto/Empresa/Proveedor/Materiales/@Tagomago\|@Tagomago]] ⏳ 2025-10-27
-    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
-        - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
-        - [ ] Servicio de pozo ciego ⏳ 2025-10-30
-            - *Pozo ciego 1.20m (1,000.00 Bs/m)*
-            - *Cámara séptica 1.20m x 1.50m  (1,000.00 Bs/m)*
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
         - Material impermeabilización
     - [ ] **Entrega de obra 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
@@ -114,6 +114,9 @@
     - [ ] Adicionar puntos eléctricos [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
     - [ ] Punto de proyector bajo estructura metálica [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
     - [ ] Mover muebles [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] 
+# [[Registro/Diario/2025-11-04 Tuesday (45)#Rocabado\|2025-11-04 Tuesday (45) > Rocabado]]
+
+    - [ ] Importacruz (piso interior)
 
 { .block-language-dataview}
 
