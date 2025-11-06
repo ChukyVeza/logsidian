@@ -137,7 +137,7 @@ Zonas que se necesitan habilitar:
 ---
 >[!abstract]- Tareas Por Contratistas
 
-<p><span><strong>TOTAL:</strong> 86 tareas pendientes con @menciones</span></p>
+<p><span><strong>TOTAL:</strong> 87 tareas pendientes con @menciones</span></p>
 
 >[!abstract]- Todas las Tareas Por Contratistas
 // =============================================

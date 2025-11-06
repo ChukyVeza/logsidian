@@ -5,7 +5,7 @@
 
 >[!abstract]- Tareas Por Encargados
 
-<p><span><strong>TOTAL:</strong> 21 tareas pendientes con @menciones</span></p>
+<p><span><strong>TOTAL:</strong> 25 tareas pendientes con @menciones</span></p>
 
 # @Carolina_Tarabillo
 
@@ -16,11 +16,14 @@
     - [ ] Punto de proyector bajo estructura metálica [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
     - [ ] Pendiente de piso patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - Existente 1.5 cm (0.13%)
-        - Deseable 3.0 cm (0.25%)
+        - Deseable 3.0 cm (0.25%) *(Aprobado)*
         - Normativa 6.0 cm (0.5%)
     - [ ] Altura **3.78 m** [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - Piso terminado PB
         - Encima de la losa techo
+# @Freddy_Rodas
+
+    - [ ] Marcar escuadra en piso de patio [[Contacto/Persona/Contratista/Albañilería/@Freddy_Rodas\|@Freddy_Rodas]]
 # @Marcelo_Veza
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -55,16 +58,19 @@
     - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
     - [ ] Pendiente de piso patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - Existente 1.5 cm (0.13%)
-        - Deseable 3.0 cm (0.25%)
+        - Deseable 3.0 cm (0.25%) *(Aprobado)*
         - Normativa 6.0 cm (0.5%)
     - [ ] Altura **3.78 m** [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - Piso terminado PB
         - Encima de la losa techo
+    - [ ] Perfil Aluminio 2x4 [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] Varilla roscada p/nivelar [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] 12 peines para piruleador + piruleador [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material 
 # @Mauro_Vasquez
 
     - [ ] Considerar pendiente de patio hacia afuera en patio [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
     - [ ] **Entrega de obra 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
-    - [ ] Verificar pendiente de piso en patio [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
     - [ ] Mover muebles [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] 
 # @Studio Industrial
 
@@ -87,3 +93,9 @@ SORT link.file.name asc
 ```
 
 
+>[!abstract]- Pedidos
+
+- [[Registro/Diario/2025/2025-06/2025-06-23 Monday (26)\|2025-06-23 Monday (26)]]
+- [[Registro/Diario/2025/2025-10/2025-10-18 Saturday (42)\|2025-10-18 Saturday (42)]]
+
+{ .block-language-dataview}

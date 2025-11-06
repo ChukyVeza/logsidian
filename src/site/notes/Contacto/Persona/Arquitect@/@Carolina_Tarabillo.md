@@ -9,7 +9,7 @@
 
     - [ ] Pendiente de piso patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - Existente 1.5 cm (0.13%)
-        - Deseable 3.0 cm (0.25%)
+        - Deseable 3.0 cm (0.25%) *(Aprobado)*
         - Normativa 6.0 cm (0.5%)
     - [ ] Altura **3.78 m** [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - Piso terminado PB
