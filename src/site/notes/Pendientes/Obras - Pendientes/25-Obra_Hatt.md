@@ -5,8 +5,12 @@
 
 >[!abstract]- Tareas Por Encargados
 
-<p><span><strong>TOTAL:</strong> 0 tareas pendientes con @menciones</span></p>
+<p><span><strong>TOTAL:</strong> 2 tareas pendientes con @menciones</span></p>
 
+# @Marcelo_Veza
+
+    - [ ] Flujo de trabajo en etapa 3 [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] Actualizar presupuesto [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
 
 { .block-language-dataview}
 
@@ -16,6 +20,11 @@
 
     - [ ] Recoger hidrolavadora #Obra/Hatt
     - [ ] Backup cámaras #Obra/Hatt
+# [[Registro/Diario/2025-11-05 Wednesday (45)#Hatt\|2025-11-05 Wednesday (45) > Hatt]]
+
+    - [ ] Flujo de trabajo en etapa 3 [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] Actualizar presupuesto [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] Reunión de coordinación 📅 2025-11-08
 
 { .block-language-dataview}
 

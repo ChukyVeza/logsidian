@@ -5,7 +5,7 @@
 
 >[!abstract]- Tareas Por Encargados
 
-<p><span><strong>TOTAL:</strong> 18 tareas pendientes con @menciones</span></p>
+<p><span><strong>TOTAL:</strong> 21 tareas pendientes con @menciones</span></p>
 
 # @Carolina_Tarabillo
 
@@ -14,6 +14,13 @@
     - [ ] **Peso unitario** del cielo falso ripado [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
     - [ ] Adicionar puntos eléctricos [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
     - [ ] Punto de proyector bajo estructura metálica [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
+    - [ ] Pendiente de piso patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - Existente 1.5 cm (0.13%)
+        - Deseable 3.0 cm (0.25%)
+        - Normativa 6.0 cm (0.5%)
+    - [ ] Altura **3.78 m** [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - Piso terminado PB
+        - Encima de la losa techo
 # @Marcelo_Veza
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -32,19 +39,27 @@
         - [ ] 1 rollo cable cordón de 2x4mm
         - [ ] 1 inodoro completo
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
-        - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
-        - [ ] Servicio de pozo ciego ⏳ 2025-10-30
-            - *Pozo ciego 1.20m (1,000.00 Bs/m)*
-            - *Cámara séptica 1.20m x 1.50m  (1,000.00 Bs/m)*
-    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Detalle de bases de motores para aires
         - [ ] Planos Impresos ⏳ 2025-10-27
         - [x] Retiro de escombros [[Contacto/Persona/Proveedor/@Fernando_Tinta\|@Fernando_Tinta]] ⏳ 2025-10-25 ✅ 2025-10-27
         - [ ] Recibir piso de [[Contacto/Empresa/Proveedor/Materiales/@Tagomago\|@Tagomago]] ⏳ 2025-10-27
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
+        - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
+        - [ ] Servicio de pozo ciego ⏳ 2025-10-30
+            - *Pozo ciego 1.20m (1,000.00 Bs/m)*
+            - *Cámara séptica 1.20m x 1.50m  (1,000.00 Bs/m)*
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
         - Material impermeabilización
     - [ ] **Entrega de obra 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
+    - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] Pendiente de piso patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - Existente 1.5 cm (0.13%)
+        - Deseable 3.0 cm (0.25%)
+        - Normativa 6.0 cm (0.5%)
+    - [ ] Altura **3.78 m** [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - Piso terminado PB
+        - Encima de la losa techo
 # @Mauro_Vasquez
 
     - [ ] Considerar pendiente de patio hacia afuera en patio [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
@@ -117,6 +132,19 @@
 # [[Registro/Diario/2025-11-04 Tuesday (45)#Rocabado\|2025-11-04 Tuesday (45) > Rocabado]]
 
     - [ ] Importacruz (piso interior)
+# [[Registro/Diario/2025-11-05 Wednesday (45)#Rocabado\|2025-11-05 Wednesday (45) > Rocabado]]
+
+    - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+    - [ ] Verificar altura de piso terminado a losa.
+# [[Registro/Diario/2025-11-06 Thursday (45)#Rocabado\|2025-11-06 Thursday (45) > Rocabado]]
+
+    - [ ] Pendiente de piso patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - Existente 1.5 cm (0.13%)
+        - Deseable 3.0 cm (0.25%)
+        - Normativa 6.0 cm (0.5%)
+    - [ ] Altura **3.78 m** [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - Piso terminado PB
+        - Encima de la losa techo
 
 { .block-language-dataview}
 

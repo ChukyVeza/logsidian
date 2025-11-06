@@ -5,6 +5,18 @@
 
 ### **[[Proyectos/2025/Zapata/Zapata\|Zapata]]** 
 
+# [[Registro/Diario/2025-11-05 Wednesday (45)\|2025-11-05 Wednesday (45)]]
+
+    - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+# [[Registro/Diario/2025-11-06 Thursday (45)\|2025-11-06 Thursday (45)]]
+
+    - [ ] Pendiente de piso patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - Existente 1.5 cm (0.13%)
+        - Deseable 3.0 cm (0.25%)
+        - Normativa 6.0 cm (0.5%)
+    - [ ] Altura **3.78 m** [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - Piso terminado PB
+        - Encima de la losa techo
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -48,6 +60,18 @@
 ---
 ### **[[Proyectos/2025/Rocabado/Rocabado\|Rocabado]]** 
 
+# [[Registro/Diario/2025-11-05 Wednesday (45)\|2025-11-05 Wednesday (45)]]
+
+    - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+# [[Registro/Diario/2025-11-06 Thursday (45)\|2025-11-06 Thursday (45)]]
+
+    - [ ] Pendiente de piso patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - Existente 1.5 cm (0.13%)
+        - Deseable 3.0 cm (0.25%)
+        - Normativa 6.0 cm (0.5%)
+    - [ ] Altura **3.78 m** [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - Piso terminado PB
+        - Encima de la losa techo
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
