@@ -21,7 +21,7 @@ Zonas que se necesitan habilitar:
 
 **Piscina**
 
-<p><span><strong>TOTAL:</strong> 38 tareas pendientes con @mención de <a href="#urgente" class="tag" target="_blank" rel="noopener nofollow">#urgente</a></span></p>
+<p><span><strong>TOTAL:</strong> 39 tareas pendientes con @mención de <a href="#urgente" class="tag" target="_blank" rel="noopener nofollow">#urgente</a></span></p>
 
 >[!note]- Trareas urgentes por encargado
 >blue
@@ -67,12 +67,12 @@ Zonas que se necesitan habilitar:
         - [ ] *Equipos de Master Suite*  [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/A-C/@Gree\|@Gree]] ⏳ 2025-11-03
 # @Javier_Gallardo
 
-    - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
-        - *Colocar riel de puertas en master*
     - [ ] Instalación de marcos madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03 🛫 2025-11-05 #urgente
         - *Marco puerta ingreso principal*
     - [ ] Instalación de puertas madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] ⏳ 2025-11-03 🛫 2025-11-05 #urgente
         - *Ingreso Principal*
+    - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
+        - *Colocar riel de puertas en master*
     - [ ] Ingreso a colocar Cielo falso de madera [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente ⏳ 2025-11-10
 # @Juan_Pablo_Hurtado
 
@@ -114,11 +114,11 @@ Zonas que se necesitan habilitar:
     - [ ] Retiro de Calaminas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]] #urgente ⏳ 2025-11-04 14:00
 # @Salma_Saavedra
 
-    - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
-        - *Colocar riel de puertas en master*
     - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x #urgente
     - [ ] Rejilla de hormigón en garaje [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] #urgente
         - *Huella o completo ??*
+    - [ ] Perfiles (riel) de puertas corredizas [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] [[Contacto/Persona/Contratista/Carpintería/Madera/@Javier_Gallardo\|@Javier_Gallardo]] #urgente
+        - *Colocar riel de puertas en master*
 # @Sofía_Zapata
 
     - [ ] Mesones de baño (PA) [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] [[Contacto/Persona/Arquitect@/@Salma_Saavedra\|@Salma_Saavedra]] 🆔 hu881x #urgente
@@ -126,6 +126,7 @@ Zonas que se necesitan habilitar:
     - [ ] *Se necesita tener todas las griferías en obra* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
     - [ ] *Se necesita brazo de ducha en Master Suite* [[Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz\|@Alejandro_Solíz]] [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
     - [ ] Impermeabilización exterior en muros con Recuplast [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente
+    - [ ] Cinta Diurex [[Contacto/Varios/@Sofía_Zapata\|@Sofía_Zapata]] #urgente #dato
 # @VidrAlum
 
     - [ ] Limpieza y cierre de puertas [[Contacto/Persona/Contratista/Albañilería/@Ruben_Serrano\|@Ruben_Serrano]]  [[Contacto/Empresa/Proveedor/Servicios/Carpintería/Aluminio/@VidrAlum\|@VidrAlum]] #urgente

@@ -9,9 +9,9 @@
 
 # @Marcelo_Veza
 
+    - [ ] Comprar escritorio #MV/HVV  [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
     - [ ] Contestar demanda por pensiones #MV  [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
     - [ ] Contrato de alquiler para impuestos #MV [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-    - [ ] Comprar escritorio #MV/HVV  [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
     - [ ] Sobreasiento de inodoro #MV [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
     - [ ] Formulario para recategorización de patente de trámite [[Varios/GAMSC/Trámites/Baja de Patente por Inactividad\|Baja de Patente por Inactividad]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
     - [ ] Buscar audiolibros https://t.me/c/1833167655/9 sugerido por https://www.youtube.com/watch?v=r4HpzEiYB_c [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]

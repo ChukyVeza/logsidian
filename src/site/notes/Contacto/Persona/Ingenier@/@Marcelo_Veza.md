@@ -10,17 +10,13 @@
     - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
 # [[Registro/Diario/2025-11-06 Thursday (45)\|2025-11-06 Thursday (45)]]
 
-    - [ ] Pendiente de piso patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-        - Existente 1.5 cm (0.13%)
-        - Deseable 3.0 cm (0.25%) *(Aprobado)*
-        - Normativa 6.0 cm (0.5%)
-    - [ ] Altura **3.78 m** [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-        - Piso terminado PB
-        - Encima de la losa techo
-    - [ ] Perfil Aluminio 2x4 [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-    - [ ] Varilla roscada p/nivelar [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-    - [ ] 12 peines para piruleador + piruleador [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material 
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - [ ] Varilla roscada p/nivelar
+        - [ ] 12 peines para piruleador + piruleador
+        - [ ] piezas 1.20x0.60 cerámica 1.20x0.50
+        - [ ] Llevar mezcladora pequeña a obra
+        - [ ] Entregar revestimiento a [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
+        - [ ] Marcar escuadra en piso de patio [[Contacto/Persona/Contratista/Albañilería/@Freddy_Rodas\|@Freddy_Rodas]]
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -69,17 +65,13 @@
     - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
 # [[Registro/Diario/2025-11-06 Thursday (45)\|2025-11-06 Thursday (45)]]
 
-    - [ ] Pendiente de piso patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-        - Existente 1.5 cm (0.13%)
-        - Deseable 3.0 cm (0.25%) *(Aprobado)*
-        - Normativa 6.0 cm (0.5%)
-    - [ ] Altura **3.78 m** [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-        - Piso terminado PB
-        - Encima de la losa techo
-    - [ ] Perfil Aluminio 2x4 [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-    - [ ] Varilla roscada p/nivelar [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-    - [ ] 12 peines para piruleador + piruleador [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material 
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - [ ] Varilla roscada p/nivelar
+        - [ ] 12 peines para piruleador + piruleador
+        - [ ] piezas 1.20x0.60 cerámica 1.20x0.50
+        - [ ] Llevar mezcladora pequeña a obra
+        - [ ] Entregar revestimiento a [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
+        - [ ] Marcar escuadra en piso de patio [[Contacto/Persona/Contratista/Albañilería/@Freddy_Rodas\|@Freddy_Rodas]]
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
