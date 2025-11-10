@@ -1,6 +1,0 @@
----
-tags:
-  - Contactos
-  - Proveedor
-  - Construcción
----

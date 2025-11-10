@@ -1,7 +1,0 @@
-/* Estilo personalizado para bloques de código de Dataview */
-.markdown-preview-view code[class*="language-dataview"] {
-    background-color: #f4f4f4;
-    color: #333;
-    border-radius: 5px;
-    padding: 10px;
-}

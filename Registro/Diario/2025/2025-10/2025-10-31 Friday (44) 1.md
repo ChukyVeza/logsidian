@@ -1,6 +1,0 @@
----
-Fecha:
-Clima:
-tags:
-aliases:
----
