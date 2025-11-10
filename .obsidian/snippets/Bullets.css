@@ -1,0 +1,18 @@
+/**********************************************
+ * Para diferenciar visualmente padres e hijos,
+   añade esto a tu archivo de estilos 
+   (por ejemplo, en obsidian.css o en un snippet):
+ **********************************************/
+.block-dato-parent {
+  font-weight: bold;
+  margin-top: 1em;
+  padding-left: 0;
+  border-left: 3px solid var(--color-accent);
+  padding-left: 8px;
+}
+
+.block-dato-child {
+  margin-left: 1.5em;
+  font-style: italic;
+  color: var(--text-muted);
+}
