@@ -5,13 +5,12 @@
 
 >[!abstract]- Tareas Por Encargados
 
-<p><span><strong>TOTAL:</strong> 22 tareas pendientes con @menciones</span></p>
+<p><span><strong>TOTAL:</strong> 21 tareas pendientes con @menciones</span></p>
 
 # @Carolina_Tarabillo
 
     - [ ] **Nuevo** color en muros [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼
     - [ ] Sacar plantas de patio [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]] 🔼 ⏳ 2025-11-03
-    - [ ] **Peso unitario** del cielo falso ripado [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
     - [ ] Adicionar puntos eléctricos [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
     - [ ] Punto de proyector bajo estructura metálica [[Contacto/Persona/Arquitect@/@Carolina_Tarabillo\|@Carolina_Tarabillo]]
 # @Freddy_Rodas
@@ -115,6 +114,13 @@ SORT link.file.name asc
 <li dir="auto">Huella = <em>1.20mx0.50m</em> (medidas terminadas)</li>
 <li dir="auto">Contrahuella = <em>1.20mx0.16m</em> (medidas terminadas)</li>
 <li dir="auto"></li>
+</ul>
+</li>
+</ul></span></div><h4><span><a data-tooltip-position="top" aria-label="Registro/Diario/2025/2025-10/2025-10-29 Wednesday (44).md" data-href="Registro/Diario/2025/2025-10/2025-10-29 Wednesday (44).md" href="Registro/Diario/2025/2025-10/2025-10-29 Wednesday (44).md" class="internal-link" target="_blank" rel="noopener nofollow">2025-10-29 Wednesday (44)</a></span></h4><div class="block-dato-parent"><span><ul>
+<li dir="auto"><em>Peso unitario</em> del cielo falso ripado <a href="#dato" class="tag" target="_blank" rel="noopener nofollow">#dato</a>
+<ul>
+<li dir="auto">Peso de cada pieza es de 5.94 kilos</li>
+<li dir="auto">Tamaño de cada pieza  </li>
 </ul>
 </li>
 </ul></span></div>
