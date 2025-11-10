@@ -20,7 +20,7 @@
 
     - [ ] Recoger hidrolavadora #Obra/Hatt
     - [ ] Backup cámaras #Obra/Hatt
-# [[Registro/Diario/2025-11-05 Wednesday (45)#Hatt\|2025-11-05 Wednesday (45) > Hatt]]
+# [[Registro/Diario/2025/2025-11/2025-11-05 Wednesday (45)#Hatt\|2025-11-05 Wednesday (45) > Hatt]]
 
     - [ ] Flujo de trabajo en etapa 3 [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
     - [ ] Actualizar presupuesto [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]

@@ -5,18 +5,6 @@
 
 ### **[[Proyectos/2025/Zapata/Zapata\|Zapata]]** 
 
-# [[Registro/Diario/2025-11-05 Wednesday (45)\|2025-11-05 Wednesday (45)]]
-
-    - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-# [[Registro/Diario/2025-11-06 Thursday (45)\|2025-11-06 Thursday (45)]]
-
-    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-        - [ ] Varilla roscada p/nivelar
-        - [ ] 12 peines para piruleador + piruleador
-        - [ ] piezas 1.20x0.60 cerámica 1.20x0.50
-        - [ ] Llevar mezcladora pequeña a obra
-        - [ ] Entregar revestimiento a [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
-        - [ ] Marcar escuadra en piso de patio [[Contacto/Persona/Contratista/Albañilería/@Freddy_Rodas\|@Freddy_Rodas]]
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -54,24 +42,23 @@
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
         - Material impermeabilización
     - [ ] **Entrega de obra 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
+# [[Registro/Diario/2025/2025-11/2025-11-05 Wednesday (45)\|2025-11-05 Wednesday (45)]]
+
+    - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+# [[Registro/Diario/2025/2025-11/2025-11-06 Thursday (45)\|2025-11-06 Thursday (45)]]
+
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - [ ] piezas 1.20x0.60 cerámica 1.20x0.50
+        - [ ] Llevar mezcladora pequeña a obra
+        - [ ] Entregar revestimiento a [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
+        - [ ] Marcar escuadra en piso de patio [[Contacto/Persona/Contratista/Albañilería/@Freddy_Rodas\|@Freddy_Rodas]]
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
 
 { .block-language-dataview}
 
 ---
 ### **[[Proyectos/2025/Rocabado/Rocabado\|Rocabado]]** 
 
-# [[Registro/Diario/2025-11-05 Wednesday (45)\|2025-11-05 Wednesday (45)]]
-
-    - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-# [[Registro/Diario/2025-11-06 Thursday (45)\|2025-11-06 Thursday (45)]]
-
-    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
-        - [ ] Varilla roscada p/nivelar
-        - [ ] 12 peines para piruleador + piruleador
-        - [ ] piezas 1.20x0.60 cerámica 1.20x0.50
-        - [ ] Llevar mezcladora pequeña a obra
-        - [ ] Entregar revestimiento a [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
-        - [ ] Marcar escuadra en piso de patio [[Contacto/Persona/Contratista/Albañilería/@Freddy_Rodas\|@Freddy_Rodas]]
 # [[Registro/Diario/2025/2025-10/2025-10-21 Tuesday (43)\|2025-10-21 Tuesday (43)]]
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material #Construcción/Varios
@@ -109,5 +96,16 @@
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
         - Material impermeabilización
     - [ ] **Entrega de obra 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
+# [[Registro/Diario/2025/2025-11/2025-11-05 Wednesday (45)\|2025-11-05 Wednesday (45)]]
+
+    - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+# [[Registro/Diario/2025/2025-11/2025-11-06 Thursday (45)\|2025-11-06 Thursday (45)]]
+
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
+        - [ ] piezas 1.20x0.60 cerámica 1.20x0.50
+        - [ ] Llevar mezcladora pequeña a obra
+        - [ ] Entregar revestimiento a [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
+        - [ ] Marcar escuadra en piso de patio [[Contacto/Persona/Contratista/Albañilería/@Freddy_Rodas\|@Freddy_Rodas]]
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
 
 { .block-language-dataview}
