@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "b58d335a9733aa34",
+    "type": "split",
+    "children": [
+      {
+        "id": "e12b8f0749fa9b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be0634f593f6d366",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39e3d35958d3f48a",
+    "type": "split",
+    "children": [
+      {
+        "id": "068b2dca9a3b2085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46f8a77a5f90f9fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cb8af72331d4a41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4358ada58b639ab6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "63e09eb39fc4a86e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          },
+          {
+            "id": "9e7010d143c42bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pendientes/Obras - Pendientes/25-Obra_Rocabado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "25-Obra_Rocabado"
+            }
+          },
+          {
+            "id": "5fb018c0f4902c36",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5
+  },
+  "right": {
+    "id": "48623682761bb641",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b2ac8652823da2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5522ef28d347ca1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Contactos/Personas/Contratistas/Albañilería/@Carlos_Durán.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for @Carlos_Durán"
+            }
+          },
+          {
+            "id": "6269f57471f5ade9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Registro/Semanal/2025-43.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-43"
+            }
+          },
+          {
+            "id": "40b763df6ce7ecef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "64e64a6fe6b305c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Contactos/Personas/Contratistas/Albañilería/@Carlos_Durán.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of @Carlos_Durán"
+            }
+          },
+          {
+            "id": "1d31dff348ee1496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pendientes/Obras - Pendientes/25-Obra_Zapata.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "25-Obra_Zapata"
+            }
+          },
+          {
+            "id": "85a1882a46fe09f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c98776cdd096cf3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "00c2ed606810c9a2",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-better-audio-recorder:Audio Recorder Interface": false,
+      "periodic-notes:Open today": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "templater-obsidian:Templater": false,
+      "card-board:CardBoard": false,
+      "obsidian-kanban:Create new board": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "be0634f593f6d366",
+  "lastOpenFiles": [
+    "Registro/Semanal/2025-46.md",
+    "Registro/Semanal/2025-45.md",
+    "Registro/Diario/2025-11-10 Monday (46).md",
+    "Registro/Diario/2025/2025-11/2025-11-06 Thursday (45).md",
+    "Adjuntos/Pasted image 20251022075917.png",
+    "Adjuntos/IMG_20251106_093245-0.jpg",
+    "Adjuntos/IMG_20251106_092646-0.jpg",
+    "Pendientes/Obras - Pendientes/25-Obra_Rocabado.md",
+    "Registro/Diario/Journaling.md",
+    "Registro/Diario/2025/2025-11/2025-11-07 Friday (45).md",
+    "Registro/Diario/2025/2025-11/2025-11-08 Saturday (45).md",
+    "Registro/Diario/2025/2025-11/2025-11-09 Sunday (45).md",
+    "Ejemplos/Callouts/Tipos.md",
+    "Ejemplos/DataviewJS/Búsqueda de Bullets.md",
+    "Registro/Diario/2025/2025-10/2025-10-14 Tuesday (42).md",
+    "Ejemplos/DataviewJS/Búsqueda de citas y callouts.md",
+    "Proyectos/2025/Rocabado/Rocabado-Datos.md",
+    "Registro/Diario/2025-11-08 Saturday (45).md",
+    "Ejemplos/DataviewJS/Búsqueda de callouts.md",
+    "Registro/Diario/2025/2025-11/2025-11-05 Wednesday (45).md",
+    "Ejemplos/Dataview/Configuración Dataview.md",
+    "Pendientes/Obras - Pendientes/25-Obra_Zapata.md",
+    "Registro/Diario/2025/2025-10/2025-10-18 Saturday (42).md",
+    "Contacto/Persona/Contratista/Instalaciones/Hidrosanitario/@Alejandro_Solíz.md",
+    "Registro/Diario/2025/2025-11/2025-11-01 Saturday (44).md",
+    "Registro/Diario/2025/2025-11",
+    "Ejemplos/DataviewJS/Ejemplo 1.md",
+    "Registro/Diario/2025/2025-10/2025-10-30 Thursday (44).md",
+    "Registro/Diario/2025/2025-10/2025-10-31 Friday (44).md",
+    "Registro/Diario/2025/2025-11/2025-11-02 Sunday (44).md",
+    "Proyectos/2025/Hatt",
+    "Bases.base",
+    "Adjuntos/IMG_20251027_111741.jpg",
+    "Adjuntos/IMG_20251030_135521.jpg",
+    "Adjuntos/IMG_20251030_135521.jpg.opdownload",
+    "Ejemplos/DataviewJS",
+    "Adjuntos/Journaling.PNG",
+    "Ejemplos/Journaling",
+    "Ejemplos/Tasks",
+    "Adjuntos/20251024-Arido.jpg",
+    "Adjuntos/Dataview03.PNG",
+    "Adjuntos/Dataview02.PNG",
+    "Adjuntos/Dataview01.PNG",
+    "Adjuntos/20251024_alquiles_equipos.jpg.opdownload",
+    "Contacto/Persona/Servicio",
+    "Contacto/Persona/Proveedor"
+  ]
+}

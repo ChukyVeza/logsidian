@@ -1,0 +1,61 @@
+/**********************************************
+ * Cambiar el estilo de los encabezados
+ **********************************************/
+h1 {
+    color: #ff5733; /* Color naranja */
+    font-size: 2.5em;
+    border-bottom: 2px solid #ff5733;
+    padding-bottom: 5px;
+}
+
+h2 {
+    color: #33ff57; /* Color verde */
+    font-size: 2em;
+    font-style: italic;
+}
+
+h3 {
+    color: #337aff; /* Color azul */
+    font-size: 1.75em;
+    text-decoration: underline;
+}
+
+/**********************************************
+ * Resaltar enlaces
+ **********************************************/
+a {
+    color: #ff33a8; /* Color rosa */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #33ffa8; /* Color verde claro al pasar el mouse */
+    text-decoration: underline;
+}
+
+/**********************************************
+ * Cambiar el fondo y el texto de las notas
+ **********************************************/
+.markdown-preview-view {
+    background-color: #f0f0f0; /* Fondo gris claro */
+    color: #333; /* Texto oscuro */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/**********************************************
+ * Personalizar el tema oscuro
+ **********************************************/
+.theme-dark .markdown-preview-view {
+    background-color: #1a1a1a; /* Fondo oscuro */
+    color: #e0e0e0; /* Texto claro */
+}
+
+.theme-dark h1 {
+    color: #ff8c42; /* Naranja más suave para el tema oscuro */
+}
+
+.theme-dark a {
+    color: #ff6f61; /* Rosa más suave para el tema oscuro */
+}

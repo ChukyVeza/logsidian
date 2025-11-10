@@ -1,0 +1,6 @@
+---
+tags:
+  - "#Contactos"
+  - "#Proveedor"
+  - "#Construcción"
+---

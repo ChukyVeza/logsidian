@@ -1,0 +1,49 @@
+{
+  "githubRepo": "logsidian",
+  "githubToken": "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",
+  "githubUserName": "ChukyVeza",
+  "gardenBaseUrl": "https://logsidian-git-main-chukyvezas-projects.vercel.app/Marcelo_Veza/Obra_Zapata/",
+  "prHistory": [],
+  "baseTheme": "dark",
+  "theme": "{\"name\":\"Lorens\",\"author\":\"Lorens Osman\",\"repo\":\"lorens-osman-dev/Lorens-Obsidian-Theme\",\"screenshot\":\"cover.png\",\"modes\":[\"dark\"],\"cssUrl\":\"https://raw.githubusercontent.com/lorens-osman-dev/Lorens-Obsidian-Theme/HEAD/theme.css\"}",
+  "faviconPath": "",
+  "useFullResolutionImages": false,
+  "noteSettingsIsInitialized": true,
+  "siteName": "OBRAS",
+  "mainLanguage": "es",
+  "slugifyEnabled": true,
+  "noteIconKey": "dg-note-icon",
+  "defaultNoteIcon": "",
+  "showNoteIconOnTitle": true,
+  "showNoteIconInFileTree": true,
+  "showNoteIconOnInternalLink": true,
+  "showNoteIconOnBackLink": true,
+  "showCreatedTimestamp": false,
+  "createdTimestampKey": "",
+  "showUpdatedTimestamp": false,
+  "updatedTimestampKey": "",
+  "timestampFormat": "yyyy-mm-dd HH:mm",
+  "styleSettingsCss": "",
+  "styleSettingsBodyClasses": "",
+  "pathRewriteRules": "",
+  "customFilters": [
+    {
+      "pattern": "",
+      "flags": "g",
+      "replace": ""
+    }
+  ],
+  "contentClassesKey": "dg-content-classes",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": true,
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": false,
+    "dgShowInlineTitle": true,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": true,
+    "dgLinkPreview": false,
+    "dgShowTags": true
+  }
+}

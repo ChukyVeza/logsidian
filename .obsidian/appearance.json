@@ -1,0 +1,15 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Black",
+  "interfaceFontFamily": "Century Gothic,Helvetica,Bauhaus 93,Bodoni 72 Oldstyle,ESRI Climate & Precipitation",
+  "textFontFamily": "Century Gothic",
+  "monospaceFontFamily": "Consolas",
+  "enabledCssSnippets": [
+    "Fecha",
+    "CSS_Markdown_MV",
+    "Shimmering_Focus",
+    "Sidenote",
+    "Bullets"
+  ],
+  "accentColor": "#64a537"
+}

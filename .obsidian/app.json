@@ -1,0 +1,21 @@
+{
+  "newFileLocation": "folder",
+  "newLinkFormat": "shortest",
+  "newFileFolderPath": "Archivo",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "K:\\Mi unidad\\GitHub\\logsidian\\Adjuntos",
+  "showLineNumber": true,
+  "tabSize": 2,
+  "propertiesInDocument": "visible",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "preview",
+  "uriCallbacks": true
+}
