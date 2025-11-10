@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Registro/Diario/2025/2025-11/2025-11-06 Thursday (45).md",
+                "file": "Pendientes/Obras - Pendientes/25-Obra_Rocabado.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-06 Thursday (45)"
+              "title": "25-Obra_Rocabado"
             }
           }
         ]
@@ -128,8 +128,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -292,15 +291,16 @@
       "obsidian-kanban:Create new board": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "63e09eb39fc4a86e",
+  "active": "1af15ef45b56de64",
   "lastOpenFiles": [
+    "Registro/Diario/2025/2025-11/2025-11-06 Thursday (45).md",
     "Adjuntos/Pasted image 20251022075917.png",
     "Adjuntos/IMG_20251106_093245-0.jpg",
     "Adjuntos/IMG_20251106_092646-0.jpg",
-    "Registro/Diario/2025/2025-11/2025-11-06 Thursday (45).md",
     "Pendientes/Obras - Pendientes/25-Obra_Rocabado.md",
     "Registro/Diario/Journaling.md",
     "Registro/Diario/2025/2025-11/2025-11-07 Friday (45).md",
@@ -339,7 +339,6 @@
     "Adjuntos/Dataview03.PNG",
     "Adjuntos/Dataview02.PNG",
     "Adjuntos/Dataview01.PNG",
-    "Adjuntos/20251024_alquiles_equipos.jpg",
     "Adjuntos/20251024_alquiles_equipos.jpg.opdownload",
     "Contacto/Persona/Servicio",
     "Contacto/Persona/Proveedor"
