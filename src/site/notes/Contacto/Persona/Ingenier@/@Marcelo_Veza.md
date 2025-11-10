@@ -49,7 +49,7 @@
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] piezas 1.20x0.60 cerámica 1.20x0.50
-        - [ ] Llevar mezcladora pequeña a obra
+        - [ ] Llevar mezcladora pequeña a obra 📅 2025-11-10
         - [ ] Entregar revestimiento a [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
         - [ ] Marcar escuadra en piso de patio [[Contacto/Persona/Contratista/Albañilería/@Freddy_Rodas\|@Freddy_Rodas]]
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
@@ -103,7 +103,7 @@
 
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] piezas 1.20x0.60 cerámica 1.20x0.50
-        - [ ] Llevar mezcladora pequeña a obra
+        - [ ] Llevar mezcladora pequeña a obra 📅 2025-11-10
         - [ ] Entregar revestimiento a [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
         - [ ] Marcar escuadra en piso de patio [[Contacto/Persona/Contratista/Albañilería/@Freddy_Rodas\|@Freddy_Rodas]]
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material

@@ -35,23 +35,23 @@
         - [ ] 1 rollo cable cordón de 2x4mm
         - [ ] 1 inodoro completo
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
-        - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
-        - [ ] Servicio de pozo ciego ⏳ 2025-10-30
-            - *Pozo ciego 1.20m (1,000.00 Bs/m)*
-            - *Cámara séptica 1.20m x 1.50m  (1,000.00 Bs/m)*
-    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] Detalle de bases de motores para aires
         - [ ] Planos Impresos ⏳ 2025-10-27
         - [x] Retiro de escombros [[Contacto/Persona/Proveedor/@Fernando_Tinta\|@Fernando_Tinta]] ⏳ 2025-10-25 ✅ 2025-10-27
         - [ ] Recibir piso de [[Contacto/Empresa/Proveedor/Materiales/@Tagomago\|@Tagomago]] ⏳ 2025-10-27
+    - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
+        - [x] Ripas y Estacas *para replanteo* [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]] ⏳ 2025-10-27 🛫 2025-10-28 ✅ 2025-10-29
+        - [ ] Servicio de pozo ciego ⏳ 2025-10-30
+            - *Pozo ciego 1.20m (1,000.00 Bs/m)*
+            - *Cámara séptica 1.20m x 1.50m  (1,000.00 Bs/m)*
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido  #Tipo/Material
         - Material impermeabilización
     - [ ] **Entrega de obra 📅 2025-12-10** [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] [[Contacto/Persona/Contratista/Albañilería/@Mauro_Vasquez\|@Mauro_Vasquez]]
     - [ ] Verificar si funciona nivel laser [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]]
         - [ ] piezas 1.20x0.60 cerámica 1.20x0.50
-        - [ ] Llevar mezcladora pequeña a obra
+        - [ ] Llevar mezcladora pequeña a obra 📅 2025-11-10
         - [ ] Entregar revestimiento a [[Contacto/Empresa/Proveedor/Servicios/Instalaciones/Hidrosanitaria/@Mi_Piscina\|@Mi_Piscina]]
         - [ ] Marcar escuadra en piso de patio [[Contacto/Persona/Contratista/Albañilería/@Freddy_Rodas\|@Freddy_Rodas]]
     - [ ] [[Contacto/Persona/Ingenier@/@Marcelo_Veza\|@Marcelo_Veza]] #Pedido #Tipo/Material
@@ -99,14 +99,14 @@ SORT link.file.name asc
 <li dir="auto">Existente 1.5 cm (0.13%)</li>
 <li dir="auto">Deseable <strong>3.0 cm (0.25%)</strong> <em>(Aprobado)</em></li>
 <li dir="auto">Normativa 6.0 cm (0.5%)</li>
-<li dir="auto"><span width="300" alt="IMG_20251106_092646-0.jpg" src="IMG_20251106_092646-0.jpg" class="internal-embed media-embed image-embed is-loaded"><img alt="IMG_20251106_092646-0.jpg" width="300" src="app://3c08f60b4657cc3396f7f9bb1353a0c3a4f6/K:/Mi%20unidad/Logsidian/Adjuntos/IMG_20251106_092646-0.jpg?1762736320232"></span></li>
+<li dir="auto"><span width="300" alt="IMG_20251106_092646-0.jpg" src="IMG_20251106_092646-0.jpg" class="internal-embed media-embed image-embed is-loaded"><img alt="IMG_20251106_092646-0.jpg" width="300" src="app://4f137094c93a85815ab36967238ad855bf88/K:/Mi%20unidad/GitHub/logsidian/Adjuntos/IMG_20251106_092646-0.jpg?1762736320232"></span></li>
 </ul>
 </li>
 </ul></span></div><div class="block-dato-parent"><span><ul>
 <li dir="auto">Altura PB y Losa Techo <a href="#dato" class="tag" target="_blank" rel="noopener nofollow">#dato</a>
 <ul>
 <li dir="auto"><strong>3.78 m</strong> </li>
-<li dir="auto"><span width="200" alt="IMG_20251106_093245-0.jpg" src="IMG_20251106_093245-0.jpg" class="internal-embed media-embed image-embed is-loaded"><img alt="IMG_20251106_093245-0.jpg" width="200" src="app://3c08f60b4657cc3396f7f9bb1353a0c3a4f6/K:/Mi%20unidad/Logsidian/Adjuntos/IMG_20251106_093245-0.jpg?1762734837113"></span></li>
+<li dir="auto"><span width="300" alt="IMG_20251106_093245-0.jpg" src="IMG_20251106_093245-0.jpg" class="internal-embed media-embed image-embed is-loaded"><img alt="IMG_20251106_093245-0.jpg" width="300" src="app://4f137094c93a85815ab36967238ad855bf88/K:/Mi%20unidad/GitHub/logsidian/Adjuntos/IMG_20251106_093245-0.jpg?1762734702168"></span></li>
 </ul>
 </li>
 </ul></span></div><div class="block-dato-parent"><span><ul>
